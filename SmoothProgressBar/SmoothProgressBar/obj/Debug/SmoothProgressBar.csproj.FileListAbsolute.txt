@@ -1,0 +1,8 @@
+J:\Drive-D\Projects\SmoothProgressBar\SmoothProgressBar\bin\Debug\SmoothProgressBar.dll
+J:\Drive-D\Projects\SmoothProgressBar\SmoothProgressBar\bin\Debug\SmoothProgressBar.pdb
+J:\Drive-D\Projects\SmoothProgressBar\SmoothProgressBar\obj\Debug\ResolveAssemblyReference.cache
+J:\Drive-D\Projects\SmoothProgressBar\SmoothProgressBar\obj\Debug\SmoothProgressBar.SmoothProgressBar.resources
+J:\Drive-D\Projects\SmoothProgressBar\SmoothProgressBar\obj\Debug\ResGen.read.1.tlog
+J:\Drive-D\Projects\SmoothProgressBar\SmoothProgressBar\obj\Debug\ResGen.write.1.tlog
+J:\Drive-D\Projects\SmoothProgressBar\SmoothProgressBar\obj\Debug\SmoothProgressBar.dll
+J:\Drive-D\Projects\SmoothProgressBar\SmoothProgressBar\obj\Debug\SmoothProgressBar.pdb

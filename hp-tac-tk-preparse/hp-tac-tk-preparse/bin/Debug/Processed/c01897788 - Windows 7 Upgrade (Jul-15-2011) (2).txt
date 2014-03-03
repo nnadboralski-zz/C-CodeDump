@@ -1,0 +1,1130 @@
+
+=============================================================
+ Windows-7 Upgrade
+=============================================================
+
+
+Log=6JW7EXPUP - Windows-7 Upgrade
+
+
+
+-------------------------------------------------------------
+1 Important: Refer to Alert-2919
+-------------------------------------------------------------
+
+
+
+-------------------------------------------------------------
+2 FAQ about the Windows-7 Upgrade Option Program.
+-------------------------------------------------------------
+
+
+2.1 Click here for instructions. This document can be e-mailed to the customer.
+
+ShowCheckBox=Customer Educated
+EndLevel2Code=Provided HP Document
+template=Concentra_Frame
+CID=c01745265
+
+
+2.1.1 When you End the service ticket this session will be logged.
+
+
+-------------------------------------------------------------
+3 What you need to know before upgrading to Windows-7.
+-------------------------------------------------------------
+
+
+3.1 Click here for instructions. This document can be e-mailed to the customer.
+
+ShowCheckBox=Customer Educated
+EndLevel2Code=Provided HP Document
+template=Concentra_Frame
+CID=c01778879
+
+
+3.1.1 When you End the service ticket this session will be logged.
+
+
+-------------------------------------------------------------
+4 The customer has a Windows-7 upgrade disc.
+-------------------------------------------------------------
+
+
+4.1 Where did you receive the upgrade disc from?
+
+4.2 The Windows-7 upgrade was obtained from another source.
+
+4.2.1 Refer to Microsoft or place of purchase for support.
+
+ShowCheckBox=Redirected To Third-Party
+template=Concentra_Frame
+CID=c01778879
+
+
+4.2.1.1 When you End the service ticket this session will be logged.
+
+4.3 The Windows-7 upgrade disc was obtained through the HP upgrade program.
+
+4.3.1 Make sure that the customer has received the correct upgrade version of Windows-7. Vista Basic and Vista Enterprise are not eligible for the upgrade program. Click here for more information.
+
+
+template=Concentra_Frame
+CID=c01745265
+Book=#c01745265_qualify
+
+
+4.3.2 Does the customer have the correct upgrade package?
+
+4.3.3 No, the customer has received the wrong upgrade package.
+
+4.3.3.1 Contact your ASG or Mentor for assistance and refer customer to authorized fulfillment center (Arvato).
+
+Log=Referring to ASG or Mentor for assistance.
+ShowCheckBox=Escalated
+EndLevel2Code=ASG Or Mentor
+
+
+4.3.3.1.1 Please submit Knowledge Feedback with the resolution from the escalation. Click here for instructions.
+
+template=Doc_External
+Doc_Link=https://prp.atlanta.hp.com/adt/new_agent/development/07_manual_clkm.htm
+
+
+4.3.3.1.2 When you End the service ticket this session will be logged. Thank you.
+
+4.3.4 Yes, the customer has received the correct upgrade package.
+
+4.3.4.1 Please select the problem you are having from the list.
+
+4.3.4.2 Problems installing the Windows-7 Upgrade.
+
+4.3.4.2.1 Please select the problem you are experiencing from the list below: 
+
+4.3.4.2.2 The Windows-7 installation DVD or HP upgrade assistant DVD is not recognized.
+
+4.3.4.2.2.1 Insert a commercially stamped DVD into drive to check if the computer is detecting the disc.
+
+4.3.4.2.2.1.1 Is the disc being recognized by the computer?
+
+4.3.4.2.2.1.2 Yes, a different disc is recognized by the computer.
+
+4.3.4.2.2.1.2.1 Inform customer that the Windows 7 Upgrade Option Program from HP is now closed. Refer customer to HP's 'FAQ about Windows 7 Upgrade Option Program.'
+
+ShowCheckBox=Redirected Within HP
+EndLevel2Code=Referred To HP Documentation
+CID=c01745265
+template=Concentra_Frame
+
+
+4.3.4.2.2.1.2.1.1 When you End the service ticket this session will be logged.
+
+4.3.4.2.2.1.3 No, a different disc is not recognized by the computer.
+
+4.3.4.2.2.1.3.1 Click here to connect to the CD/DVD Troubleshooter logic flow. 
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01895770
+Node=root
+
+
+4.3.4.2.3 The Windows-7 upgrade installation reverts back to Windows Vista.
+
+4.3.4.2.3.1 Remove everything connected to the computer and re-connect monitor, mouse and keyboard.
+
+4.3.4.2.3.1.1 Go to Start, and in the Search programs and files field type in HP Support Assistant. At the top of the list click on HP Support Assistant. Click here for more information.
+
+template=Concentra_Frame
+CID=c00849402
+Book=#c00849402_windows
+
+
+4.3.4.2.3.1.1.1 NOTE: Diagnostics are not available on Fall 2010 models containing the Narra5 Motherboard. Check specifications to confirm.
+
+4.3.4.2.3.1.1.2 Click on the Troubleshoot option.
+
+4.3.4.2.3.1.1.2.1 Click on the Performance and Software category 
+
+4.3.4.2.3.1.1.2.1.1 Run the HP System Board Check.
+
+4.3.4.2.3.1.1.2.1.1.1 Did HP System Board Check produce an error code?
+
+4.3.4.2.3.1.1.2.1.1.1.1 Yes. HP System Board Check produced an error code.
+
+4.3.4.2.3.1.1.2.1.1.1.1.1 At this time we have determined that there is a hardware failure with the Motherboard.
+
+4.3.4.2.3.1.1.2.1.1.1.1.1.1 Transfer to a Hardware Dispatch agent OR create a service for the hardware failure, whichever is appropriate. The service order notes should identify the symptoms and any other details of the failure.
+
+Log=Setting up service for Motherboard
+ShowCheckBox=Serviced PC - Unit Serviced
+
+
+4.3.4.2.3.1.1.2.1.1.1.1.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+4.3.4.2.3.1.1.2.1.1.1.2 No. HP System Board Check did not produce an error code.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1 Click on the Troubleshoot option to return to the category screen. 
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1 Click on the Storage Devices category.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1 Run the HP HDD Check.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1 Did HP HDD Check produce an error code?
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.1 Yes, HP HDD Check produced an error code.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.1.1 At this time we have determined that there is a hardware failure with the Hard Drive.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.1.1.1 Transfer to a Hardware Dispatch agent OR create a service for the hardware failure, whichever is appropriate. The service order notes should identify the symptoms and any other details of the failure.
+
+Log=Service for replacement hard drive.
+ShowCheckBox=Serviced PC - Part Dispatched
+EndLevel2Code=Hard Drive
+
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.1.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2 No, HP HDD Check did not produce an error code.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1 Open the file named 'Windows Compatibility Report' found on the Windows Desktop.
+
+Log=Opened compatibility report found on the Windows Desktop
+template=Concentra_Frame
+CID=c01778879
+
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.1 Was the 'Windows Compatibility Report' found on the Windows Desktop?
+
+Log=Was the compatibility report found on the desktop?
+
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.2 Yes, there is a report found on the Windows desktop.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.2.1 Proceed with the recommended steps outlined in the compatibility report.
+
+template=Concentra_Frame
+CID=c01778879
+
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.2.1.1 Re-attempt the Windows-7 installation after performing the recommended steps.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.2.1.1.1 Did the Windows-7 installation complete successfully?
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.2.1.1.2 Yes, the Windows-7 installation completed successfully.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.2.1.1.2.1 This problem has been resolved.
+
+ShowCheckBox=Reconfigured PC Software
+EndLevel2Code=Followed Microsoft Document
+
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.2.1.1.2.1.1 When you End the service ticket this session will be logged.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.2.1.1.3 No, the Windows-7 installation did not complete successfully?
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.2.1.1.3.1 Go to hp.com and download and install any firmware and driver updates.
+
+
+template=Concentra_Frame
+CID=bph07165
+
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.2.1.1.3.1.1 Did the Windows-7 setup complete after installing the firmware and driver updates?
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.2.1.1.3.1.2 Yes, the Windows-7 setup completed after installing firmware and driver updates.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.2.1.1.3.1.2.1 This problem has been resolved.
+
+ShowCheckBox=Reconfigured PC Software
+EndLevel2Code=Ran HP Updates
+
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.2.1.1.3.1.2.1.1 When you End the service ticket this session will be logged.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.2.1.1.3.1.3 No, the Windows-7 setup did not complete after installing firmware and driver updates.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.2.1.1.3.1.3.1 Contact your ASG or Mentor for assistance.
+
+Log=Referring to ASG or Mentor for assistance.
+ShowCheckBox=Escalated
+EndLevel2Code=ASG Or Mentor
+
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.2.1.1.3.1.3.1.1 Please submit Knowledge Feedback with the resolution from the escalation. Click here for instructions.
+
+template=Doc_External
+Doc_Link=https://prp.atlanta.hp.com/adt/new_agent/development/07_manual_clkm.htm
+
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.2.1.1.3.1.3.1.2 When you End the service ticket this session will be logged. Thank you.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3 No, there is no report on the Windows desktop.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3.1 To run the compatibility report insert the Windows-7 upgrade disc. Then select 'Check compatibility online'.
+
+Log=Ran the compatibility report
+
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3.1.1 Did the compatibility report list any problems?
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3.1.2 Yes, there were problems listed in the report.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3.1.2.1 Proceed with the recommended steps outlined in the compatibility report.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3.1.2.1.1 Go to hp.com and download and install any firmware and driver updates.
+
+
+template=Concentra_Frame
+CID=bph07165
+
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3.1.2.1.1.1 Did the Windows-7 setup complete after installing the firmware and driver updates?
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3.1.2.1.1.2 Yes, the Windows-7 setup completed after installing firmware and driver updates.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3.1.2.1.1.2.1 This problem has been resolved.
+
+ShowCheckBox=Reconfigured PC Software
+EndLevel2Code=Ran HP Updates
+
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3.1.2.1.1.2.1.1 When you End the service ticket this session will be logged.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3.1.2.1.1.3 No, the Windows-7 setup did not complete after installing firmware and driver updates.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3.1.2.1.1.3.1 Contact your ASG or Mentor for assistance.
+
+Log=Referring to ASG or Mentor for assistance.
+ShowCheckBox=Escalated
+EndLevel2Code=ASG Or Mentor
+
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3.1.2.1.1.3.1.1 Please submit Knowledge Feedback with the resolution from the escalation. Click here for instructions.
+
+template=Doc_External
+Doc_Link=https://prp.atlanta.hp.com/adt/new_agent/development/07_manual_clkm.htm
+
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3.1.2.1.1.3.1.2 When you End the service ticket this session will be logged. Thank you.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3.1.3 No, there were not any problems listed in the report.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3.1.3.1 Go to hp.com and download and install any firmware and driver updates.
+
+
+template=Concentra_Frame
+CID=bph07165
+
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3.1.3.1.1 Did the Windows-7 setup complete after installing the firmware and driver updates?
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3.1.3.1.2 Yes, the Windows-7 setup completed after installing firmware and driver updates.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3.1.3.1.2.1 This problem has been resolved.
+
+ShowCheckBox=Reconfigured PC Software
+EndLevel2Code=Ran HP Updates
+
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3.1.3.1.2.1.1 When you End the service ticket this session will be logged.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3.1.3.1.3 No, the Windows-7 setup did not complete after installing firmware and driver updates.
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3.1.3.1.3.1 Contact your ASG or Mentor for assistance.
+
+Log=Referring to ASG or Mentor for assistance.
+ShowCheckBox=Escalated
+EndLevel2Code=ASG Or Mentor
+
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3.1.3.1.3.1.1 Please submit Knowledge Feedback with the resolution from the escalation. Click here for instructions.
+
+template=Doc_External
+Doc_Link=https://prp.atlanta.hp.com/adt/new_agent/development/07_manual_clkm.htm
+
+
+4.3.4.2.3.1.1.2.1.1.1.2.1.1.1.1.2.1.3.1.3.1.3.1.2 When you End the service ticket this session will be logged. Thank you.
+
+4.3.4.2.4 The Upgrade stops part way through the process.
+
+4.3.4.2.4.1 Which part of the installation were you performing when the upgrade stopped?
+
+4.3.4.2.4.2 The upgrade stopped during the HP Upgrade assistant.
+
+4.3.4.2.4.2.1 User Account Control notifications were open in the background (Taskbar).
+
+4.3.4.2.4.2.1.1 Press 'Yes' to continue and accept the changes.
+
+Log=Pressed yes to continue
+
+
+4.3.4.2.4.2.1.1.1 Did the setup continue after selecting 'Yes'?
+
+Log=Did the setup continue
+
+
+4.3.4.2.4.2.1.1.2 Yes, the setup continued after allowing the 'User Account Control'.
+
+Log=The setup continued after allowing the user account control
+
+
+4.3.4.2.4.2.1.1.2.1 This problem has been resolved.
+
+ShowCheckBox=Reconfigured PC Software
+EndLevel2Code=Adjusted Security Settings
+
+
+4.3.4.2.4.2.1.1.2.1.1 When you End the service ticket this session will be logged.
+
+4.3.4.2.4.2.1.1.3 No, the setup did not continue after allowing the 'User Account Control'.
+
+Log=The setup did not continue after allowing the User Account Control
+
+
+4.3.4.2.4.2.1.1.3.1 Contact your ASG or Mentor for assistance.
+
+Log=Referring to ASG or Mentor for assistance.
+ShowCheckBox=Escalated
+EndLevel2Code=ASG Or Mentor
+
+
+4.3.4.2.4.2.1.1.3.1.1 Please submit Knowledge Feedback with the resolution from the escalation. Click here for instructions.
+
+template=Doc_External
+Doc_Link=https://prp.atlanta.hp.com/adt/new_agent/development/07_manual_clkm.htm
+
+
+4.3.4.2.4.2.1.1.3.1.2 When you End the service ticket this session will be logged. Thank you.
+
+4.3.4.2.4.3 The upgrade stopped during the Windows-7 installation.
+
+4.3.4.2.4.3.1 Make sure that there has been no hard drive, CD/DVD or screen activity for at least fifteen minutes.
+
+4.3.4.2.4.3.1.1 Remove everything connected to the computer and re-connect monitor, mouse and keyboard.
+
+4.3.4.2.4.3.1.1.1 Did the Windows-7 installation complete after removing the hardware from the computer?
+
+4.3.4.2.4.3.1.1.2 Yes, the Windows-7 installation completed after removing the hardware.
+
+4.3.4.2.4.3.1.1.2.1 This problem has been resolved.
+
+ShowCheckBox=Reconfigured PC Hardware
+EndLevel2Code=Disconnected External Devices
+
+
+4.3.4.2.4.3.1.1.2.1.1 When you End the service ticket this session will be logged.
+
+4.3.4.2.4.3.1.1.3 No, the Windows-7 installation did not complete after removing the hardware.
+
+4.3.4.2.4.3.1.1.3.1 Go to hp.com and download and install the latest BIOS update (If available).
+
+
+template=Concentra_Frame
+CID=c00007682
+
+
+4.3.4.2.4.3.1.1.3.1.1 After installing the update, run Windows-7 setup. Did the Windows-7 installation complete after installing the BIOS update?
+
+4.3.4.2.4.3.1.1.3.1.2 Yes, the Windows-7 setup completed after updating the BIOS.
+
+4.3.4.2.4.3.1.1.3.1.2.1 This problem has been resolved.
+
+ShowCheckBox=Reconfigured PC Software
+EndLevel2Code=Ran BIOS Update
+
+
+
+4.3.4.2.4.3.1.1.3.1.2.1.1 When you End the service ticket this session will be logged.
+
+4.3.4.2.4.3.1.1.3.1.3 No, the Windows-7 setup was hanging again, after installing the BIOS update from hp.com or no BIOS update was available.
+
+4.3.4.2.4.3.1.1.3.1.3.1 Remove the Windows-7 disc from the CD/DVD drive and restart the computer into Windows Vista.
+
+4.3.4.2.4.3.1.1.3.1.3.1.1 Did the computer boot into Windows Vista?
+
+4.3.4.2.4.3.1.1.3.1.3.1.2 Yes, Windows Vista started up correctly.
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1 Go to Start and in the Search programs and files field type in Defender. Then at the top of the list click on 'Windows Defender' and click 'Scan'.
+
+Log=Opened Windows Defender
+template=Concentra_Frame
+CID=bph07130
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.1 Did Windows Defender detect a virus?
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.2 Yes, Windows Defender detected a virus.
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.2.1 Be transferred to HP Fee-based support called PC Tune-up - there they can assist you with your computer to optimize the system performance.
+
+Log=Referred to PC Tune-up.
+template=Doc_External
+Doc_Link=http://www.hp.com/go/pctuneup
+ShowCheckBox=Redirected Within HP
+EndLevel2Code=SmartFriend
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.2.1.1 When you End the service ticket this session will be logged.
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3 No, Windows Defender did not detect a virus.
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1 Go to Start and in the Search programs and files field type in Programs and Features. Then at the top of the list click on 'Programs and Features'.
+
+Log=Opened programs and features
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1 Look for antivirus software, then select 'Uninstall' up at the top, Restart your computer.
+
+Log=Uninstalled antivirus software
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.1 Perform a clean boot in Windows Vista, then attempt reinstall of Windows-7. Click here for detailed instructions.
+
+template=Doc_External
+Doc_Link=http://support.microsoft.com/kb/929135
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2 Did removing the antivirus software and performing a clean boot resolve the installation problem with Windows-7?
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.1 Yes, the Windows-7 setup completed after removing antivirus and performing a clean boot of the computer.
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.1.1 This problem has been resolved.
+
+ShowCheckBox=Reconfigured PC Software
+EndLevel2Code=Uninstalled Anti-Virus And Firewall Software
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.1.1.1 When you End the service ticket this session will be logged.
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2 No, the Windows-7 setup did not complete after removing antivirus and performing a clean boot of the computer.
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1 Turn the computer off and wait five seconds. Turn the computer on and press the F10 key immediately. Click here for detailed instructions.
+
+Log=Load to the BIOS and run the SMART test.
+template=Concentra_Frame
+CID=c00386164
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1 Run the short SMART hard drive or DPS test from the BIOS. If you ran the short test and it passed, then run the long SMART test as well. Click here for instructions.
+
+Log=Ran hard drive self test
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.1 For instructions on getting to the DPS test from BIOS click here.
+
+template=Concentra_Frame
+CID=c02679517
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.2 Select the results of your tests from below.
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.3 Any of the available BIOS hard drive test(s) failed.
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.3.1 An HP System Recovery needs to be performed. An HP Recovery resets your computer to its original configuration from the factory. Data loss could result. Data back up is recommended. Click here to proceed with instructions on backing up data.
+
+template=Concentra_Frame
+CID=c00814731
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.3.2 Note: Before starting the HP System Recovery everything connected to the computer must be unplugged. For example: Internet cable, printers, cameras, cell phones, mouse, keyboard, monitor, etc. 
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.3.3 If any internal parts such as a video card or a sound card were installed, they must be removed before continuing to the next step. 
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.3.3.1 Reconnect the original power cord, monitor, mouse and keyboard into the computer.
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.3.3.1.1 Start the HP Recovery. Click here for instructions.
+
+template=Concentra_Frame
+CID=c00814731
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.3.3.1.1.1 Did the computer recover successfully back into Windows Vista.
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.3.3.1.1.2 Yes, the computer recovered successfully back to Windows Vista.
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.3.3.1.1.2.1 Re-attempt the installation of Windows-7.
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.3.3.1.1.2.1.1 Did the Windows-7 install successfully?
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.3.3.1.1.2.1.2 Yes, the installation of Windows-7 was successful.
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.3.3.1.1.2.1.2.1 This problem has been resolved.
+
+ShowCheckBox=Ran Recovery
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.3.3.1.1.2.1.2.1.1 When you End the service ticket this session will be logged.
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.3.3.1.1.2.1.3 No, the installation of Windows-7 was not successful.
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.3.3.1.1.2.1.3.1 Contact your ASG or Mentor for assistance.
+
+Log=Referring to ASG or Mentor for assistance.
+ShowCheckBox=Escalated
+EndLevel2Code=ASG Or Mentor
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.3.3.1.1.2.1.3.1.1 Please submit Knowledge Feedback with the resolution from the escalation. Click here for instructions.
+
+template=Doc_External
+Doc_Link=https://prp.atlanta.hp.com/adt/new_agent/development/07_manual_clkm.htm
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.3.3.1.1.2.1.3.1.2 When you End the service ticket this session will be logged. Thank you.
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.3.3.1.1.3 No, the computer did not recover successfully back to Windows Vista.
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.3.3.1.1.3.1 Click here to connect to the Windows Vista Recovery Failure logic flow.
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01114803
+Node=root
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.4 All of the available BIOS hard drive test(s) passed.
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.4.1 At this time we have determined that there is a hardware failure with the Hard Drive.
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.4.1.1 Transfer to a Hardware Dispatch agent OR create a service for the hardware failure, whichever is appropriate. The service order notes should identify the symptoms and any other details of the failure.
+
+Log=Service for replacement hard drive.
+ShowCheckBox=Serviced PC - Part Dispatched
+EndLevel2Code=Hard Drive
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.2.1.3.1.1.2.2.1.1.4.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+4.3.4.2.4.3.1.1.3.1.3.1.3 No, Windows Vista did not startup correctly.
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1 When the first screen displays, immediately press the F10 key, to enter the BIOS setup.
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1 Run the short SMART hard drive or DPS test from the BIOS. If you ran the short test and it passed, then run the long SMART test as well. Click here for instructions.
+
+Log=Load to the BIOS and run the hard drive self test.
+template=Concentra_Frame
+CID=c00386164
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.1 For instructions on getting to the DPS test from BIOS click here.
+
+template=Concentra_Frame
+CID=c02679517
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.2 Select the results of your tests from below.
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.3 Any of the available BIOS hard drive test(s) failed.
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.3.1 An HP System Recovery needs to be performed. An HP Recovery resets your computer to its original configuration from the factory. Data loss could result. Data back up is recommended. Click here to proceed with instructions on backing up data.
+
+template=Concentra_Frame
+CID=c00814731
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.3.1.1 Note: Before starting the HP System Recovery everything connected to the computer must be unplugged. For example: Internet cable, printers, cameras, cell phones, mouse, keyboard, monitor, etc. 
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.3.1.2 If any internal parts such as a video card or a sound card were installed, they must be removed before continuing to the next step. 
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.3.1.2.1 Reconnect the original power cord, monitor, mouse and keyboard into the computer.
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.3.1.2.1.1 Start the HP Recovery. Click here for instructions.
+
+template=Concentra_Frame
+CID=c00814731
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.3.1.2.1.1.1 Was the HP System Recovery successful?
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.3.1.2.1.1.2 Yes, the computer recovered successfully back to Windows Vista.
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.3.1.2.1.1.2.1 Please attempt a reinstall of Windows-7. Click here for detailed instructions.
+
+template=Doc_External
+Doc_Link=http://support.microsoft.com/kb/929135
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.3.1.2.1.1.2.1.1 Was the Windows-7 installation successful?
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.3.1.2.1.1.2.1.2 Yes, the Windows 7 installation was successful.
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.3.1.2.1.1.2.1.2.1 This problem has been resolved.
+
+ShowCheckBox=Ran Recovery
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.3.1.2.1.1.2.1.2.1.1 When you End the service ticket this session will be logged.
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.3.1.2.1.1.2.1.3 No, the Windows 7 installation was not successful.
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.3.1.2.1.1.2.1.3.1 Contact your ASG or Mentor for assistance and refer customer to authorized fulfillment center (Arvato).
+
+Log=Referring to ASG or Mentor for assistance.
+ShowCheckBox=Escalated
+EndLevel2Code=ASG Or Mentor
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.3.1.2.1.1.2.1.3.1.1 Please submit Knowledge Feedback with the resolution from the escalation. Click here for instructions.
+
+template=Doc_External
+Doc_Link=https://prp.atlanta.hp.com/adt/new_agent/development/07_manual_clkm.htm
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.3.1.2.1.1.2.1.3.1.2 When you End the service ticket this session will be logged. Thank you.
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.3.1.2.1.1.3 No, the computer did not recover successfully back to Windows Vista.
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.3.1.2.1.1.3.1 Click here to connect to the Windows Vista Recovery Failure logic flow.
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01114803
+Node=root
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.4 All of the available BIOS hard drive test(s) passed.
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.4.1 At this time we have determined that there is a hardware failure with the Hard Drive.
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.4.1.1 Transfer to a Hardware Dispatch agent OR create a service for the hardware failure, whichever is appropriate. The service order notes should identify the symptoms and any other details of the failure.
+
+Log=Service for replacement hard drive.
+ShowCheckBox=Serviced PC - Part Dispatched
+EndLevel2Code=Hard Drive
+
+
+4.3.4.2.4.3.1.1.3.1.3.1.3.1.1.4.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+4.3.4.2.5 Windows-7 is not accepting the product key.
+
+4.3.4.2.5.1 Windows-7 is not accepting the product key.
+
+4.3.4.2.5.2 Note: The Microsoft Certificate of Authenticity may contain the characters O, 0, B, and 8 and may be difficult to read, please make sure the customer is typing in the correct characters.
+
+4.3.4.2.5.3 Have the customer retype the product key for Windows-7.
+
+template=Concentra_Frame
+CID=c01778879
+
+
+4.3.4.2.5.3.1 Did the Windows-7 setup complete after retyping the product key?
+
+4.3.4.2.5.3.2 Yes, the Windows-7 setup completed after retyping the product key.
+
+4.3.4.2.5.3.2.1 This problem has been resolved.
+
+ShowCheckBox=Reconfigured PC Software
+EndLevel2Code=Reconfigured Application Settings
+
+
+4.3.4.2.5.3.2.1.1 When you End the service ticket this session will be logged.
+
+4.3.4.2.5.3.3 No, the setup is still blocked after retyping the product key.
+
+4.3.4.2.5.3.3.1 Contact your ASG or Mentor for assistance.
+
+Log=Referring to ASG or Mentor for assistance.
+ShowCheckBox=Escalated
+EndLevel2Code=ASG Or Mentor
+
+
+4.3.4.2.5.3.3.1.1 Please submit Knowledge Feedback with the resolution from the escalation. Click here for instructions.
+
+template=Doc_External
+Doc_Link=https://prp.atlanta.hp.com/adt/new_agent/development/07_manual_clkm.htm
+
+
+4.3.4.2.5.3.3.1.2 When you End the service ticket this session will be logged. Thank you.
+
+4.3.4.2.6 The upgrade stops responding (hangs) at exactly '62'%. Click here for instructions. 
+
+Log=The upgrade hangs during the installation
+template=Doc_External
+Doc_link=http://support.microsoft.com/kb/975253
+
+
+4.3.4.2.6.1 Click here for instructions. 
+
+template=Doc_External
+Doc_link=http://support.microsoft.com/kb/975253
+
+
+4.3.4.2.6.1.1 Did the following document resolve the customers problem?
+
+4.3.4.2.6.1.2 Yes, the document resolved the customers problem.
+
+4.3.4.2.6.1.2.1 This problem has been resolved.
+
+ShowCheckBox=Reconfigured PC Software
+EndLevel2Code=Followed Microsoft Document
+
+
+4.3.4.2.6.1.2.1.1 When you End the service ticket this session will be logged.
+
+4.3.4.2.6.1.3 No, the document did not resolve the customers problem.
+
+4.3.4.2.6.1.3.1 Contact your ASG or Mentor for assistance.
+
+Log=Referring to ASG or Mentor for assistance.
+ShowCheckBox=Escalated
+EndLevel2Code=ASG Or Mentor
+
+
+4.3.4.2.6.1.3.1.1 Please submit Knowledge Feedback with the resolution from the escalation. Click here for instructions.
+
+template=Doc_External
+Doc_Link=https://prp.atlanta.hp.com/adt/new_agent/development/07_manual_clkm.htm
+
+
+4.3.4.2.6.1.3.1.2 When you End the service ticket this session will be logged. Thank you.
+
+4.3.4.3 Problems after installing the Windows-7 Upgrade.
+
+4.3.4.3.1 'The Product Key You Have Entered is Invalid for Activation' error message.
+
+Log=The Product Key You Have Entered is Invalid for Activation error message.
+
+
+4.3.4.3.1.1 Make sure the customer is using the Microsoft Certificate of Authenticity from the Upgrade kit and not the one on the side or back of the computer.
+
+4.3.4.3.1.1.1 Note: The Microsoft Certificate of Authenticity may contain the characters Q, 0 (zero), B, and 8 and may be difficult to read, please make sure the customer is typing in the correct characters.
+
+4.3.4.3.1.1.2 Refer to Microsoft Windows Product Activation document.
+
+template=Doc_External
+Doc_Link=http://windows.microsoft.com/en-us/windows7/Windows-7-activation-error-invalid-product-key
+ShowCheckBox=Redirected To Third-Party
+
+
+4.3.4.3.1.1.2.1 When you End the service ticket this session will be logged.
+
+4.3.4.3.2 No Multi-touch after upgrading to Windows-7 (TouchSmart only).
+
+4.3.4.3.2.1 Go to hp.com to download the updated multitouch driver.
+
+4.3.4.3.2.1.1 Did the updated multi-touch driver resolve this problem?
+
+4.3.4.3.2.1.2 Yes, the updated multi-touch driver resolved this problem.
+
+4.3.4.3.2.1.2.1 This problem has been resolved.
+
+ShowCheckBox=Reconfigured PC Software
+EndLevel2Code=Ran HP Updates
+
+
+4.3.4.3.2.1.2.1.1 When you End the service ticket this session will be logged.
+
+4.3.4.3.2.1.3 No, the updated multitouch driver did not resolve this problem.
+
+4.3.4.3.2.1.3.1 Click here to connect to the Touch Screen problems logic flow.
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01895853 
+Node=root
+
+
+4.3.4.3.3 Aero missing after Windows-7 upgrade installation.
+
+4.3.4.3.3.1 Go to Start, Control Panel and then System and Security then click on System. 
+
+4.3.4.3.3.1.1 Click on the link 'Windows Experience Index' and re-run the test.
+
+Log=Clicked on the Windows Experience Index link
+template=Concentra_Frame
+CID=c01884573
+
+
+4.3.4.3.3.1.1.1 Did re-running the test resolve the Aero problem?
+
+4.3.4.3.3.1.1.2 Yes, re-running the test resolved the Aero problem.
+
+ShowCheckBox=Reconfigured PC Software
+EndLevel2Code=Ran Windows Experience Index
+
+
+4.3.4.3.3.1.1.2.1 When you End the service ticket this session will be logged.
+
+4.3.4.3.3.1.1.3 Yes, but some Windows Aero features do not work.
+
+4.3.4.3.3.1.1.3.1 The problem has changed, restart the Logic Flow following the 'Some Aero features do not work.' branch.
+
+Log=Restart Logic Flow using Some Windows Aero features do not work.
+ShowCheckBox=Tree
+
+
+4.3.4.3.3.1.1.4 No, re-running the test did not resolve the Aero problem.
+
+4.3.4.3.3.1.1.4.1 Run the Windows Aero Troubleshooter. Click here for instructions.
+
+
+Log=Ran the Windows Aero Troubleshooter
+template=Doc_external
+Doc_link=http://windows.microsoft.com/en-us/windows7/Open-the-Aero-troubleshooter
+
+
+4.3.4.3.3.1.1.4.1.1 Is the Problem resolved?
+
+4.3.4.3.3.1.1.4.1.2 Yes, the problem is resolved.
+
+ShowCheckBox=Ran Microsoft Automated Troubleshooter
+
+
+4.3.4.3.3.1.1.4.1.2.1 When you End the service ticket this session will be logged.
+
+4.3.4.3.3.1.1.4.1.3 No, the problem is not resolved.
+
+4.3.4.3.3.1.1.4.1.3.1 Re-enable Windows Aero. Click here for instructions.
+
+template=Concentra_Frame
+CID=c01169948
+
+
+4.3.4.3.3.1.1.4.1.3.1.1 Did Windows Aero enable?
+
+4.3.4.3.3.1.1.4.1.3.1.2 Yes, the problem is resolved.
+
+
+
+
+
+
+
+
+ShowCheckBox=Reconfigured PC Software
+EndLevel2Code=Reconfigured Aero
+
+
+
+4.3.4.3.3.1.1.4.1.3.1.2.1 When you End the service ticket this session will be logged.
+
+4.3.4.3.3.1.1.4.1.3.1.3 No, the problem is not resolved.
+
+4.3.4.3.3.1.1.4.1.3.1.3.1 Go to hp.com and install the newest graphics card driver.
+
+Log=Update drivers from HP
+template=Doc_external
+Doc_link=http://www.hp.com/support/
+
+
+4.3.4.3.3.1.1.4.1.3.1.3.1.1 Is the problem resolved?
+
+4.3.4.3.3.1.1.4.1.3.1.3.1.2 Yes, the problem is resolved.
+
+
+
+ShowCheckBox=Reconfigured PC Software
+EndLevel2Code=Ran HP Updates
+
+
+4.3.4.3.3.1.1.4.1.3.1.3.1.2.1 When you End the service ticket this session will be logged.
+
+4.3.4.3.3.1.1.4.1.3.1.3.1.3 No, the problem is not resolved.
+
+4.3.4.3.3.1.1.4.1.3.1.3.1.3.1 Restart the computer.
+
+4.3.4.3.3.1.1.4.1.3.1.3.1.3.1.1 Did Windows Aero enable?
+
+4.3.4.3.3.1.1.4.1.3.1.3.1.3.1.2 Yes, the problem is resolved.
+
+
+
+
+
+
+
+
+ShowCheckBox=Reconfigured PC Software
+EndLevel2Code=Restarted PC
+
+
+
+4.3.4.3.3.1.1.4.1.3.1.3.1.3.1.2.1 When you End the service ticket this session will be logged.
+
+4.3.4.3.3.1.1.4.1.3.1.3.1.3.1.3 Yes, but some Windows Aero features do not work.
+
+4.3.4.3.3.1.1.4.1.3.1.3.1.3.1.3.1 The problem has changed, restart the Logic Flow following the 'Some Aero features do not work.' branch.
+
+Log=Restart Logic Flow using Some Windows Aero features do not work.
+ShowCheckBox=Tree
+
+
+4.3.4.3.3.1.1.4.1.3.1.3.1.3.1.4 No, the problem is not resolved.
+
+4.3.4.3.3.1.1.4.1.3.1.3.1.3.1.4.1 Contact your ASG or Mentor for assistance.
+
+Log=Referring to ASG or Mentor for assistance.
+ShowCheckBox=Escalated
+EndLevel2Code=ASG Or Mentor
+
+
+4.3.4.3.3.1.1.4.1.3.1.3.1.3.1.4.1.1 Please submit Knowledge Feedback with the resolution from the escalation. Click here for instructions.
+
+template=Doc_External
+Doc_Link=https://prp.atlanta.hp.com/adt/new_agent/development/07_manual_clkm.htm
+
+
+4.3.4.3.3.1.1.4.1.3.1.3.1.3.1.4.1.2 When you End the service ticket this session will be logged. Thank you.
+
+4.3.4.3.4 Poor performance from the computer after upgrading to Windows-7.
+
+4.3.4.3.4.1 Click here to connect to the Poor Performance Troubleshooter logic flow. 
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01895813
+Node=root
+
+
+4.3.4.3.5 Unable to install Cyberlink DVD from the HP Recovery Manager after upgrading to Windows-7.
+
+4.3.4.3.5.1 Go to hp.com and download the HP Recovery Manager Application Update (if available).
+
+template=Doc_external
+Doc_link=Http://www.hp.com/support
+
+
+4.3.4.3.5.1.1 Note: The HP Recovery Manager remains the same as in Vista after the Windows-7 upgrade and will use the Vista documents for instructions.
+
+4.3.4.3.5.1.2 Reinstall Cyberlink DVD from the HP Recovery Manager. Click here for instructions. 
+
+Log=Reinstalling Cyberlink DVD from the HP Recovery Manager.
+CID=c01868333
+template=Concentra_Frame
+
+
+4.3.4.3.5.1.2.1 Please restart the computer. 
+
+4.3.4.3.5.1.2.2 Go to hp.com and download the Cyberlink DVD application update.
+
+template=Doc_external
+Doc_link=Http://www.hp.com/support
+
+
+4.3.4.3.5.1.2.2.1 Install the application update and restart the computer.
+
+4.3.4.3.5.1.2.2.1.1 Did the Cyberlink DVD Application update install properly? 
+
+4.3.4.3.5.1.2.2.1.2 Yes, the application update installed properly.
+
+ShowCheckBox=Reconfigured PC Software
+EndLevel2Code=Uninstalled And Reinstalled Application
+
+
+4.3.4.3.5.1.2.2.1.2.1 When you End the service ticket this session will be logged.
+
+4.3.4.3.5.1.2.2.1.3 No, the application update did not install properly.
+
+4.3.4.3.5.1.2.2.1.3.1 Contact your ASG or Mentor for assistance.
+
+Log=Referring to ASG or Mentor for assistance.
+ShowCheckBox=Escalated
+EndLevel2Code=ASG Or Mentor
+
+
+4.3.4.3.5.1.2.2.1.3.1.1 Please submit Knowledge Feedback with the resolution from the escalation. Click here for instructions.
+
+template=Doc_External
+Doc_Link=https://prp.atlanta.hp.com/adt/new_agent/development/07_manual_clkm.htm
+
+
+4.3.4.3.5.1.2.2.1.3.1.2 When you End the service ticket this session will be logged. Thank you.
+
+4.3.4.4 Customer wants to return to Windows Vista after upgrading to Windows-7.
+
+4.3.4.4.1 An HP System Recovery needs to be performed. An HP Recovery resets your computer to its original configuration from the factory. Data loss could result. Data back up is recommended. Click here to proceed with instructions on backing up data.
+
+template=Concentra_Frame
+CID=c00814731
+
+
+4.3.4.4.1.1 Note: Before starting the HP System Recovery everything connected to the computer must be unplugged. For example: Internet cable, printers, cameras, cell phones, mouse, keyboard, monitor, etc. 
+
+4.3.4.4.1.2 If any internal parts such as a video card or a sound card were installed, they must be removed before continuing to the next step. 
+
+4.3.4.4.1.2.1 Reconnect the original power cord, monitor, mouse and keyboard into the computer.
+
+4.3.4.4.1.2.1.1 Start the HP Recovery. Click here for instructions.
+
+template=Concentra_Frame
+CID=c00814731
+
+
+4.3.4.4.1.2.1.1.1 Was the HP System Recovery successful?
+
+4.3.4.4.1.2.1.1.1.1 Yes, the HP System Recovery completed successfully.
+
+Log=Recovery completed
+
+
+4.3.4.4.1.2.1.1.1.1.1 This problem has been resolved.
+
+ShowCheckBox=Ran Recovery
+
+
+4.3.4.4.1.2.1.1.1.1.1.1 When you End the service ticket this session will be logged.
+
+4.3.4.4.1.2.1.1.1.2 No, the HP System Recovery process did not complete.
+
+Log=Recovery process did NOT complete
+
+
+4.3.4.4.1.2.1.1.1.2.1 Click here to connect to the Windows Vista Recovery Failure logic flow.
+
+Log=Refer to Recovery Failure Logic Flow.
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01109635
+Node=root
+
+
+4.3.4.5 Customer wants a higher version of Windows-7 than the Windows-7 Upgrade program allows.
+
+4.3.4.5.1 Refer customer to Microsoft.
+
+ShowCheckBox=Redirected To Third-Party
+
+
+4.3.4.5.1.1 When you End the service ticket this session will be logged.
+
+
+-------------------------------------------------------------
+5 The customer has not received the Windows-7 upgrade kit.
+-------------------------------------------------------------
+
+
+5.1 Has the upgrade kit been ordered?
+
+5.2 Yes, the kit has been ordered.
+
+5.2.1 Upgrade kits start shipping on Oct-22-2009. Refer to Authorized Fulfillment Center (Arvato) for more information.
+
+ShowCheckBox=Customer Educated
+EndLevel2Code=Product Limitation
+
+
+5.2.1.1 When you End the service ticket this session will be logged.
+
+5.3 No, the kit has not been ordered.
+
+5.3.1 Refer to Agent Alert-2919.
+
+ShowCheckBox=Reconfigured PC Software
+EndLevel2Code=Followed HP Document
+
+
+5.3.1.1 When you End the service ticket this session will be logged.
+
+
+-------------------------------------------------------------
+6 Tree last updated: Jul-15-2011
+-------------------------------------------------------------
+
+

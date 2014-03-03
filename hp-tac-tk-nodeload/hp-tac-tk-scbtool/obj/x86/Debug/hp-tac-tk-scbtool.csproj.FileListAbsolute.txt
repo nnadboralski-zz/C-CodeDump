@@ -1,0 +1,9 @@
+C:\Users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-scbtool\bin\Debug\hp-tac-tk-scbtool.exe
+C:\Users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-scbtool\bin\Debug\hp-tac-tk-scbtool.pdb
+C:\Users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-scbtool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-scbtool\obj\x86\Debug\hp_tac_tk_scbtool.Form1.resources
+C:\Users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-scbtool\obj\x86\Debug\hp_tac_tk_scbtool.Properties.Resources.resources
+C:\Users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-scbtool\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-scbtool\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-scbtool\obj\x86\Debug\hp-tac-tk-scbtool.exe
+C:\Users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-scbtool\obj\x86\Debug\hp-tac-tk-scbtool.pdb

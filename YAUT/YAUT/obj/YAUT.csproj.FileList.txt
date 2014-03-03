@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\YAUT.frmMain.resources
+obj\Debug\YAUT.Properties.Resources.resources
+obj\Debug\YAUT.csproj.GenerateResource.Cache
+bin\Debug\YAUT.exe
+bin\Debug\YAUT.pdb
+bin\Debug\taglib-sharp.dll
+obj\Debug\YAUT.exe
+obj\Debug\YAUT.pdb

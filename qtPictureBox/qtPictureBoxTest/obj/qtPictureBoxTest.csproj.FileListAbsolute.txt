@@ -1,0 +1,10 @@
+D:\Projects\qtPictureBox\qtPictureBoxTest\bin\Debug\qtPictureBoxTest.exe
+D:\Projects\qtPictureBox\qtPictureBoxTest\bin\Debug\qtPictureBoxTest.pdb
+D:\Projects\qtPictureBox\qtPictureBoxTest\bin\Debug\qtPictureBox.dll
+D:\Projects\qtPictureBox\qtPictureBoxTest\bin\Debug\qtPictureBox.pdb
+D:\Projects\qtPictureBox\qtPictureBoxTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\qtPictureBox\qtPictureBoxTest\obj\Debug\qtPictureBoxTest.Form1.resources
+D:\Projects\qtPictureBox\qtPictureBoxTest\obj\Debug\qtPictureBoxTest.Properties.Resources.resources
+D:\Projects\qtPictureBox\qtPictureBoxTest\obj\Debug\qtPictureBoxTest.csproj.GenerateResource.Cache
+D:\Projects\qtPictureBox\qtPictureBoxTest\obj\Debug\qtPictureBoxTest.exe
+D:\Projects\qtPictureBox\qtPictureBoxTest\obj\Debug\qtPictureBoxTest.pdb

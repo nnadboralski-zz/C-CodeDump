@@ -1,0 +1,12 @@
+obj\Debug\qtPlayer.exe
+obj\Debug\qtPlayer.pdb
+bin\Debug\qtPlayer.exe
+bin\Debug\qtPlayer.pdb
+bin\Debug\SmoothProgressBar.dll
+bin\Debug\SmoothProgressBar.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\qtPlayer.frmPlayer.resources
+obj\Debug\qtPlayer.Properties.Resources.resources
+obj\Debug\qtPlayer.csproj.GenerateResource.Cache
+obj\Debug\qtPlayer.frmSettings.resources
+bin\Debug\qtPlayer.exe.config

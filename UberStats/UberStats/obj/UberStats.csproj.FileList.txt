@@ -1,0 +1,5 @@
+obj\Debug\UberStats.exe
+obj\Debug\UberStats.pdb
+bin\Debug\UberStats.exe
+bin\Debug\UberStats.pdb
+obj\Debug\ResolveAssemblyReference.cache

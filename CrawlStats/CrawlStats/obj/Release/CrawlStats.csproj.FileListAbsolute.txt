@@ -1,0 +1,9 @@
+C:\Projects\gitWorthy\CrawlStats\CrawlStats\bin\Release\CrawlStats.exe.config
+C:\Projects\gitWorthy\CrawlStats\CrawlStats\obj\Release\CrawlStats.exe
+C:\Projects\gitWorthy\CrawlStats\CrawlStats\obj\Release\CrawlStats.pdb
+C:\Projects\gitWorthy\CrawlStats\CrawlStats\bin\Release\CrawlStats.exe
+C:\Projects\gitWorthy\CrawlStats\CrawlStats\bin\Release\CrawlStats.pdb
+C:\Projects\gitWorthy\CrawlStats\CrawlStats\obj\Release\CrawlStats.frmMain.resources
+C:\Projects\gitWorthy\CrawlStats\CrawlStats\obj\Release\CrawlStats.frmSettings.resources
+C:\Projects\gitWorthy\CrawlStats\CrawlStats\obj\Release\CrawlStats.Properties.Resources.resources
+C:\Projects\gitWorthy\CrawlStats\CrawlStats\obj\Release\CrawlStats.csproj.GenerateResource.Cache

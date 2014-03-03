@@ -1,0 +1,8 @@
+D:\Projects\UberCatalogue\UberCatalogue\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\UberCatalogue\UberCatalogue\obj\Debug\UberCatalogue.Properties.Resources.resources
+D:\Projects\UberCatalogue\UberCatalogue\obj\Debug\UberCatalogue.csproj.GenerateResource.Cache
+D:\Projects\UberCatalogue\UberCatalogue\bin\Debug\UberCatalogue.exe
+D:\Projects\UberCatalogue\UberCatalogue\bin\Debug\UberCatalogue.pdb
+D:\Projects\UberCatalogue\UberCatalogue\obj\Debug\UberCatalogue.exe
+D:\Projects\UberCatalogue\UberCatalogue\obj\Debug\UberCatalogue.pdb
+D:\Projects\UberCatalogue\UberCatalogue\obj\Debug\UberCatalogue.Form1.resources

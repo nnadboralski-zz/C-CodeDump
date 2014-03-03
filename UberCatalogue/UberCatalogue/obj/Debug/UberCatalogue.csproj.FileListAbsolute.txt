@@ -1,0 +1,10 @@
+K:\Sorting\Drive-D\Projects\UberCatalogue\UberCatalogue\obj\Debug\UberCatalogue.exe
+K:\Sorting\Drive-D\Projects\UberCatalogue\UberCatalogue\obj\Debug\UberCatalogue.pdb
+C:\Projects\gitWorthy\UberCatalogue\UberCatalogue\obj\Debug\UberCatalogue.exe
+C:\Projects\gitWorthy\UberCatalogue\UberCatalogue\obj\Debug\UberCatalogue.pdb
+C:\Projects\gitWorthy\UberCatalogue\UberCatalogue\bin\Debug\UberCatalogue.exe
+C:\Projects\gitWorthy\UberCatalogue\UberCatalogue\bin\Debug\UberCatalogue.pdb
+C:\Projects\gitWorthy\UberCatalogue\UberCatalogue\obj\Debug\UberCatalogue.csprojResolveAssemblyReference.cache
+C:\Projects\gitWorthy\UberCatalogue\UberCatalogue\obj\Debug\UberCatalogue.Form1.resources
+C:\Projects\gitWorthy\UberCatalogue\UberCatalogue\obj\Debug\UberCatalogue.Properties.Resources.resources
+C:\Projects\gitWorthy\UberCatalogue\UberCatalogue\obj\Debug\UberCatalogue.csproj.GenerateResource.Cache

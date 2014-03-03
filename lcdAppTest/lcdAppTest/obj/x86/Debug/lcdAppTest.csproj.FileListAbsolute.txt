@@ -1,0 +1,9 @@
+c:\users\nadboral\documents\visual studio 2010\Projects\lcdAppTest\lcdAppTest\bin\Debug\lcdAppTest.exe
+c:\users\nadboral\documents\visual studio 2010\Projects\lcdAppTest\lcdAppTest\bin\Debug\lcdAppTest.pdb
+c:\users\nadboral\documents\visual studio 2010\Projects\lcdAppTest\lcdAppTest\bin\Debug\GammaJul.LgLcd.pdb
+c:\users\nadboral\documents\visual studio 2010\Projects\lcdAppTest\lcdAppTest\bin\Debug\GammaJul.LgLcd.xml
+c:\users\nadboral\documents\visual studio 2010\Projects\lcdAppTest\lcdAppTest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nadboral\documents\visual studio 2010\Projects\lcdAppTest\lcdAppTest\obj\x86\Debug\lcdAppTest.exe
+c:\users\nadboral\documents\visual studio 2010\Projects\lcdAppTest\lcdAppTest\obj\x86\Debug\lcdAppTest.pdb
+C:\Projects\Projects\Projects\lcdAppTest\lcdAppTest\obj\x86\Debug\lcdAppTest.exe
+C:\Projects\Projects\Projects\lcdAppTest\lcdAppTest\obj\x86\Debug\lcdAppTest.pdb

@@ -1,0 +1,2 @@
+C:\Projects\gitWorthy\Probability\Probability\obj\Debug\Probability.exe
+C:\Projects\gitWorthy\Probability\Probability\obj\Debug\Probability.pdb

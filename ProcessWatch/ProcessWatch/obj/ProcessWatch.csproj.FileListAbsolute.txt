@@ -1,0 +1,15 @@
+C:\Documents and Settings\Trinkit\Desktop\ProcessWatch\ProcessWatch\bin\Debug\ProcessWatch.dll
+C:\Documents and Settings\Trinkit\Desktop\ProcessWatch\ProcessWatch\bin\Debug\ProcessWatch.pdb
+C:\Documents and Settings\Trinkit\Desktop\ProcessWatch\ProcessWatch\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Trinkit\Desktop\ProcessWatch\ProcessWatch\obj\Debug\ProcessWatch.dll
+C:\Documents and Settings\Trinkit\Desktop\ProcessWatch\ProcessWatch\obj\Debug\ProcessWatch.pdb
+D:\Projects\ProcessWatch\ProcessWatch\bin\Debug\ProcessWatch.dll
+D:\Projects\ProcessWatch\ProcessWatch\bin\Debug\ProcessWatch.pdb
+D:\Projects\ProcessWatch\ProcessWatch\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\ProcessWatch\ProcessWatch\obj\Debug\ProcessWatch.dll
+D:\Projects\ProcessWatch\ProcessWatch\obj\Debug\ProcessWatch.pdb
+D:\Projects\ProcessWatch\ProcessWatch\bin\Release\ProcessWatch.dll
+D:\Projects\ProcessWatch\ProcessWatch\bin\Release\ProcessWatch.pdb
+D:\Projects\ProcessWatch\ProcessWatch\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\ProcessWatch\ProcessWatch\obj\Release\ProcessWatch.dll
+D:\Projects\ProcessWatch\ProcessWatch\obj\Release\ProcessWatch.pdb

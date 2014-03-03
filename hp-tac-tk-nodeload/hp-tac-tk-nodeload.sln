@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hp-tac-tk-nodeload", "hp-tac-tk-nodeload\hp-tac-tk-nodeload.csproj", "{4541A967-D195-4779-88E8-11F00FD9A407}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hp-tac-tk-scbtool", "hp-tac-tk-scbtool\hp-tac-tk-scbtool.csproj", "{ECB06471-1A2E-42B1-BB3D-FC3C71DBA13E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hp-tac-tk-lfeditor", "hp-tac-tk-lfeditor\hp-tac-tk-lfeditor.csproj", "{2EF08827-76DC-4E14-AB95-2C4EA2DE6BB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4541A967-D195-4779-88E8-11F00FD9A407}.Debug|x86.ActiveCfg = Debug|x86
+		{4541A967-D195-4779-88E8-11F00FD9A407}.Debug|x86.Build.0 = Debug|x86
+		{4541A967-D195-4779-88E8-11F00FD9A407}.Release|x86.ActiveCfg = Release|x86
+		{4541A967-D195-4779-88E8-11F00FD9A407}.Release|x86.Build.0 = Release|x86
+		{ECB06471-1A2E-42B1-BB3D-FC3C71DBA13E}.Debug|x86.ActiveCfg = Debug|x86
+		{ECB06471-1A2E-42B1-BB3D-FC3C71DBA13E}.Debug|x86.Build.0 = Debug|x86
+		{ECB06471-1A2E-42B1-BB3D-FC3C71DBA13E}.Release|x86.ActiveCfg = Release|x86
+		{ECB06471-1A2E-42B1-BB3D-FC3C71DBA13E}.Release|x86.Build.0 = Release|x86
+		{2EF08827-76DC-4E14-AB95-2C4EA2DE6BB6}.Debug|x86.ActiveCfg = Debug|x86
+		{2EF08827-76DC-4E14-AB95-2C4EA2DE6BB6}.Debug|x86.Build.0 = Debug|x86
+		{2EF08827-76DC-4E14-AB95-2C4EA2DE6BB6}.Release|x86.ActiveCfg = Release|x86
+		{2EF08827-76DC-4E14-AB95-2C4EA2DE6BB6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+C:\Projects\gitWorthy\qtPictureBox\qtPictureBox\bin\Debug\qtPictureBox.dll
+C:\Projects\gitWorthy\qtPictureBox\qtPictureBox\bin\Debug\qtPictureBox.pdb
+C:\Projects\gitWorthy\qtPictureBox\qtPictureBox\obj\Debug\qtPictureBox.dll
+C:\Projects\gitWorthy\qtPictureBox\qtPictureBox\obj\Debug\qtPictureBox.pdb

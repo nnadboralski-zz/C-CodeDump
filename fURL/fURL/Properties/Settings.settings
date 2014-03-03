@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="fURL.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Hostname" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Hostname</Value>
+    </Setting>
+    <Setting Name="Port" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Port</Value>
+    </Setting>
+    <Setting Name="Client" Roaming="true" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Autostart" Roaming="true" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Autominimize" Roaming="true" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

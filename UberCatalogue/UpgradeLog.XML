@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="UberCatalogue">
+</Property><Property Name="Solution File" Value="K:\Sorting\Drive-D\Projects\UberCatalogue\UberCatalogue.sln">
+</Property><Property Name="User Options File" Value="K:\Sorting\Drive-D\Projects\UberCatalogue\UberCatalogue.suo">
+</Property><Property Name="Date" Value="Saturday, February 18, 2012">
+</Property><Property Name="Time" Value="2:18 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="UberCatalogue.sln" Description="File successfully backed up as K:\Sorting\Drive-D\Projects\UberCatalogue\Backup\UberCatalogue.sln">
+</Event><Event ErrorLevel="0" Project="" Source="UberCatalogue.suo" Description="File successfully backed up as K:\Sorting\Drive-D\Projects\UberCatalogue\Backup\UberCatalogue.suo">
+</Event><Event ErrorLevel="0" Project="UberCatalogue" Source="UberCatalogue\UberCatalogue.csproj" Description="Project file successfully backed up as K:\Sorting\Drive-D\Projects\UberCatalogue\Backup\UberCatalogue\UberCatalogue.csproj">
+</Event><Event ErrorLevel="0" Project="UberCatalogue" Source="UberCatalogue\Album.cs" Description="File successfully backed up as K:\Sorting\Drive-D\Projects\UberCatalogue\Backup\UberCatalogue\Album.cs">
+</Event><Event ErrorLevel="0" Project="UberCatalogue" Source="UberCatalogue\Artist.cs" Description="File successfully backed up as K:\Sorting\Drive-D\Projects\UberCatalogue\Backup\UberCatalogue\Artist.cs">
+</Event><Event ErrorLevel="0" Project="UberCatalogue" Source="UberCatalogue\Form1.cs" Description="File successfully backed up as K:\Sorting\Drive-D\Projects\UberCatalogue\Backup\UberCatalogue\Form1.cs">
+</Event><Event ErrorLevel="0" Project="UberCatalogue" Source="UberCatalogue\Form1.Designer.cs" Description="File successfully backed up as K:\Sorting\Drive-D\Projects\UberCatalogue\Backup\UberCatalogue\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UberCatalogue" Source="UberCatalogue\MusicCollection.cs" Description="File successfully backed up as K:\Sorting\Drive-D\Projects\UberCatalogue\Backup\UberCatalogue\MusicCollection.cs">
+</Event><Event ErrorLevel="0" Project="UberCatalogue" Source="UberCatalogue\Program.cs" Description="File successfully backed up as K:\Sorting\Drive-D\Projects\UberCatalogue\Backup\UberCatalogue\Program.cs">
+</Event><Event ErrorLevel="0" Project="UberCatalogue" Source="UberCatalogue\Properties\AssemblyInfo.cs" Description="File successfully backed up as K:\Sorting\Drive-D\Projects\UberCatalogue\Backup\UberCatalogue\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="UberCatalogue" Source="UberCatalogue\Properties\Resources.Designer.cs" Description="File successfully backed up as K:\Sorting\Drive-D\Projects\UberCatalogue\Backup\UberCatalogue\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UberCatalogue" Source="UberCatalogue\Properties\Settings.Designer.cs" Description="File successfully backed up as K:\Sorting\Drive-D\Projects\UberCatalogue\Backup\UberCatalogue\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UberCatalogue" Source="UberCatalogue\Track.cs" Description="File successfully backed up as K:\Sorting\Drive-D\Projects\UberCatalogue\Backup\UberCatalogue\Track.cs">
+</Event><Event ErrorLevel="0" Project="UberCatalogue" Source="UberCatalogue\Properties\Settings.settings" Description="File successfully backed up as K:\Sorting\Drive-D\Projects\UberCatalogue\Backup\UberCatalogue\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="UberCatalogue" Source="UberCatalogue\Form1.resx" Description="File successfully backed up as K:\Sorting\Drive-D\Projects\UberCatalogue\Backup\UberCatalogue\Form1.resx">
+</Event><Event ErrorLevel="0" Project="UberCatalogue" Source="UberCatalogue\Properties\Resources.resx" Description="File successfully backed up as K:\Sorting\Drive-D\Projects\UberCatalogue\Backup\UberCatalogue\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="UberCatalogue" Source="UberCatalogue\UberCatalogue.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="UberCatalogue" Source="UberCatalogue\UberCatalogue.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="UberCatalogue" Source="UberCatalogue\UberCatalogue.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="UberCatalogue.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="UberCatalogue.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UberCatalogue" Source="UberCatalogue\UberCatalogue.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

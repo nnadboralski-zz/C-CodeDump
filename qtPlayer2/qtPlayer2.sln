@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qtPlayer2", "qtPlayer2\qtPlayer2.csproj", "{585B7C59-79B6-40AF-B52E-4817B1E9D398}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "qtPlayerSetup", "qtPlayerSetup\qtPlayerSetup.vdproj", "{22C8BC18-53BD-47A4-80AC-19794DDC193F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{585B7C59-79B6-40AF-B52E-4817B1E9D398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585B7C59-79B6-40AF-B52E-4817B1E9D398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{585B7C59-79B6-40AF-B52E-4817B1E9D398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585B7C59-79B6-40AF-B52E-4817B1E9D398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22C8BC18-53BD-47A4-80AC-19794DDC193F}.Debug|Any CPU.ActiveCfg = Debug
+		{22C8BC18-53BD-47A4-80AC-19794DDC193F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

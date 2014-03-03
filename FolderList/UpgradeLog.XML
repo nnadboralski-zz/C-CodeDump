@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FolderList">
+</Property><Property Name="Solution File" Value="C:\Projects\gitWorthy\FolderList\FolderList.sln">
+</Property><Property Name="User Options File" Value="C:\Projects\gitWorthy\FolderList\FolderList.suo">
+</Property><Property Name="Date" Value="Monday, March 03, 2014">
+</Property><Property Name="Time" Value="4:07 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FolderList.sln" Description="File successfully backed up as C:\Projects\gitWorthy\FolderList\Backup\FolderList.sln">
+</Event><Event ErrorLevel="0" Project="" Source="FolderList.suo" Description="File successfully backed up as C:\Projects\gitWorthy\FolderList\Backup\FolderList.suo">
+</Event><Event ErrorLevel="0" Project="FolderList" Source="FolderList\FolderList.csproj" Description="Project file successfully backed up as C:\Projects\gitWorthy\FolderList\Backup\FolderList\FolderList.csproj">
+</Event><Event ErrorLevel="0" Project="FolderList" Source="FolderList\Program.cs" Description="File successfully backed up as C:\Projects\gitWorthy\FolderList\Backup\FolderList\Program.cs">
+</Event><Event ErrorLevel="0" Project="FolderList" Source="FolderList\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Projects\gitWorthy\FolderList\Backup\FolderList\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FolderList" Source="FolderList\Notes.txt" Description="File successfully backed up as C:\Projects\gitWorthy\FolderList\Backup\FolderList\Notes.txt">
+</Event><Event ErrorLevel="1" Project="FolderList" Source="FolderList\FolderList.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="FolderList" Source="FolderList\FolderList.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FolderList" Source="FolderList\FolderList.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FolderList.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FolderList.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FolderList" Source="FolderList\FolderList.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

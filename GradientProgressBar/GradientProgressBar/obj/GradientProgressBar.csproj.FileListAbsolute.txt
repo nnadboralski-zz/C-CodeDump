@@ -1,0 +1,14 @@
+D:\Projects\GradientProgressBar\GradientProgressBar\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\GradientProgressBar\GradientProgressBar\obj\Debug\GradientProgressBar.GradientProgressBar.resources
+D:\Projects\GradientProgressBar\GradientProgressBar\obj\Debug\GradientProgressBar.csproj.GenerateResource.Cache
+D:\Projects\GradientProgressBar\GradientProgressBar\bin\Debug\GradientProgressBar.dll
+D:\Projects\GradientProgressBar\GradientProgressBar\bin\Debug\GradientProgressBar.pdb
+D:\Projects\GradientProgressBar\GradientProgressBar\obj\Debug\GradientProgressBar.dll
+D:\Projects\GradientProgressBar\GradientProgressBar\obj\Debug\GradientProgressBar.pdb
+D:\Projects\GradientProgressBar\GradientProgressBar\bin\Release\GradientProgressBar.dll
+D:\Projects\GradientProgressBar\GradientProgressBar\bin\Release\GradientProgressBar.pdb
+D:\Projects\GradientProgressBar\GradientProgressBar\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\GradientProgressBar\GradientProgressBar\obj\Release\GradientProgressBar.GradientProgressBar.resources
+D:\Projects\GradientProgressBar\GradientProgressBar\obj\Release\GradientProgressBar.csproj.GenerateResource.Cache
+D:\Projects\GradientProgressBar\GradientProgressBar\obj\Release\GradientProgressBar.dll
+D:\Projects\GradientProgressBar\GradientProgressBar\obj\Release\GradientProgressBar.pdb

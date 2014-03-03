@@ -1,0 +1,240 @@
+Empty: C:\uber\DL
+Empty: C:\uber\TMP
+NoLog: C:\uber\DL
+NoLog: C:\uber\TMP
+NoLog: C:\uber
+APX: C:\uber\DL\Cradle Of Filth - 1997 - Sodomizing The Virgin Vamps
+APX: C:\uber\DL\Cradle Of Filth - 2002 - Live Bait For The Dead (Disc 1)
+APX: C:\uber\DL\Cradle Of Filth - 2002 - Live Bait For The Dead (Disc 2)
+APX: C:\uber\DL\David Bowie - 1995 - Strangers When We Meet (EP)
+APX: C:\uber\DL\David Bowie - 2000 - Bowie At The Beeb - (Disc 3) BBC Radio Theatre, London, June 27, 2000
+APX: C:\uber\DL\Deep Purple - 1969 - The Book Of Taliesyn
+APX: C:\uber\DL\Deep Purple - 1974 - Stormbringer
+APX: C:\uber\DL\Deep Purple - 1994 - Smoke On The Water, The Best Of
+APX: C:\uber\DL\Def Leppard - 2002 - X
+APX: C:\uber\DL\Depeche Mode - 1983 - Construction Time Again
+APX: C:\uber\DL\Depeche Mode - 1983 - Everything Counts (Single)
+APX: C:\uber\DL\Depeche Mode - 1984 - Blasphemous Rumours (Single)
+APX: C:\uber\DL\Depeche Mode - 1987 - Little 15 (Single)
+APX: C:\uber\DL\Depeche Mode - 1987 - Never Let Me Down Again (EP)
+APX: C:\uber\DL\Depeche Mode - 1990 - Enjoy The Silence (Maxi CD)
+APX: C:\uber\DL\Depeche Mode - 1990 - Policy Of Truth (Single)
+APX: C:\uber\DL\Depeche Mode - 1990 - World In My Eyes (Single)
+APX: C:\uber\DL\Depeche Mode - 1993 - Condemnation (EP)
+APX: C:\uber\DL\Depeche Mode - 1993 - I Feel You (Single)
+APX: C:\uber\DL\Depeche Mode - 1993 - Walking In My Shoes (Maxi CD)
+APX: C:\uber\DL\Depeche Mode - 1994 - In Your Room (Single)
+APX: C:\uber\DL\Depeche Mode - 1997 - Home (Single)
+APX: C:\uber\DL\Depeche Mode - 1997 - Songs Of Faith And Devotion Live
+APX: C:\uber\DL\Depeche Mode - 1998 - Only When I Lose Myself (Single)
+APX: C:\uber\DL\Depeche Mode - 2000 - Ultra Hot Art Disc Three
+APX: C:\uber\DL\Depeche Mode - 2000 - Ultra Hot Art Three [Bootleg]
+APX: C:\uber\DL\Depeche Mode - 2005 - KROQ Almost Acoustic Christmas 2005 [Promo]
+APX: C:\uber\DL\Depeche Mode - 2006 - The Best Of Depeche Mode Volume 1
+APX: C:\uber\DL\Depeche Mode - The Niagara Radiostation-Mix [Bootleg]
+APX: C:\uber\DL\Dream Theater - 1989 - When Dream And Day Unite
+APX: C:\uber\DL\Eagles - 1976 - Greatest Hits 1971-1975
+APX: C:\uber\DL\Eagles - 1976 - Hotel California
+APX: C:\uber\DL\Gamma Ray - 1995 - Land Of The Free
+APX: C:\uber\DL\Gandalf - 1982 - Visions
+APX: C:\uber\DL\Gandalf - 1983 - Magic Theatre
+APX: C:\uber\DL\Genesis - 1969 - The Compact Collection
+APX: C:\uber\DL\Genesis - 1980 - Duke
+APX: C:\uber\DL\Genesis - 1983 - Genesis
+APX: C:\uber\DL\Genesis - 1997 - Calling All Stations
+APX: C:\uber\DL\Genesis - 1999 - Turn It on Again - the Hits
+APX: C:\uber\DL\Iced Earth - 1988 - Enter the Realm (EP)
+APX: C:\uber\DL\Iced Earth - 1990 - Iced Earth
+APX: C:\uber\DL\Iced Earth - 2002 - Tribute To The Gods
+APX: C:\uber\DL\Iron Maiden - 1980 - Women In Uniform Twilight Zone
+APX: C:\uber\DL\Iron Maiden - 1988 - Can I Play With Madness The Evil That Men Do
+APX: C:\uber\DL\Iron Maiden - 1988 - The Clairvoyant Infinite Dreams (EP)
+APX: C:\uber\DL\Iron Maiden - 1990 - Flight Of Icarus (EP)
+APX: C:\uber\DL\Iron Maiden - 1990 - No Prayer For The Dying
+APX: C:\uber\DL\Iron Maiden - 1990 - The First Ten Years (Disc 1) - Running Free; Sanctuary
+APX: C:\uber\DL\Iron Maiden - 1990 - The First Ten Years (Disc 10) - The Clairvoyant; Infinite Dreams
+APX: C:\uber\DL\Iron Maiden - 1990 - The First Ten Years (Disc 2) - Women In Uniform; Twilight Zone
+APX: C:\uber\DL\Iron Maiden - 1990 - The First Ten Years (Disc 3) - Purgatory; Maiden Japan
+APX: C:\uber\DL\Iron Maiden - 1990 - The First Ten Years (Disc 4) - Run To The Hills; The Number Of The Beast
+APX: C:\uber\DL\Iron Maiden - 1990 - The First Ten Years (Disc 5) - Flight Of Icarus; The Trooper
+APX: C:\uber\DL\Iron Maiden - 1990 - The First Ten Years (Disc 6) - 2 Minutes To Midnight; Aces High
+APX: C:\uber\DL\Iron Maiden - 1990 - The First Ten Years (Disc 7) - Running Free; Run To The Hills
+APX: C:\uber\DL\Iron Maiden - 1990 - The First Ten Years (Disc 8) - Wasted Years; Stranger In A Strange Land
+APX: C:\uber\DL\Iron Maiden - 1990 - The First Ten Years (Disc 9) - Can I Play With Madness; The Evil That Men Do
+APX: C:\uber\DL\Iron Maiden - 1999 - Ed Hunter (Disc 1)
+APX: C:\uber\DL\Iron Maiden - 1999 - Ed Hunter (Disc 2)
+APX: C:\uber\DL\Japan - 1981 - Tin Drum
+APX: C:\uber\DL\Jimi Hendrix - 1984 - Kiss The Sky
+APX: C:\uber\DL\Jimi Hendrix - 1991 - Cornerstones 1967-1970
+APX: C:\uber\DL\Jimi Hendrix - 1997 - Experience Hendrix The Best Of Jimi Hendrix
+APX: C:\uber\DL\Jimi Hendrix - 2001 - Crash Landing
+APX: C:\uber\DL\Judas Priest - 1988 - Ram It Down
+APX: C:\uber\DL\Judas Priest - 1998 - '98 Live Meltdown (Disc 1)
+APX: C:\uber\DL\Judas Priest - 1998 - '98 Live Meltdown (Disc 2)
+APX: C:\uber\DL\Korn - 1994 - Korn
+APX: C:\uber\DL\Korn - 1999 - Issues
+APX: C:\uber\DL\Kraftwerk - 1970 - Kraftwerk
+APX: C:\uber\DL\Kraftwerk - 1971 - Kraftwerk 2
+APX: C:\uber\DL\Kraftwerk - 1975 - Radio-Activity
+APX: C:\uber\DL\Kraftwerk - 1991 - N1 To ZÅrich Recorded Live In Zurich, Switzerland 1991 [Bootleg]
+APX: C:\uber\DL\Led Zeppelin - 1971 - Led Zeppelin IV
+APX: C:\uber\DL\Led Zeppelin - 1976 - Presence
+APX: C:\uber\DL\Lenny Kravitz - 1989 - Let Love Rule
+APX: C:\uber\DL\Lenny Kravitz - 1990 - Mr. Cabdriver (Live Chicago 1990)
+APX: C:\uber\DL\Lenny Kravitz - 1993 - Believe (EP)
+APX: C:\uber\DL\Lenny Kravitz - 1993 - Is There any Love in Your Heart
+APX: C:\uber\DL\Lenny Kravitz - 1994 - Acoustic
+APX: C:\uber\DL\Lenny Kravitz - 1995 - Circus
+APX: C:\uber\DL\Lenny Kravitz - 1999 - 5
+APX: C:\uber\DL\Linkin Park - 2002 - Hybrid Theory (Bonus Disc)
+APX: C:\uber\DL\Megadeth - 1988 - So Far, So Good ... So What!
+APX: C:\uber\DL\Megadeth - 1994 - Youthanasia
+APX: C:\uber\DL\Metallica - 1982 - Live Before Death (Vol. 1) (Bootleg)
+APX: C:\uber\DL\Metallica - 1984 - Live Before Death (Vol. 2) (Bootleg)
+APX: C:\uber\DL\Metallica - 1994 - One (Single) [Japan]
+APX: C:\uber\DL\Metallica - 1998 - Bay Area Thrashers The Early Days
+APX: C:\uber\DL\Metallica - 1998 - Turn The Page (Single)
+APX: C:\uber\DL\Metallica - 2003 - St. Anger (Single)
+APX: C:\uber\DL\Metallica - 2003 - The Unnamed Feeling (EP)
+APX: C:\uber\DL\Mogwai - 1998 - Kicking a Dead Pig (Disc 1)
+APX: C:\uber\DL\Mogwai - 1998 - Kicking a Dead Pig (Disc 2) (Mogwai Fear Satan Remixes)
+APX: C:\uber\DL\Mogwai - 2008 - The Hawk Is Howling
+APX: C:\uber\DL\Morphine - 1997 - B-Sides And Otherwise
+APX: C:\uber\DL\Morphine - 2000 - Bootleg Detroit [Promo]
+APX: C:\uber\DL\Motîrhead - 1983 - Another Perfect Day
+APX: C:\uber\DL\Motîrhead - 1990 - Keep Us On The Road
+APX: C:\uber\DL\Motîrhead - 1990 - Lock Up Your Daughters
+APX: C:\uber\DL\Motîrhead - 1992 - Ace Of Spades [Masters Of Rock]
+APX: C:\uber\DL\Motîrhead - 1992 - Spotlight Motîrhead
+APX: C:\uber\DL\Motîrhead - 1993 - The Best Of & The Rest Of Motîrhead Volume 2
+APX: C:\uber\DL\Motîrhead - 1996 - Overnight Sensation
+APX: C:\uber\DL\Ozzy Osbourne - 1981 - Diary Of A Madman
+APX: C:\uber\DL\Ozzy Osbourne - 1997 - The Ozzman Cometh (Disc 1)
+APX: C:\uber\DL\Ozzy Osbourne - 1997 - The Ozzman Cometh (Disc 2)
+APX: C:\uber\DL\Pain - 1996 - Midgets With Guns
+APX: C:\uber\DL\Pain - 1997 - Wonderful Beef
+APX: C:\uber\DL\Peter Gabriel - 1983 - Plays Live (Disc 1)
+APX: C:\uber\DL\Peter Gabriel - 1983 - Plays Live (Disc 2)
+APX: C:\uber\DL\Peter Gabriel - 1992 - Digging In The Dirt (Maxi Single)
+APX: C:\uber\DL\Peter Gabriel - 1993 - Blood Of Eden (Maxi Single)
+APX: C:\uber\DL\Peter Gabriel - 1993 - Kiss That Frog (Maxi Single)
+APX: C:\uber\DL\Peter Gabriel - 1993 - Steam (EP)
+APX: C:\uber\DL\Peter Gabriel - 1994 - Lovetown (Maxi Single)
+APX: C:\uber\DL\Peter Gabriel - 1994 - Secret World Live (EP)
+APX: C:\uber\DL\Queen - 1975 - A Night At The Opera
+APX: C:\uber\DL\Queen - 1977 - News of the World [Original Master Recording]
+APX: C:\uber\DL\Queen - 1991 - Bohemian Rhapsody (Single)
+APX: C:\uber\DL\Queen - 2001 - Greatest Hits I, II & III The Platinum Collection (Disc 1)
+APX: C:\uber\DL\Queen - 2001 - Greatest Hits I, II & III The Platinum Collection (Disc 2)
+APX: C:\uber\DL\Queen - 2001 - Greatest Hits I, II & III The Platinum Collection (Disc 3)
+APX: C:\uber\DL\Queens Of The Stone Age - 2000 - R
+APX: C:\uber\DL\Queens Of The Stone Age - 2002 - No One Knows (Single)
+APX: C:\uber\DL\Queens Of The Stone Age - 2002 - Songs For The Deaf
+APX: C:\uber\DL\Radiohead - 1997 - Moonstruck
+APX: C:\uber\DL\Radiohead - 2003 - 2+2=5 (Single, Disc 1)
+APX: C:\uber\DL\Radiohead - 2003 - 2+2=5 (Single, Disc 2)
+APX: C:\uber\DL\Rainbow - 1982 - Straight Between The Eyes
+APX: C:\uber\DL\Rammstein - 1997 - Engel (EP) [Fan Edition]
+APX: C:\uber\DL\Rammstein - 2004 - Mein Teil (Single)
+APX: C:\uber\DL\Ramones - 1987 - Halfway To Sanity
+APX: C:\uber\DL\Ramones - 1988 - Halfway To Russia - Live In Finland 1988 [Bootleg]
+APX: C:\uber\DL\Ramones - 1997 - We're Outta Here
+APX: C:\uber\DL\Rhapsody - 2000 - Dawn Of Victory (Bonus Disc)
+APX: C:\uber\DL\Ryuichi Sakamoto - 1983 - Merry Christmas Mr. Lawrence (OST)
+APX: C:\uber\DL\Ryuichi Sakamoto - 1984 - Illustrated Musical Encyclopedia
+APX: C:\uber\DL\Ryuichi Sakamoto - 1986 - Media Bahn Live
+APX: C:\uber\DL\Ryuichi Sakamoto - 1986 - Miraiha Yaro (Futurista)
+APX: C:\uber\DL\Ryuichi Sakamoto - 1988 - Neo Geo
+APX: C:\uber\DL\Ryuichi Sakamoto - 1989 - Playing The Orchestra (Disc 1)
+APX: C:\uber\DL\Ryuichi Sakamoto - 1989 - Playing The Orchestra (Disc 2)
+APX: C:\uber\DL\Ryuichi Sakamoto - 1989 - Undo #1 (Maxi Single)
+APX: C:\uber\DL\Ryuichi Sakamoto - 1990 - Beauty
+APX: C:\uber\DL\Ryuichi Sakamoto - 1991 - Heartbeat
+APX: C:\uber\DL\Ryuichi Sakamoto - 1992 - El Mar Mediterrani
+APX: C:\uber\DL\Ryuichi Sakamoto - 1993 - Aile De Honneamise - Royal Space Force (OST)
+APX: C:\uber\DL\Ryuichi Sakamoto - 1994 - Hard Revenge
+APX: C:\uber\DL\Ryuichi Sakamoto - 1994 - Little Buddha (OST)
+APX: C:\uber\DL\Ryuichi Sakamoto - 1994 - Love & Hate (Remix Single)
+APX: C:\uber\DL\Ryuichi Sakamoto - 1994 - Soundbytes
+APX: C:\uber\DL\Ryuichi Sakamoto - 1994 - Sweet Revenge
+APX: C:\uber\DL\Ryuichi Sakamoto - 1995 - Sweet Revenge Tour 1994
+APX: C:\uber\DL\Ryuichi Sakamoto - 1996 - 1996
+APX: C:\uber\DL\Ryuichi Sakamoto - 1996 - Smoochy
+APX: C:\uber\DL\Ryuichi Sakamoto - 1996 - Snooty (EP)
+APX: C:\uber\DL\Ryuichi Sakamoto - 1998 - Anger Grief (EP)
+APX: C:\uber\DL\Ryuichi Sakamoto - 1998 - Discord
+APX: C:\uber\DL\Ryuichi Sakamoto - 1998 - Love Is The Devil (OST)
+APX: C:\uber\DL\Ryuichi Sakamoto - 1998 - Prayer Salvation Remix
+APX: C:\uber\DL\Ryuichi Sakamoto - 1999 - BTTB
+APX: C:\uber\DL\Ryuichi Sakamoto - 1999 - Cinemage
+APX: C:\uber\DL\Ryuichi Sakamoto - 1999 - Discord - Remixes
+APX: C:\uber\DL\Ryuichi Sakamoto - The Last Emperor (OST) - 1987
+APX: C:\uber\DL\Saga - 1993 - 1978-1993 All The Best
+APX: C:\uber\DL\Scorpions - 2001 - Acoustica [Live In Lisbon]
+APX: C:\uber\DL\Scorpions - 2004 - Unbreakable
+APX: C:\uber\DL\Scorpions - 2006 - Gold (Disc 1)
+APX: C:\uber\DL\Scorpions - 2006 - Gold (Disc 2)
+APX: C:\uber\DL\Soundgarden - 1991 - Badmotorfinger
+APX: C:\uber\DL\Soundgarden - 1994 - Fell On Black Days [Black Disc] (EP)
+APX: C:\uber\DL\Soundgarden - 1996 - Australia-New Zealand Tour Edition Bonus Disc
+APX: C:\uber\DL\Sting - 1986 - Bring On The Night (Disc 1)
+APX: C:\uber\DL\Sting - 1986 - Bring On The Night (Disc 2)
+APX: C:\uber\DL\Sting - 1991 - All Thease Time (MTV Unplugged) [Bootleg] (Disc 1)
+APX: C:\uber\DL\Sting - 1991 - All Thease Time (MTV Unplugged) [Bootleg] (Disc 2)
+APX: C:\uber\DL\Styx - 1983 - Kilroy Was Here
+APX: C:\uber\DL\Styx - 1987 - Boat On The River
+APX: C:\uber\DL\Styx - 1995 - Greatest Hits
+APX: C:\uber\DL\Talking Heads - 1988 - Naked
+APX: C:\uber\DL\Tears For Fears - 2000 - 20th Century Masters, The Millennium Collection The Best Of Tears For Fears
+APX: C:\uber\DL\Ten Years After - 1969 - Ssssh
+APX: C:\uber\DL\The Doors - 1967 - Live In Los Angeles
+APX: C:\uber\DL\The Doors - 1997 - Box Set (Disc 1) - Without A Safety Net
+APX: C:\uber\DL\The Doors - 1997 - Box Set (Disc 2) - Live In New York
+APX: C:\uber\DL\The Doors - 1997 - Box Set (Disc 3) - The Future Ain't What It Used To Be
+APX: C:\uber\DL\The Doors - 1997 - Box Set (Disc 4) - Band Favorites
+APX: C:\uber\DL\The Doors - 1999 - Essential Rarities
+APX: C:\uber\DL\The Moody Blues - 1968 - In Search Of The Lost Chord
+APX: C:\uber\DL\The Moody Blues - 1969 - On The Threshold Of A Dream
+APX: C:\uber\DL\The Moody Blues - 1971 - Every Good Boy Deserves Favour
+APX: C:\uber\DL\The Moody Blues - 1977 - Caught Live +5
+APX: C:\uber\DL\The Moody Blues - 1981 - Long Distance Voyager
+APX: C:\uber\DL\The Moody Blues - 1989 - Greatest Hits
+APX: C:\uber\DL\The Moody Blues - 1991 - Keys of the Kingdom
+APX: C:\uber\DL\The Moody Blues - 1996 - The Best Of The Moody Blues
+APX: C:\uber\DL\The Moody Blues - 1999 - Strange Times
+APX: C:\uber\DL\The Moody Blues - 2003 - December
+APX: C:\uber\DL\The Moody Blues - 2007 - Collected (Disc 1)
+APX: C:\uber\DL\The Moody Blues - 2007 - Collected (Disc 2)
+APX: C:\uber\DL\The Moody Blues - 2007 - Collected (Disc 3)
+APX: C:\uber\DL\The Police - 1981 - Ghost In The Machine (2003 Remaster)
+APX: C:\uber\DL\The Polyphonic Spree - 2003 - The Beginning Stages of... (Bonus Disc)
+APX: C:\uber\DL\The Verve - 1997 - Urban Hymns
+APX: C:\uber\DL\U2 - 1980 - Boy
+APX: C:\uber\DL\U2 - 1983 - War
+APX: C:\uber\DL\U2 - 1991 - Achtung Baby
+APX: C:\uber\DL\U2 - 1997 - Mofo Remixes (Single)
+APX: C:\uber\DL\U2 - 2002 - The Best of 1990-2000 (Disc 2)
+APX: C:\uber\DL\Ultravox - 1981 - Rage In Eden
+APX: C:\uber\DL\Ultravox - 1986 - U-VOX
+APX: C:\uber\DL\Ultravox - 1993 - Slow Motion
+APX: C:\uber\DL\Ultravox - 1998 - Original Gold (Disc 1)
+APX: C:\uber\DL\Ultravox - 1998 - Original Gold (Disc 2)
+APX: C:\uber\DL\Vanessa-Mae - 2004 - Choreography
+APX: C:\uber\DL\ZZ Top - 1975 - Fandango
+APX: C:\uber\DL\ZZ Top - 1987 - Live USA (Una Hermosa Noche)
+APX: C:\uber\DL\ZZ Top - 1997 - ZZ Top
+APX: C:\uber\DL\ZZ Top - 2003 - Chrome, Smoke & BBQ (Disc 3)
+APX: C:\uber\DL\ZZ Top - 2003 - Chrome, Smoke & BBQ (Disc 4)
+APX: C:\uber\DL\ZZ Top - 2003 - Mescalero
+APX: C:\uber\DL\ZZ Top - 2004 - Rancho Texicano (Disc 1) (The Very Best Of ZZ Top)
+APX: C:\uber\DL\ZZ Top - 2004 - Rancho Texicano (Disc 2) (The Very Best Of ZZ Top)
+NoPun: C:\uber\DL
+NoPun: C:\uber\TMP
+NoPun: C:\uber
+NoMP3: C:\uber\DL\Cradle Of Filth - 2006 - Thornography
+Empty Count: 2
+NoLog Count: 3
+APX Count: 225
+NoPun Count: 3
+Flac Count: 0
+Error Count: 0

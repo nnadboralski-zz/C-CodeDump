@@ -1,0 +1,2 @@
+obj\Release\UberList.exe
+obj\Release\UberList.pdb

@@ -1,0 +1,7 @@
+D:\Projects\UberStats\UberStats\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\UberStats\UberStats\bin\Debug\UberStats.exe
+D:\Projects\UberStats\UberStats\bin\Debug\UberStats.pdb
+D:\Projects\UberStats\UberStats\obj\Debug\UberStats.exe
+D:\Projects\UberStats\UberStats\obj\Debug\UberStats.pdb
+J:\Drive-D\Projects\UberStats\UberStats\obj\Debug\UberStats.exe
+J:\Drive-D\Projects\UberStats\UberStats\obj\Debug\UberStats.pdb

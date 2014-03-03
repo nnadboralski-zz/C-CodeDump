@@ -1,0 +1,12 @@
+C:\Projects\gitWorthy\qtPlayer-Old\qtPlayer\bin\Debug\qtPlayer.exe.config
+C:\Projects\gitWorthy\qtPlayer-Old\qtPlayer\obj\Debug\qtPlayer.exe
+C:\Projects\gitWorthy\qtPlayer-Old\qtPlayer\obj\Debug\qtPlayer.pdb
+C:\Projects\gitWorthy\qtPlayer-Old\qtPlayer\bin\Debug\qtPlayer.exe
+C:\Projects\gitWorthy\qtPlayer-Old\qtPlayer\bin\Debug\qtPlayer.pdb
+C:\Projects\gitWorthy\qtPlayer-Old\qtPlayer\bin\Debug\SmoothProgressBar.dll
+C:\Projects\gitWorthy\qtPlayer-Old\qtPlayer\bin\Debug\SmoothProgressBar.pdb
+C:\Projects\gitWorthy\qtPlayer-Old\qtPlayer\obj\Debug\qtPlayer.csprojResolveAssemblyReference.cache
+C:\Projects\gitWorthy\qtPlayer-Old\qtPlayer\obj\Debug\qtPlayer.frmSettings.resources
+C:\Projects\gitWorthy\qtPlayer-Old\qtPlayer\obj\Debug\qtPlayer.frmPlayer.resources
+C:\Projects\gitWorthy\qtPlayer-Old\qtPlayer\obj\Debug\qtPlayer.Properties.Resources.resources
+C:\Projects\gitWorthy\qtPlayer-Old\qtPlayer\obj\Debug\qtPlayer.csproj.GenerateResource.Cache

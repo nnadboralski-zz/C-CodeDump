@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CrawlStats">
+</Property><Property Name="Solution File" Value="C:\Projects\gitWorthy\CrawlStats\CrawlStats.sln">
+</Property><Property Name="User Options File" Value="C:\Projects\gitWorthy\CrawlStats\CrawlStats.suo">
+</Property><Property Name="Date" Value="Monday, March 03, 2014">
+</Property><Property Name="Time" Value="4:06 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CrawlStats.sln" Description="File successfully backed up as C:\Projects\gitWorthy\CrawlStats\Backup\CrawlStats.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CrawlStats.suo" Description="File successfully backed up as C:\Projects\gitWorthy\CrawlStats\Backup\CrawlStats.suo">
+</Event><Event ErrorLevel="0" Project="CrawlStats" Source="CrawlStats\CrawlStats.csproj" Description="Project file successfully backed up as C:\Projects\gitWorthy\CrawlStats\Backup\CrawlStats\CrawlStats.csproj">
+</Event><Event ErrorLevel="0" Project="CrawlStats" Source="CrawlStats\CrawlStats.csproj.user" Description="Project user file successfully backed up as C:\Projects\gitWorthy\CrawlStats\Backup\CrawlStats\CrawlStats.csproj.user">
+</Event><Event ErrorLevel="0" Project="CrawlStats" Source="CrawlStats\CrawlCharacter.cs" Description="File successfully backed up as C:\Projects\gitWorthy\CrawlStats\Backup\CrawlStats\CrawlCharacter.cs">
+</Event><Event ErrorLevel="0" Project="CrawlStats" Source="CrawlStats\CrawlCharacterList.cs" Description="File successfully backed up as C:\Projects\gitWorthy\CrawlStats\Backup\CrawlStats\CrawlCharacterList.cs">
+</Event><Event ErrorLevel="0" Project="CrawlStats" Source="CrawlStats\CrawlStatistics.cs" Description="File successfully backed up as C:\Projects\gitWorthy\CrawlStats\Backup\CrawlStats\CrawlStatistics.cs">
+</Event><Event ErrorLevel="0" Project="CrawlStats" Source="CrawlStats\frmMain.cs" Description="File successfully backed up as C:\Projects\gitWorthy\CrawlStats\Backup\CrawlStats\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="CrawlStats" Source="CrawlStats\frmMain.Designer.cs" Description="File successfully backed up as C:\Projects\gitWorthy\CrawlStats\Backup\CrawlStats\frmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CrawlStats" Source="CrawlStats\frmSettings.cs" Description="File successfully backed up as C:\Projects\gitWorthy\CrawlStats\Backup\CrawlStats\frmSettings.cs">
+</Event><Event ErrorLevel="0" Project="CrawlStats" Source="CrawlStats\frmSettings.Designer.cs" Description="File successfully backed up as C:\Projects\gitWorthy\CrawlStats\Backup\CrawlStats\frmSettings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CrawlStats" Source="CrawlStats\Program.cs" Description="File successfully backed up as C:\Projects\gitWorthy\CrawlStats\Backup\CrawlStats\Program.cs">
+</Event><Event ErrorLevel="0" Project="CrawlStats" Source="CrawlStats\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Projects\gitWorthy\CrawlStats\Backup\CrawlStats\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CrawlStats" Source="CrawlStats\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Projects\gitWorthy\CrawlStats\Backup\CrawlStats\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CrawlStats" Source="CrawlStats\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Projects\gitWorthy\CrawlStats\Backup\CrawlStats\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CrawlStats" Source="CrawlStats\Settings.cs" Description="File successfully backed up as C:\Projects\gitWorthy\CrawlStats\Backup\CrawlStats\Settings.cs">
+</Event><Event ErrorLevel="0" Project="CrawlStats" Source="CrawlStats\app.config" Description="File successfully backed up as C:\Projects\gitWorthy\CrawlStats\Backup\CrawlStats\app.config">
+</Event><Event ErrorLevel="0" Project="CrawlStats" Source="CrawlStats\Properties\Settings.settings" Description="File successfully backed up as C:\Projects\gitWorthy\CrawlStats\Backup\CrawlStats\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="CrawlStats" Source="CrawlStats\frmMain.resx" Description="File successfully backed up as C:\Projects\gitWorthy\CrawlStats\Backup\CrawlStats\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="CrawlStats" Source="CrawlStats\frmSettings.resx" Description="File successfully backed up as C:\Projects\gitWorthy\CrawlStats\Backup\CrawlStats\frmSettings.resx">
+</Event><Event ErrorLevel="0" Project="CrawlStats" Source="CrawlStats\Properties\Resources.resx" Description="File successfully backed up as C:\Projects\gitWorthy\CrawlStats\Backup\CrawlStats\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="CrawlStats" Source="CrawlStats\CrawlStats.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="CrawlStats" Source="CrawlStats\CrawlStats.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CrawlStats" Source="CrawlStats\CrawlStats.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CrawlStats.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CrawlStats.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CrawlStats" Source="CrawlStats\CrawlStats.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

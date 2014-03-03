@@ -1,0 +1,118 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{585B7C59-79B6-40AF-B52E-4817B1E9D398}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>qtPlayer2</RootNamespace>
+    <AssemblyName>qtPlayer2</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+    <ManifestCertificateThumbprint>A2D342A8EF29891E34617A672D0407BB9C42979F</ManifestCertificateThumbprint>
+    <ManifestKeyFile>qtPlayer2_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>false</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <PublishUrl>C:\Documents and Settings\Trinkit\Desktop\qtPlayer\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bass.Net, Version=2.4.2.0, Culture=neutral, PublicKeyToken=b7566c273e6ef480, processorArchitecture=MSIL" />
+    <Reference Include="SmoothProgressBar, Version=1.0.3261.5552, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\SmoothProgressBar\SmoothProgressBar\bin\Release\SmoothProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="taglib-sharp, Version=1.9.0.0, Culture=neutral, PublicKeyToken=db62eba44689b5b0, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Documents and Settings\Trinkit\Desktop\taglib-sharp-1.9.75474-net20\Release\taglib-sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="WLMStatus, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\WLMStatus\WLMStatus\bin\Release\WLMStatus.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Playlist.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Playlist.Designer.cs">
+      <DependentUpon>Playlist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="qtPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="qtPlayer.Designer.cs">
+      <DependentUpon>qtPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Track.cs" />
+    <Compile Include="TrackList.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Playlist.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Playlist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="qtPlayer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>qtPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <BaseApplicationManifest Include="Properties\app.manifest" />
+    <None Include="qtPlayer2_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

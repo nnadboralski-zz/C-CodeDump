@@ -1,0 +1,55 @@
+            
+            HttpWebRequest wrPlurk = (HttpWebRequest)WebRequest.Create("http://www.plurk.com/Users/login");
+            wrPlurk.CookieContainer = new CookieContainer();
+            wrPlurk.Method = "POST";
+            string postData = "nick_name=tktest&password=xyzzy";
+            byte[] byteArray = Encoding.UTF8.GetBytes(postData);
+            wrPlurk.ContentType = "application/x-www-form-urlencoded";
+            wrPlurk.ContentLength = byteArray.Length;
+            wrPlurk.Timeout = 1000;
+            Stream dataStream = wrPlurk.GetRequestStream();
+            dataStream.Write(byteArray,0,byteArray.Length);
+            dataStream.Close();
+            HttpWebResponse response = (HttpWebResponse)wrPlurk.GetResponse();
+            CookieCollection cookies = response.Cookies;
+            MessageBox.Show(((HttpWebResponse)response).StatusDescription);
+            dataStream = response.GetResponseStream();
+            StreamReader reader = new StreamReader (dataStream);
+            string responseFromServer = reader.ReadToEnd();
+            MessageBox.Show(responseFromServer);
+            reader.Close();
+            dataStream.Close();
+            HttpWebRequest wrPlurk2 = (HttpWebRequest)WebRequest.Create("http://www.plurk.com/TimeLine/addPlurk");
+            wrPlurk2.CookieContainer = new CookieContainer();
+            wrPlurk2.Method = "POST";
+            postData = "qualifier=is&lang=en&no_comments=0&uid=471145&content=Some other silly plurk just to see if it succeeds without the bad request.";
+            wrPlurk2.ContentType = "application/x-www-form-urlencoded";
+            foreach (Cookie oneCookie in cookies)
+            {
+                wrPlurk2.CookieContainer.Add(oneCookie);
+                MessageBox.Show(oneCookie.ToString());
+            }
+            response.Close();
+            byte[] byteArray2 = Encoding.UTF8.GetBytes(postData);
+            wrPlurk2.ContentLength = byteArray2.Length;
+            Stream dataStream2 = wrPlurk2.GetRequestStream();
+            dataStream2.Write(byteArray2,0,byteArray2.Length);
+            dataStream2.Close();
+            wrPlurk2.Timeout = 1000;
+            try
+            {
+                HttpWebResponse response2 = (HttpWebResponse)wrPlurk2.GetResponse();
+                StreamReader sr = new StreamReader(response2.GetResponseStream());
+                MessageBox.Show(sr.ReadToEnd());
+            }
+            catch (WebException ex)
+            {
+                MessageBox.Show(ex.Message, "HttpPost: Request Error");
+            }
+
+            //dataStream2 = response2.GetResponseStream();
+            //StreamReader reader2 = new StreamReader(dataStream2);
+            //responseFromServer = reader2.ReadLine();
+            //MessageBox.Show(responseFromServer);
+            //            reader2.Close();
+            dataStream2.Close();

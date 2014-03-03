@@ -1,0 +1,5 @@
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-remdspace\hp-tac-tk-remdspace\bin\Debug\hp-tac-tk-remdspace.exe
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-remdspace\hp-tac-tk-remdspace\bin\Debug\hp-tac-tk-remdspace.pdb
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-remdspace\hp-tac-tk-remdspace\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-remdspace\hp-tac-tk-remdspace\obj\x86\Debug\hp-tac-tk-remdspace.exe
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-remdspace\hp-tac-tk-remdspace\obj\x86\Debug\hp-tac-tk-remdspace.pdb

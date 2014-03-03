@@ -1,0 +1,14 @@
+D:\Projects\SmoothProgressBar\SmoothProgressBar\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\SmoothProgressBar\SmoothProgressBar\obj\Debug\SmoothProgressBar.SmoothProgressBar.resources
+D:\Projects\SmoothProgressBar\SmoothProgressBar\obj\Debug\SmoothProgressBar.csproj.GenerateResource.Cache
+D:\Projects\SmoothProgressBar\SmoothProgressBar\bin\Debug\SmoothProgressBar.dll
+D:\Projects\SmoothProgressBar\SmoothProgressBar\bin\Debug\SmoothProgressBar.pdb
+D:\Projects\SmoothProgressBar\SmoothProgressBar\obj\Debug\SmoothProgressBar.dll
+D:\Projects\SmoothProgressBar\SmoothProgressBar\obj\Debug\SmoothProgressBar.pdb
+D:\Projects\SmoothProgressBar\SmoothProgressBar\bin\Release\SmoothProgressBar.dll
+D:\Projects\SmoothProgressBar\SmoothProgressBar\bin\Release\SmoothProgressBar.pdb
+D:\Projects\SmoothProgressBar\SmoothProgressBar\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\SmoothProgressBar\SmoothProgressBar\obj\Release\SmoothProgressBar.SmoothProgressBar.resources
+D:\Projects\SmoothProgressBar\SmoothProgressBar\obj\Release\SmoothProgressBar.csproj.GenerateResource.Cache
+D:\Projects\SmoothProgressBar\SmoothProgressBar\obj\Release\SmoothProgressBar.dll
+D:\Projects\SmoothProgressBar\SmoothProgressBar\obj\Release\SmoothProgressBar.pdb

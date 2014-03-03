@@ -1,0 +1,95 @@
+/*
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 76%;
+}
+#content {
+	padding: 3em;
+}
+*/
+a:link {
+	text-align: center;
+	font-weight: bold;
+	color: #086132;
+}
+a:visited {
+	font-weight: bold;
+	color: #086132;
+}
+#ad {
+	color: #CCC;
+}
+
+table {
+	border-collapse: collapse;
+	border: 1px solid #666;
+	border-spacing: 0px;
+}
+
+tr, td {
+	font-family: "lucida grande", verdana, sans-serif;
+	font-size: 8pt;
+	padding: 3px 8px;
+}
+
+thead td {
+	border-bottom: 1px solid #999;
+}
+
+tbody td {
+	border-left: 1px solid #D9D9D9;
+	border-bottom: 1px solid #D9D9D9;
+}
+/*
+td, th {
+	padding: 0.5em; 
+	border: 1px solid #CCC;
+}
+*/
+thead, tfoot {
+	background-color: #086132;
+	color: #CCC;
+	font-weight: bold;
+	text-align: left
+	border-bottom: 1px solid #999;
+}
+
+tr.rowodd {
+	background-color: #FFECEC;
+}
+
+tr.roweven {
+	background-color: #FBD2D2;
+}
+
+.sortcol {
+	cursor: pointer;
+	/* padding-right: 20px; */
+	background-repeat: no-repeat;
+	background-position: right center;
+}
+.sortasc {
+	/* background-color: #DDFFAC; */
+	background-image: url(up.gif);
+}
+.sortdesc {
+	/* background-color: #B9DDFF; */
+	background-image: url(down.gif);
+}
+.nosort {
+	cursor: default;
+}
+
+.scroll-table-head {
+    width: 800px;
+}
+
+.scroll-table-body {
+    width: 800px;
+    height: 400px;				
+}
+.scroll-table-body td {
+	padding-right: 20px;
+	overflow: hidden;
+}
+

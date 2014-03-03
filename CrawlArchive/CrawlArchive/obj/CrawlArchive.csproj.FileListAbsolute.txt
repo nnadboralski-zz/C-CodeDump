@@ -1,0 +1,2 @@
+D:\Projects\CrawlArchive\CrawlArchive\obj\Debug\CrawlArchive.exe
+D:\Projects\CrawlArchive\CrawlArchive\obj\Debug\CrawlArchive.pdb

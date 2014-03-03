@@ -1,0 +1,16 @@
+D:\Projects\SketchieGemsV2\SketchieGemsV2\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\SketchieGemsV2\SketchieGemsV2\obj\Debug\SketchieGemsV2.SketchieGems.resources
+D:\Projects\SketchieGemsV2\SketchieGemsV2\obj\Debug\SketchieGemsV2.csproj.GenerateResource.Cache
+D:\Projects\SketchieGemsV2\SketchieGemsV2\bin\Debug\SketchieGemsV2.exe
+D:\Projects\SketchieGemsV2\SketchieGemsV2\bin\Debug\SketchieGemsV2.pdb
+D:\Projects\SketchieGemsV2\SketchieGemsV2\obj\Debug\SketchieGemsV2.exe
+D:\Projects\SketchieGemsV2\SketchieGemsV2\obj\Debug\SketchieGemsV2.pdb
+D:\Projects\SketchieGemsV2\SketchieGemsV2\obj\Debug\SketchieGemsV2.sgForm.resources
+D:\Projects\SketchieGemsV2\SketchieGemsV2\bin\Release\SketchieGemsV2.exe
+D:\Projects\SketchieGemsV2\SketchieGemsV2\bin\Release\SketchieGemsV2.pdb
+D:\Projects\SketchieGemsV2\SketchieGemsV2\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\SketchieGemsV2\SketchieGemsV2\obj\Release\SketchieGemsV2.sgForm.resources
+D:\Projects\SketchieGemsV2\SketchieGemsV2\obj\Release\SketchieGemsV2.SketchieGems.resources
+D:\Projects\SketchieGemsV2\SketchieGemsV2\obj\Release\SketchieGemsV2.csproj.GenerateResource.Cache
+D:\Projects\SketchieGemsV2\SketchieGemsV2\obj\Release\SketchieGemsV2.exe
+D:\Projects\SketchieGemsV2\SketchieGemsV2\obj\Release\SketchieGemsV2.pdb

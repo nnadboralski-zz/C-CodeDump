@@ -1,0 +1,1678 @@
+
+=============================================================
+ Vista Start Up Problems
+=============================================================
+
+
+Log=6JVBTPWR - No Start Up Problems
+
+
+
+-------------------------------------------------------------
+1 Are you calling regarding a Desktop or TouchSmart computer?
+-------------------------------------------------------------
+
+
+
+-------------------------------------------------------------
+2 Desktop Start up problems.
+-------------------------------------------------------------
+
+
+2.1 If not currently switched on, attempt to power on both the monitor and the computer.
+
+2.1.1 Which lights are lit on the computer and monitor?
+
+2.1.2 The computer front power light is off and the monitor power light is off.
+
+Log=The power light is off and the monitor is off
+
+
+2.1.2.1 Connect the monitor and computer power cords directly to wall outlet.
+
+template=Concentra_Frame
+CID=bph06788
+Book=#bph06788_section_1
+
+
+2.1.2.1.1 Do not use an extension cable, surge protector or UPS.
+
+2.1.2.1.2 Check for damage to the power cables and AC adapter (If Applicable).
+
+2.1.2.1.2.1 Is there any damage to the power cables AC adaptors or connectors?
+
+2.1.2.1.2.2 No, there is no damage to the power cables, AC adapter or connectors.
+
+2.1.2.1.2.2.1 Disconnect and reconnect the power cables and AC adapter cable (If applicable).
+
+2.1.2.1.2.2.1.1 Do the computer and monitor power on?
+
+2.1.2.1.2.2.1.2 Yes, this problem is resolved.
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+EndLevel2Code=Checked Cables
+
+
+2.1.2.1.2.2.1.2.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.2.1.2.2.1.3 No, this problem is not resolved.
+
+2.1.2.1.2.2.1.3.1 Which one of these three problems do you have?
+
+2.1.2.1.2.2.1.3.2 The monitor works but the computer will not power on.
+
+2.1.2.1.2.2.1.3.2.1 The problem has changed - Please restart the logic flow following down the Monitor power light is on branch.
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01109624
+Node=root
+
+
+2.1.2.1.2.2.1.3.3 The computer powers on but monitor will not.
+
+2.1.2.1.2.2.1.3.3.1 The problem has changed - Refer to Video-Monitor logic flow.
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01109668
+Node=root
+
+
+2.1.2.1.2.2.1.3.4 The computer and monitor will not power on.
+
+2.1.2.1.2.2.1.3.4.1 Test the wall outlet with a lamp or other electrical device.
+
+2.1.2.1.2.2.1.3.4.1.1 Is the wall outlet providing power?
+
+2.1.2.1.2.2.1.3.4.1.2 Yes, the wall outlet is providing power.
+
+2.1.2.1.2.2.1.3.4.1.2.1 Contact your ASG or Mentor for assistance.
+
+Log=Referring to ASG or Mentor for assistance.
+ShowCheckBox=Escalated
+EndLevel2Code=ASG Or Mentor
+
+
+2.1.2.1.2.2.1.3.4.1.2.1.1 Please submit Knowledge Feedback with the resolution from the escalation. Click here for instructions.
+
+template=Doc_External
+Doc_Link=https://prp.atlanta.hp.com/adt/new_agent/development/07_manual_clkm.htm
+
+
+2.1.2.1.2.2.1.3.4.1.2.1.2 When you End the service ticket this session will be logged. Thank you.
+
+2.1.2.1.2.2.1.3.4.1.3 No, the wall outlet is not providing power.
+
+2.1.2.1.2.2.1.3.4.1.3.1 Connect the monitor and the computer to a working wall outlet.
+
+2.1.2.1.2.2.1.3.4.1.3.1.1 Do the computer and monitor power on?
+
+2.1.2.1.2.2.1.3.4.1.3.1.2 Yes, this problem is resolved.
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+EndLevel2Code=Connected Power Cable Directly To Working Wall Outlet
+
+
+2.1.2.1.2.2.1.3.4.1.3.1.2.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.2.1.2.2.1.3.4.1.3.1.3 No, this problem is not resolved.
+
+2.1.2.1.2.2.1.3.4.1.3.1.3.1 Which one of these three problems do you have?
+
+2.1.2.1.2.2.1.3.4.1.3.1.3.2 The monitor works but the computer will not power on.
+
+2.1.2.1.2.2.1.3.4.1.3.1.3.2.1 The problem has changed - Please restart the logic flow following down the 'Monitor power light is on' branch.
+
+Log=Please restart logic flow following down the Monitor power light is on branch.
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01109624
+Node=root
+
+
+2.1.2.1.2.2.1.3.4.1.3.1.3.3 The computer powers on but monitor will not.
+
+2.1.2.1.2.2.1.3.4.1.3.1.3.3.1 The problem has changed - Refer to Video-Monitor logic flow.
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01109668
+Node=root
+
+
+2.1.2.1.2.2.1.3.4.1.3.1.3.4 The computer and monitor will not power on.
+
+2.1.2.1.2.2.1.3.4.1.3.1.3.4.1 Contact your ASG or Mentor for assistance.
+
+Log=Referring to ASG or Mentor for assistance.
+ShowCheckBox=Escalated
+EndLevel2Code=ASG Or Mentor
+
+
+2.1.2.1.2.2.1.3.4.1.3.1.3.4.1.1 Please submit Knowledge Feedback with the resolution from the escalation. Click here for instructions.
+
+template=Doc_External
+Doc_Link=https://prp.atlanta.hp.com/adt/new_agent/development/07_manual_clkm.htm
+
+
+2.1.2.1.2.2.1.3.4.1.3.1.3.4.1.2 When you End the service ticket this session will be logged. Thank you.
+
+2.1.2.1.2.3 Yes, there is damage to the power cables, AC adapter or connectors.
+
+2.1.2.1.2.3.1 Refer to customer damage policy for the correct process on replacing the part. Click here for more information.
+
+template=Doc_External
+Doc_Link=https://prp.atlanta.hp.com/adt/new_agent/development/6j_adp.htm
+ShowCheckBox=Customer Educated
+EndLevel2Code=User Damage Policy
+
+
+2.1.2.1.2.3.1.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3 The computer front power light is off and the monitor power light is on.
+
+Log=The power light is off and the monitor is on.
+
+
+2.1.3.1 What type of computer is it?
+
+2.1.3.2 It is a standard Desktop computer.
+
+2.1.3.2.1 What is the condition of the power supply light?
+
+2.1.3.2.1.1 The computer power supply light is flashing
+
+2.1.3.2.1.1.1 An Internal part is not functioning - Click here for detailed instructions on pin pointing the source and try to restart the computer.
+
+Log=Internal component is not functioning - follow steps in document to pinpoint the source
+template=Concentra_Frame
+CID=bph06788
+Book=#bph06788_section_2
+
+
+2.1.3.2.1.1.1.1 Is the power supply light on solid?
+
+2.1.3.2.1.1.1.2 Yes, this problem is resolved.
+
+
+
+
+
+
+
+
+ShowCheckBox=Customer Educated
+EndLevel2Code=Provided HP Document 
+
+
+
+2.1.3.2.1.1.1.2.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.2.1.1.1.3 No, this problem is not resolved.
+
+2.1.3.2.1.1.1.3.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+2.1.3.2.1.1.1.3.1.1 NOTE: The failure could be one or more components that caused the failure and it is not possible to diagnose in a timely fashion.
+
+2.1.3.2.1.1.1.3.1.1.1 Create a bench service for the computer. The service order notes should identify the symptoms so the repair technician can confirm the problem and identify the parts to replace.
+
+
+
+
+
+
+
+
+ShowCheckBox=Serviced PC - Unit Serviced
+
+
+
+2.1.3.2.1.1.1.3.1.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.2.2 The computer power supply light is solid on or solid off.
+
+2.1.3.2.2.1 Disconnect the power cord from the back of the computer.
+
+2.1.3.2.2.1.1 Move the red voltage selector switch back and forth and make sure it is set to '115' or '120' volts.
+
+Log=Move the red voltage selector switch back and forth and make sure it is set to correct volts.
+template=Concentra_Frame
+CID=bph06788
+Book=#bph06788_section_1
+
+
+2.1.3.2.2.1.1.1 Unplug the power cord from the back of the computer and wait twenty seconds before plugging it back in.
+
+template=Concentra_Frame
+CID=c01463028
+
+
+2.1.3.2.2.1.1.1.1 Connect the monitor and computer power cords directly to wall outlet.
+
+2.1.3.2.2.1.1.1.1.1 Do not use an extension cable, surge protector or UPS.
+
+2.1.3.2.2.1.1.1.1.2 Does the computer power on and Start up successfully?
+
+2.1.3.2.2.1.1.1.1.3 Yes, this problem is resolved.
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+EndLevel2Code=Connected Power Cable Directly To Working Wall Outlet
+
+
+2.1.3.2.2.1.1.1.1.3.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.2.2.1.1.1.1.4 No, this problem is not resolved.
+
+2.1.3.2.2.1.1.1.1.4.1 Which one of these two problems do you have?
+
+2.1.3.2.2.1.1.1.1.4.2 The computer powers on but does not Start up successfully.
+
+2.1.3.2.2.1.1.1.1.4.2.1 The problem has changed - Refer to the Start up problems Following Power on logic flow.
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01587663
+Node=root
+
+
+2.1.3.2.2.1.1.1.1.4.3 The computer still does not power on.
+
+2.1.3.2.2.1.1.1.1.4.3.1 Test the wall outlet with a lamp or other electrical device.
+
+Log=Tested the wall outlet power with lamp or electrical device.
+
+
+2.1.3.2.2.1.1.1.1.4.3.1.1 Is the wall outlet providing power?
+
+2.1.3.2.2.1.1.1.1.4.3.1.2 Yes, the wall outlet is providing power.
+
+2.1.3.2.2.1.1.1.1.4.3.1.2.1 Swap power cable with monitor (If Applicable) and power on the computer.
+
+Log=Swap power cable with monitor If Applicable and power on the computer.
+
+
+2.1.3.2.2.1.1.1.1.4.3.1.2.1.1 Does the computer power on successfully?
+
+2.1.3.2.2.1.1.1.1.4.3.1.2.1.2 Yes, the computer powers on successfully.
+
+2.1.3.2.2.1.1.1.1.4.3.1.2.1.2.1 Test the monitor using the power cable from the computer.
+
+2.1.3.2.2.1.1.1.1.4.3.1.2.1.2.1.1 Does the monitor power on successfully?
+
+2.1.3.2.2.1.1.1.1.4.3.1.2.1.2.1.2 Yes, this problem is resolved.
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+EndLevel2Code=Swapped Power Cable
+
+
+2.1.3.2.2.1.1.1.1.4.3.1.2.1.2.1.2.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.2.2.1.1.1.1.4.3.1.2.1.2.1.3 No, this problem is not resolved.
+
+2.1.3.2.2.1.1.1.1.4.3.1.2.1.2.1.3.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+2.1.3.2.2.1.1.1.1.4.3.1.2.1.2.1.3.1.1 Create a service for the power cord. The service order notes should identify the symptoms and any other details of the failure.
+
+
+
+ShowCheckBox=Serviced PC - Part Dispatched
+EndLevel2Code=Power Cord
+
+
+2.1.3.2.2.1.1.1.1.4.3.1.2.1.2.1.3.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.2.2.1.1.1.1.4.3.1.2.1.3 No, the computer does not power on.
+
+Log=The computer does not power on.
+
+
+2.1.3.2.2.1.1.1.1.4.3.1.2.1.3.1 Turn off the computer and disconnect all external cables and devices from the computer. Press and hold in the power button in for five seconds. Click here for instructions.
+
+Log=Ran Hard Reset
+template=Concentra_Frame
+CID=c01463028
+
+
+2.1.3.2.2.1.1.1.1.4.3.1.2.1.3.1.1 Unplug both the power button connections and the power supply connections to the motherboard. Reconnect the cables and restart the computer.
+
+template=Doc_external
+Doc_Link=http://h10025.www1.hp.com/ewfrf/wc/siteHome?lc=en&amp;dlc=en&amp;cc=us&amp;lang=en&amp;product=top
+
+
+2.1.3.2.2.1.1.1.1.4.3.1.2.1.3.1.1.1 Does the computer power on successfully?
+
+2.1.3.2.2.1.1.1.1.4.3.1.2.1.3.1.1.2 Yes, the computer powers on successfully.
+
+2.1.3.2.2.1.1.1.1.4.3.1.2.1.3.1.1.2.1 This problem is resolved.
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+EndLevel2Code=Checked Cables
+
+
+2.1.3.2.2.1.1.1.1.4.3.1.2.1.3.1.1.2.1.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.2.2.1.1.1.1.4.3.1.2.1.3.1.1.3 No, the computer does not power on.
+
+Log=The computer does not power on.
+
+
+2.1.3.2.2.1.1.1.1.4.3.1.2.1.3.1.1.3.1 The problem has been diagnosed to be a hardware failure. A repair is required. 
+
+2.1.3.2.2.1.1.1.1.4.3.1.2.1.3.1.1.3.1.1 NOTE: The failure could be one or more components that caused the failure and it is not possible to diagnose in a timely fashion.
+
+2.1.3.2.2.1.1.1.1.4.3.1.2.1.3.1.1.3.1.1.1 Create a bench service for the computer. The service order notes should identify the symptoms so the repair technician can confirm the problem and identify the parts to replace.
+
+
+
+
+
+
+
+
+ShowCheckBox=Serviced PC - Unit Serviced
+
+
+
+2.1.3.2.2.1.1.1.1.4.3.1.2.1.3.1.1.3.1.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.2.2.1.1.1.1.4.3.1.3 No, the wall outlet is not providing power.
+
+Log=Wall outlet is not supplying power.
+
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1 Connect the monitor and the computer to a working wall outlet.
+
+Log=Check wall outlet power with lamp or electrical device
+
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.1 Do the computer and monitor power on?
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.2 Yes, this problem is resolved.
+
+
+
+
+
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+
+EndLevel2Code=Connected Power Cable To Working Wall Outlet
+
+
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.2.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3 No, this problem is not resolved.
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3.1 Swap power cable with monitor (If Applicable) and power on the computer.
+
+Log=Swap power cable with monitor If Applicable and power on the computer.
+
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3.1.1 Does the computer power on successfully?
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3.1.2 Yes, the computer powers on successfully.
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3.1.2.1 Test the monitor using the power cable from the computer.
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3.1.2.1.1 Does the monitor power on successfully?
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3.1.2.1.2 Yes, this problem is resolved.
+
+
+
+
+
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+EndLevel2Code=Swapped Power Cable
+
+
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3.1.2.1.2.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3.1.2.1.3 No, this problem is not resolved.
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3.1.2.1.3.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3.1.2.1.3.1.1 Create a service for the power cord. The service order notes should identify the symptoms and any other details of the failure.
+
+
+
+ShowCheckBox=Serviced PC - Part Dispatched
+EndLevel2Code=Power Cord
+
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3.1.2.1.3.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3.1.3 No, the computer does not power on.
+
+Log=The computer does not power on.
+
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3.1.3.1 Turn off the computer and disconnect all external cables and devices from the computer. Press and hold in the power button in for five seconds. Click here for instructions.
+
+Log=Ran Hard Reset
+template=Concentra_Frame
+CID=c01463028
+
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3.1.3.1.1 Unplug both the power button connections and the power supply connections to the motherboard. Reconnect the cables and restart the computer.
+
+template=Doc_external
+Doc_Link=http://h10025.www1.hp.com/ewfrf/wc/siteHome?lc=en&amp;dlc=en&amp;cc=us&amp;lang=en&amp;product=top
+
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3.1.3.1.1.1 Does the computer power on successfully?
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3.1.3.1.1.2 Yes, the computer powers on successfully.
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3.1.3.1.1.2.1 This problem is resolved.
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+EndLevel2Code=Checked Cables
+
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3.1.3.1.1.2.1.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3.1.3.1.1.3 No, the computer does not power on.
+
+Log=The computer does not power on.
+
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3.1.3.1.1.3.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3.1.3.1.1.3.1.1 NOTE: The failure could be one or more components that caused the failure and it is not possible to diagnose in a timely fashion.
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3.1.3.1.1.3.1.1.1 Create a bench service for the computer. The service order notes should identify the symptoms so the repair technician can confirm the problem and identify the parts to replace.
+
+
+
+
+
+
+
+
+ShowCheckBox=Serviced PC - Unit Serviced
+
+
+
+2.1.3.2.2.1.1.1.1.4.3.1.3.1.3.1.3.1.1.3.1.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3 It is a Firebird computer with an external power supply.
+
+2.1.3.3.1 Connect the monitor and computer power cords directly to wall outlet.
+
+Log=Connected Power cord directly to wall outlet.
+
+
+2.1.3.3.1.1 Do not use an extension cable, surge protector or UPS.
+
+2.1.3.3.1.2 Does the computer power on and Start up successfully?
+
+2.1.3.3.1.3 Yes, this problem is resolved.
+
+
+
+
+
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+
+EndLevel2Code=Connected Power Cable To Working Wall Outlet
+
+
+
+2.1.3.3.1.3.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4 No, this problem is not resolved.
+
+2.1.3.3.1.4.1 Which one of these two problems do you have?
+
+2.1.3.3.1.4.2 The Voodoo Logo on the power adapter is lit.
+
+2.1.3.3.1.4.2.1 Disconnect all external devices except the keyboard, mouse, monitor or display.
+
+2.1.3.3.1.4.2.1.1 Confirm that the power adapter is firmly connected to the back of the unit and press the front power button.
+
+Log=Verify the adapter is firmly connected to the back of the unit and press the front power button.
+template=Doc_External
+Doc_Link=http://h10032.www1.hp.com/ctg/Manual/c01634602.pdf
+
+
+2.1.3.3.1.4.2.1.1.1 Does the computer power on and Start up successfully?
+
+2.1.3.3.1.4.2.1.1.2 Yes, this problem is resolved.
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+EndLevel2Code=Checked Cables
+
+
+2.1.3.3.1.4.2.1.1.2.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.2.1.1.3 No, this problem is not resolved.
+
+2.1.3.3.1.4.2.1.1.3.1 Which one of these two problems do you have?
+
+2.1.3.3.1.4.2.1.1.3.2 The computer powers on but does not Start up successfully.
+
+2.1.3.3.1.4.2.1.1.3.2.1 The problem has changed - Refer to the Start up Problems Following Power on logic flow.
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01587663
+Node=root
+
+
+2.1.3.3.1.4.2.1.1.3.3 The computer still does not power on.
+
+2.1.3.3.1.4.2.1.1.3.3.1 Does the computer make any sounds or are there any lights are on the computer?
+
+2.1.3.3.1.4.2.1.1.3.3.2 Yes, the computer is making sounds or the lights are on.
+
+2.1.3.3.1.4.2.1.1.3.3.2.1 The problem has changed - Refer to the Start up Problems Following Power on logic flow.
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01587663
+Node=root
+
+
+2.1.3.3.1.4.2.1.1.3.3.3 No, the computer is not making any sounds or no lights are on.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1 Unplug the power cord from the back of the computer and wait twenty seconds before plugging it back in.
+
+template=Concentra_Frame
+CID=c01463028
+
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.1 Does the computer power on?
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.2 Yes, this problem is resolved.
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+EndLevel2Code=Checked Cables
+
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.2.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3 No, this problem is not resolved.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.1 Which one of these two problems do you have?
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.2 The computer powers on but does not Start up successfully.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.2.1 The problem has changed - Refer to the Start up problems Following Power on logic flow.
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01587663
+Node=root
+
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3 The computer still does not power on.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1 Remove the wireless keyboard and mouse dongle from the computer and then plug it back in.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.1 Is the light on the dongle now lit?
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.2 Yes, the light on the dongle is lit.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.2.1 Does the computer power on and Start up successfully?
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.2.2 Yes, this problem is resolved.
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+EndLevel2Code=Reseated Wireless Dongle
+
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.2.2.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.2.3 No, this problem is not resolved.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.2.3.1 Which one of these two problems do you have?
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.2.3.2 The computer powers on but does not Start up successfully.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.2.3.2.1 The problem has changed - Refer to the Start up problems Following Power on logic flow.
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01587663
+Node=root
+
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.2.3.3 The computer does not power on.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.2.3.3.1 Has a replacement AC adapter been sent out?
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.2.3.3.2 Yes, an AC adapter has been sent out.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.2.3.3.2.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.2.3.3.2.1.1 Please have the customer include the AC power adaptor with the computer when it is sent to the service center.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.2.3.3.2.1.2 Create a service for the computer. The service order notes should identify the symptoms so the repair technician can confirm the problem and identify the parts to replace.
+
+
+
+
+
+
+
+
+ShowCheckBox=Serviced PC - Unit Serviced
+
+
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.2.3.3.2.1.2.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.2.3.3.3 No, an AC adapter has not has not been sent out.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.2.3.3.3.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.2.3.3.3.1.1 Create a service for the AC adapter. The service order notes should identify the symptoms and any other details of the failure.
+
+
+
+ShowCheckBox=Serviced PC - Part Dispatched
+EndLevel2Code=AC Adapter
+
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.2.3.3.3.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.3 No, the light on the dongle is not lit.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.3.1 Has a replacement AC adapter been sent out?
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.3.2 Yes, an AC adapter has been sent out.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.3.2.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.3.2.1.1 Please have the customer include the AC power adaptor with the computer when it is sent to the service center.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.3.2.1.2 Create a service for the computer. The service order notes should identify the symptoms so the repair technician can confirm the problem and identify the parts to replace.
+
+
+
+
+
+
+
+
+ShowCheckBox=Serviced PC - Unit Serviced
+
+
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.3.2.1.2.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.3.3 No, an AC adapter has not has not been sent out.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.3.3.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.3.3.1.1 Create a service for the AC adapter. The service order notes should identify the symptoms and any other details of the failure.
+
+
+
+ShowCheckBox=Serviced PC - Part Dispatched
+EndLevel2Code=Adapter
+
+
+2.1.3.3.1.4.2.1.1.3.3.3.1.3.3.1.3.3.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.3 The Voodoo Logo on the power adapter is not lit.
+
+2.1.3.3.1.4.3.1 Check for damage to the cable and power adapter (i.e. Broken Pin).
+
+2.1.3.3.1.4.3.1.1 Is the cable or power adapter damaged?
+
+2.1.3.3.1.4.3.1.2 No, there is no visible Damage to cable or power adapter.
+
+2.1.3.3.1.4.3.1.2.1 Confirm that the Power cable is firmly connected to the AC adapter.
+
+2.1.3.3.1.4.3.1.2.1.1 Voodoo Logo on AC adapter is now lit.
+
+2.1.3.3.1.4.3.1.2.1.1.1 Confirm the adapter is firmly connected to the back of the unit and press the front power button.
+
+2.1.3.3.1.4.3.1.2.1.1.1.1 Does the computer power on and Start up successfully?
+
+2.1.3.3.1.4.3.1.2.1.1.1.2 Yes, this problem is resolved.
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+EndLevel2Code=Checked Cables
+
+
+2.1.3.3.1.4.3.1.2.1.1.1.2.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.3.1.2.1.1.1.3 No, this problem is not resolved.
+
+2.1.3.3.1.4.3.1.2.1.1.1.3.1 Which one of these two problems do you have?
+
+2.1.3.3.1.4.3.1.2.1.1.1.3.2 The computer powers on but does not Start up successfully.
+
+2.1.3.3.1.4.3.1.2.1.1.1.3.2.1 The problem has changed - Refer to the Start up problems Following Power on logic flow.
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01587663
+Node=root
+
+
+2.1.3.3.1.4.3.1.2.1.1.1.3.3 The computer does not power on.
+
+2.1.3.3.1.4.3.1.2.1.1.1.3.3.1 The problem has changed - Please restart the logic flow following down the 'The Voodoo Logo is Lit'.
+
+Log=Problem has Changed - Restart logic flow following down the - Voodoo Logo is Lit logic.
+ShowCheckBox=Tree
+
+
+2.1.3.3.1.4.3.1.2.1.2 Voodoo Logo is still not lit.
+
+2.1.3.3.1.4.3.1.2.1.2.1 Test the wall outlet with a lamp or other electrical device.
+
+2.1.3.3.1.4.3.1.2.1.2.1.1 Is the wall outlet providing power?
+
+2.1.3.3.1.4.3.1.2.1.2.1.2 Yes, the wall outlet is providing power.
+
+2.1.3.3.1.4.3.1.2.1.2.1.2.1 Swap power cable with monitor (If Applicable) and power on the computer.
+
+Log=Swap power cable with monitor If Applicable and power on the computer.
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.2.1.1 Does the computer power on successfully?
+
+2.1.3.3.1.4.3.1.2.1.2.1.2.1.2 Yes, the computer powers on successfully.
+
+2.1.3.3.1.4.3.1.2.1.2.1.2.1.2.1 Test the monitor using the power cable from the computer.
+
+2.1.3.3.1.4.3.1.2.1.2.1.2.1.2.1.1 Does the monitor power on successfully?
+
+2.1.3.3.1.4.3.1.2.1.2.1.2.1.2.1.2 Yes, this problem is resolved.
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+EndLevel2Code=Checked Cables
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.2.1.2.1.2.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.3.1.2.1.2.1.2.1.2.1.3 No, this problem is not resolved.
+
+2.1.3.3.1.4.3.1.2.1.2.1.2.1.2.1.3.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+2.1.3.3.1.4.3.1.2.1.2.1.2.1.2.1.3.1.1 Create a service for the power cord. The service order notes should identify the symptoms and any other details of the failure.
+
+
+
+ShowCheckBox=Serviced PC - Part Dispatched
+EndLevel2Code=Power Cord
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.2.1.2.1.3.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.3.1.2.1.2.1.2.1.3 No, the computer does not power on.
+
+Log=The computer does not power on.
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.2.1.3.1 Turn off the computer and disconnect all external cables and devices from the computer. Press and hold in the power button in for five seconds. Click here for instructions.
+
+Log=Ran Hard Reset
+template=Concentra_Frame
+CID=c01463028
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.2.1.3.1.1 Unplug both the power button connections and the power supply connections to the motherboard. Reconnect the cables and restart the computer.
+
+template=Doc_external
+Doc_Link=http://h10025.www1.hp.com/ewfrf/wc/siteHome?lc=en&amp;dlc=en&amp;cc=us&amp;lang=en&amp;product=top
+
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.2.1.3.1.1.1 Does the computer power on successfully?
+
+2.1.3.3.1.4.3.1.2.1.2.1.2.1.3.1.1.2 Yes, the computer powers on successfully.
+
+2.1.3.3.1.4.3.1.2.1.2.1.2.1.3.1.1.2.1 This problem is resolved.
+
+
+
+
+
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+EndLevel2Code=Hard Reset 
+
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.2.1.3.1.1.2.1.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.3.1.2.1.2.1.2.1.3.1.1.3 No, the computer does not power on.
+
+2.1.3.3.1.4.3.1.2.1.2.1.2.1.3.1.1.3.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+2.1.3.3.1.4.3.1.2.1.2.1.2.1.3.1.1.3.1.1 NOTE: The failure could be one or more components that caused the failure and it is not possible to diagnose in a timely fashion.
+
+2.1.3.3.1.4.3.1.2.1.2.1.2.1.3.1.1.3.1.1.1 Create a bench service for the computer. The service order notes should identify the symptoms so the repair technician can confirm the problem and identify the parts to replace.
+
+
+
+
+
+
+
+
+ShowCheckBox=Serviced PC - Unit Serviced
+
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.2.1.3.1.1.3.1.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3 No, the wall outlet is not providing power.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1 Connect the monitor and the computer to a working wall outlet.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.1 Does the Voodoo Logo light up?
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2 Yes, the Voodoo Logo on the power adapter is lit.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1 Attempt to power on the computer using the power button.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.1 Does the computer now power on?
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.2 Yes, this problem is resolved.
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+EndLevel2Code=Connected Power Cable To Working Wall Outlet
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.2.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3 No, this problem is not resolved.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.1 Does the computer make any sounds or are there any lights are on the computer?
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.2 Yes, the computer is making sounds or the lights are on.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.2.1 The problem has changed - Refer to the Start up problems Following Power on logic flow.
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01587663
+Node=root
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3 No, the computer is not making any sounds or no lights are on.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1 Unplug the power cord from the back of the computer and wait twenty seconds before plugging it back in.
+
+template=Concentra_Frame
+CID=c01463028
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.1 Does the computer power on?
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.2 Yes, this problem is resolved.
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+EndLevel2Code=Checked Cables
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.2.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3 No, this problem is not resolved.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.1 Which one of these two problems do you have?
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.2 The computer powers on but does not Start up successfully.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.2.1 The problem has changed - Refer to the Start up problems Following Power on logic flow.
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01587663
+Node=root
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3 The computer still does not power on.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1 Remove the wireless keyboard and mouse dongle from the computer and then plug it back in.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.1 Is the light on the dongle now lit?
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.2 Yes, the light on the dongle is lit.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.2.1 Does the computer power on and Start up successfully?
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.2.2 Yes, this problem is resolved.
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+EndLevel2Code=Reseated Wireless Dongle
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.2.2.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.2.3 No, this problem is not resolved.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.2.3.1 Which one of these two problems do you have?
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.2.3.2 The computer powers on but does not Start up successfully.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.2.3.2.1 The problem has changed - Refer to the Start up problems Following Power on logic flow.
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01587663
+Node=root
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.2.3.3 The computer does not power on.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.2.3.3.1 Has a replacement AC adapter been sent out?
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.2.3.3.2 Yes, an AC adapter has been sent out.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.2.3.3.2.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.2.3.3.2.1.1 Please have the customer include the AC power adaptor with the computer when it is sent to the service center.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.2.3.3.2.1.2 Create a service for the computer. The service order notes should identify the symptoms so the repair technician can confirm the problem and identify the parts to replace.
+
+
+
+ShowCheckBox=Serviced PC - Unit Serviced
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.2.3.3.2.1.2.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.2.3.3.3 No, an AC adapter has not has not been sent out.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.2.3.3.3.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.2.3.3.3.1.1 Create a service for the AC adapter. The service order notes should identify the symptoms and any other details of the failure.
+
+
+
+ShowCheckBox=Serviced PC - Part Dispatched
+EndLevel2Code=AC Adapter
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.2.3.3.3.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.3 No, the light on the dongle is not lit.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.3.1 Has a replacement AC adapter been sent out?
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.3.2 Yes, an AC adapter has been sent out.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.3.2.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.3.2.1.1 Please have the customer include the AC power adaptor with the computer when it is sent to the service center.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.3.2.1.2 Create a service for the computer. The service order notes should identify the symptoms so the repair technician can confirm the problem and identify the parts to replace.
+
+
+
+
+
+
+
+
+ShowCheckBox=Serviced PC - Unit Serviced
+
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.3.2.1.2.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.3.3 No, an AC adapter has not has not been sent out.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.3.3.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.3.3.1.1 Create a service for the AC adapter. The service order notes should identify the symptoms and any other details of the failure.
+
+
+
+ShowCheckBox=Serviced PC - Part Dispatched
+EndLevel2Code=AC Adapter
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.2.1.3.3.1.3.3.1.3.3.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3 No, the Voodoo Logo on the power adapter is not lit.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1 Swap power cable with monitor (If Applicable) and power on the computer.
+
+Log=Swap power cable with monitor If Applicable and power on the computer.
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.1 Does the Voodoo Logo light up?
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2 Yes, the Voodoo Logo on the power adapter is lit.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1 Power on the computer using the appropriate power button.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.1 Does the computer power on successfully?
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.2 Yes, the computer powers on successfully.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.2.1 Test the monitor using the power cable from the computer.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.2.1.1 Does the monitor power on successfully?
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.2.1.2 Yes, this problem is resolved.
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+EndLevel2Code=Checked Cables
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.2.1.2.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.2.1.3 No, this problem is not resolved.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.2.1.3.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.2.1.3.1.1 Create a service for the power cord. The service order notes should identify the symptoms and any other details of the failure.
+
+
+
+ShowCheckBox=Serviced PC - Part Dispatched
+EndLevel2Code=Power Cord
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.2.1.3.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3 No, this problem is not resolved.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.1 Does the computer make any sounds or are there any lights are on the computer?
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.2 Yes, the computer is making sounds or the lights are on.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.2.1 The problem has changed - Refer to the Start up problems Following Power on logic flow.
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01587663
+Node=root
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3 No, the computer is not making any sounds or no lights are on.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1 Unplug the power cord from the back of the computer and wait twenty seconds before plugging it back in.
+
+template=Concentra_Frame
+CID=c01463028
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.1 Does the computer power on?
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.2 Yes, this problem is resolved.
+
+
+
+
+
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+EndLevel2Code=Checked Cables
+
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.2.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3 No, this problem is not resolved.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.1 Which one of these two problems do you have?
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.2 The computer powers on but does not Start up successfully.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.2.1 The problem has changed - Refer to the Start up problems Following Power on logic flow.
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01587663
+Node=root
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3 The computer still does not power on.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1 Remove the wireless keyboard and mouse dongle from the computer and then plug it back in.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.1 Is the light on the dongle now lit?
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.2 Yes, the light on the dongle is lit.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.2.1 Does the computer power on and Start up successfully?
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.2.2 Yes, this problem is resolved.
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+EndLevel2Code=Reseated Wireless Dongle
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.2.2.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.2.3 No, this problem is not resolved.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.2.3.1 Which one of these two problems do you have?
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.2.3.2 The computer powers on but does not Start up successfully.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.2.3.2.1 The problem has changed - Refer to the Start up problems Following Power on logic flow.
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01587663
+Node=root
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.2.3.3 The computer does not power on.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.2.3.3.1 Has a replacement AC adapter been sent out?
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.2.3.3.2 Yes, an AC adapter has been sent out.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.2.3.3.2.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.2.3.3.2.1.1 Please have the customer include the AC power adaptor with the computer when it is sent to the service center.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.2.3.3.2.1.2 Create a service for the computer. The service order notes should identify the symptoms so the repair technician can confirm the problem and identify the parts to replace.
+
+
+
+
+
+
+
+
+ShowCheckBox=Serviced PC - Unit Serviced
+
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.2.3.3.2.1.2.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.2.3.3.3 No, an AC adapter has not has not been sent out.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.2.3.3.3.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.2.3.3.3.1.1 Create a service for the AC adapter. The service order notes should identify the symptoms and any other details of the failure.
+
+
+
+ShowCheckBox=Serviced PC - Part Dispatched
+EndLevel2Code=AC Adapter
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.2.3.3.3.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.3 No, the light on the dongle is not lit.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.3.1 Has a replacement AC adapter been sent out?
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.3.2 Yes, an AC adapter has been sent out.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.3.2.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.3.2.1.1 Please have the customer include the AC power adaptor with the computer when it is sent to the service center.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.3.2.1.2 Create a service for the computer. The service order notes should identify the symptoms so the repair technician can confirm the problem and identify the parts to replace.
+
+
+
+
+
+
+
+
+ShowCheckBox=Serviced PC - Unit Serviced
+
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.3.2.1.2.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.3.3 No, an AC adapter has not has not been sent out.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.3.3.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.3.3.1.1 Create a service for the AC adapter. The service order notes should identify the symptoms and any other details of the failure.
+
+
+
+ShowCheckBox=Serviced PC - Part Dispatched
+EndLevel2Code=AC Adapter
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.2.1.3.3.1.3.3.1.3.3.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.3 No, the Voodoo Logo on the power adapter is not lit.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.3.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.3.1.1 Create a service for the AC adapter. The service order notes should identify the symptoms and any other details of the failure.
+
+
+
+ShowCheckBox=Serviced PC - Part Dispatched
+EndLevel2Code=AC Adapter
+
+
+2.1.3.3.1.4.3.1.2.1.2.1.3.1.3.1.3.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.3.3.1.4.3.1.3 Yes, there is visible damage to the cable or power adapter.
+
+2.1.3.3.1.4.3.1.3.1 Refer to customer damage policy for the correct process on replacing the part. Click here for more information.
+
+template=Doc_External
+Doc_Link=https://prp.atlanta.hp.com/adt/new_agent/development/6j_adp.htm
+ShowCheckBox=Customer Educated
+EndLevel2Code=User Damage Policy
+
+
+2.1.3.3.1.4.3.1.3.1.1 When you End the service ticket this session will be logged. Thank you.
+
+2.1.4 The computer front power light is on and the monitor power light is off.
+
+Log=The power light is on and the monitor is off
+
+
+2.1.4.1 Refer to Video-Monitor logic flow.
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01109668
+Node=root
+
+
+2.1.5 The computer front power light is on and the monitor power light is on.
+
+Log=The power light is on and the monitor is on
+
+
+2.1.5.1 Refer to the Start up problems Following Power on logic flow.
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01587663
+Node=root
+
+
+
+-------------------------------------------------------------
+3 TouchSmart Start up problems.
+-------------------------------------------------------------
+
+
+3.1 If not currently switched on, attempt to power on the TouchSmart.
+
+3.1.1 Does the computer power on and Start up successfully?
+
+3.1.2 Yes, this problem is resolved.
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+EndLevel2Code=Connected Power Cable To Working Wall Outlet
+
+
+3.1.2.1 When you End the service ticket this session will be logged. Thank you.
+
+3.1.3 No, this problem is not resolved.
+
+3.1.3.1 Which one of these two problems do you have?
+
+3.1.3.2 No, the computer powers on but does not successfully Start up.
+
+3.1.3.2.1 Refer to the Start up problems Following Power on logic flow.
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01587663
+Node=root
+
+
+3.1.3.3 No, the computer does not power on.
+
+3.1.3.3.1 Make sure the customer is pressing power button on the top right-hand side of the unit.
+
+3.1.3.3.1.1 Does the computer power on and Start up successfully?
+
+3.1.3.3.1.2 Yes, this problem is resolved.
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+EndLevel2Code=Connected Power Cable To Working Wall Outlet
+
+
+3.1.3.3.1.2.1 When you End the service ticket this session will be logged. Thank you.
+
+3.1.3.3.1.3 No, this problem is not resolved.
+
+3.1.3.3.1.3.1 Does the screen displays an HP splash screen?
+
+3.1.3.3.1.3.2 Yes, the screen displays an HP splash screen.
+
+3.1.3.3.1.3.2.1 Refer to the Start up problems Following Power on logic flow.
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01587663
+Node=root
+
+
+3.1.3.3.1.3.3 No, the screen does not display an HP splash screen.
+
+3.1.3.3.1.3.3.1 Press the ambient light button.
+
+Log=Pressed the ambient light button.
+template=Concentra_Frame
+CID=c01555881
+
+
+3.1.3.3.1.3.3.1.1 Does the ambient light turn on?
+
+3.1.3.3.1.3.3.1.2 Yes, the ambient light turns on.
+
+3.1.3.3.1.3.3.1.2.1 Unplug the power cord from the back of the computer and wait twenty seconds before plugging it back in.
+
+template=Concentra_Frame
+CID=c01463028
+
+
+3.1.3.3.1.3.3.1.2.1.1 Press power button on upper-right side of unit.
+
+3.1.3.3.1.3.3.1.2.1.1.1 Does the power light come on?
+
+3.1.3.3.1.3.3.1.2.1.1.2 Yes, the power light comes on but no image on screen, does not Start up to windows.
+
+3.1.3.3.1.3.3.1.2.1.1.2.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+3.1.3.3.1.3.3.1.2.1.1.2.1.1 NOTE: The failure could be one or more components that caused the failure and it is not possible to diagnose in a timely fashion.
+
+3.1.3.3.1.3.3.1.2.1.1.2.1.1.1 Create a bench service for the computer. The service order notes should identify the symptoms so the repair technician can confirm the problem and identify the parts to replace.
+
+
+
+
+
+
+
+
+ShowCheckBox=Serviced PC - Unit Serviced
+
+
+
+3.1.3.3.1.3.3.1.2.1.1.2.1.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+3.1.3.3.1.3.3.1.2.1.1.3 Yes, power light comes on and shows an image on screen, does not Start up to windows.
+
+3.1.3.3.1.3.3.1.2.1.1.3.1 The problem has changed - Refer to the Start up problems Following Power on logic flow.
+
+ShowCheckBox=Tree
+template=Tree
+Productline=6J
+Tree=c01587663
+Node=root
+
+
+3.1.3.3.1.3.3.1.2.1.1.4 No, the power light does not come on.
+
+3.1.3.3.1.3.3.1.2.1.1.4.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+3.1.3.3.1.3.3.1.2.1.1.4.1.1 NOTE: The failure could be one or more components that caused the failure and it is not possible to diagnose in a timely fashion.
+
+3.1.3.3.1.3.3.1.2.1.1.4.1.1.1 Create a bench service for the computer. The service order notes should identify the symptoms so the repair technician can confirm the problem and identify the parts to replace.
+
+
+
+
+
+
+
+
+ShowCheckBox=Serviced PC - Unit Serviced
+
+
+
+3.1.3.3.1.3.3.1.2.1.1.4.1.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+3.1.3.3.1.3.3.1.3 No, the ambient light will not turn on.
+
+3.1.3.3.1.3.3.1.3.1 Check if the light on the AC adapter is on.
+
+3.1.3.3.1.3.3.1.3.1.1 Is the light on the AC adapter on?
+
+3.1.3.3.1.3.3.1.3.1.2 Yes, the light on the AC adapter is turned on.
+
+3.1.3.3.1.3.3.1.3.1.2.1 Check for damage to the cable and power adapter (i.e. Broken Pin).
+
+3.1.3.3.1.3.3.1.3.1.2.1.1 Is the cable or power adapter damaged?
+
+3.1.3.3.1.3.3.1.3.1.2.1.2 Yes, there is visible damage to the cable or power adapter.
+
+3.1.3.3.1.3.3.1.3.1.2.1.2.1 Refer to customer damage policy for the correct process on replacing the part. Click here for more information.
+
+template=Doc_External
+Doc_Link=https://prp.atlanta.hp.com/adt/new_agent/development/6j_adp.htm
+ShowCheckBox=Customer Educated
+EndLevel2Code=User Damage Policy
+
+
+3.1.3.3.1.3.3.1.3.1.2.1.2.1.1 When you End the service ticket this session will be logged. Thank you.
+
+3.1.3.3.1.3.3.1.3.1.2.1.3 No, there is no visible Damage to cable or power adapter.
+
+3.1.3.3.1.3.3.1.3.1.2.1.3.1 Reconnect the AC adapter to the TouchSmart
+
+3.1.3.3.1.3.3.1.3.1.2.1.3.1.1 Press the ambient light button.
+
+3.1.3.3.1.3.3.1.3.1.2.1.3.1.2 Does the ambient light turn on?
+
+3.1.3.3.1.3.3.1.3.1.2.1.3.1.2.1 Yes, the ambient light turns on.
+
+3.1.3.3.1.3.3.1.3.1.2.1.3.1.2.1.1 The problem has changed - Please restart the logic flow following down the 'Ambient light turns on' logic.
+
+Log=The Problem has Changed - Restarting the logic flow and following down the logic for Ambient light turns on.
+ShowCheckBox=Tree
+
+
+3.1.3.3.1.3.3.1.3.1.2.1.3.1.2.2 No, the ambient light does not come on.
+
+3.1.3.3.1.3.3.1.3.1.2.1.3.1.2.2.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+3.1.3.3.1.3.3.1.3.1.2.1.3.1.2.2.1.1 NOTE: The failure could be one or more components that caused the failure and it is not possible to diagnose in a timely fashion.
+
+3.1.3.3.1.3.3.1.3.1.2.1.3.1.2.2.1.1.1 Create a bench service for the computer. The service order notes should identify the symptoms so the repair technician can confirm the problem and identify the parts to replace.
+
+
+
+
+
+
+
+
+ShowCheckBox=Serviced PC - Unit Serviced
+
+
+
+3.1.3.3.1.3.3.1.3.1.2.1.3.1.2.2.1.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+3.1.3.3.1.3.3.1.3.1.3 No, the light on the AC adapter is not on.
+
+3.1.3.3.1.3.3.1.3.1.3.1 Connect the monitor and computer power cords directly to wall outlet.
+
+Log=Connect the monitor and computer power cords directly to wall outlet.
+
+
+3.1.3.3.1.3.3.1.3.1.3.1.1 Do not use an extension cable, surge protector or UPS.
+
+3.1.3.3.1.3.3.1.3.1.3.1.2 Is the light on the AC adapter on?
+
+3.1.3.3.1.3.3.1.3.1.3.1.3 Yes, the light on the AC adapter is turned on.
+
+3.1.3.3.1.3.3.1.3.1.3.1.3.1 Attempt to power the computer on.
+
+3.1.3.3.1.3.3.1.3.1.3.1.3.1.1 Does the computer power on and Start up successfully?
+
+3.1.3.3.1.3.3.1.3.1.3.1.3.1.2 This problem is resolved.
+
+
+
+ShowCheckBox=Reconfigured PC Hardware
+EndLevel2Code=Connected Power Cable To Working Wall Outlet
+
+
+3.1.3.3.1.3.3.1.3.1.3.1.3.1.2.1 When you End the service ticket this session will be logged. Thank you.
+
+3.1.3.3.1.3.3.1.3.1.3.1.3.1.3 No, this problem is not resolved.
+
+3.1.3.3.1.3.3.1.3.1.3.1.3.1.3.1 The problem has changed - Please restart the logic flow following down 'The light on the AC adapter is turned on'.
+
+Log=Problem has Changed - Restarting logic flow following The light on the AC adapter is turned on.
+ShowCheckBox=Tree
+
+
+3.1.3.3.1.3.3.1.3.1.3.1.4 The light on the AC adapter is still turned off.
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1 Test the wall outlet with a lamp or other electrical device.
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1.1 Is the wall outlet providing power?
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1.2 Yes, the wall outlet is providing power.
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1.2.1 Swap power cable with monitor (If Applicable) and power on the computer.
+
+Log=Swap power cable with monitor If Applicable and power on the computer.
+
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1.2.1.1 Does the computer power on successfully?
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1.2.1.2 Yes, the computer works with another power cord.
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1.2.1.2.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1.2.1.2.1.1 Create a service for the power cord. The service order notes should identify the symptoms and any other details of the failure.
+
+
+
+ShowCheckBox=Serviced PC - Part Dispatched
+EndLevel2Code=Power Cord
+
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1.2.1.2.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1.2.1.3 No, the computer does not work with another power cord or another power cord is not available.
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1.2.1.3.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1.2.1.3.1.1 Create a service for the AC adapter. The service order notes should identify the symptoms and any other details of the failure.
+
+
+
+ShowCheckBox=Serviced PC - Part Dispatched
+EndLevel2Code=AC Adapter
+
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1.2.1.3.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1.3 Wall outlet is not supplying power.
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1.3.1 Plug the AC adapter into a working wall outlet.
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1.3.1.1 Does the computer power on successfully?
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1.3.1.2 Yes, the computer works with another power cord.
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1.3.1.2.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1.3.1.2.1.1 Create a service for the power cord. The service order notes should identify the symptoms and any other details of the failure.
+
+
+
+ShowCheckBox=Serviced PC - Part Dispatched
+EndLevel2Code=Power Cord
+
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1.3.1.2.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1.3.1.3 No, the computer does not work with another power cord or another power cord is not available.
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1.3.1.3.1 The problem has been diagnosed to be a hardware failure. A repair is required.
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1.3.1.3.1.1 Create a service for the AC adapter. The service order notes should identify the symptoms and any other details of the failure.
+
+
+
+ShowCheckBox=Serviced PC - Part Dispatched
+EndLevel2Code=AC Adapter
+
+
+3.1.3.3.1.3.3.1.3.1.3.1.4.1.3.1.3.1.1.1 When you End the service ticket this session will be logged. Thank you.
+
+
+-------------------------------------------------------------
+4 Tree Last Updated: Jul-5-2011
+-------------------------------------------------------------
+
+

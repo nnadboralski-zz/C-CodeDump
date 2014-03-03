@@ -1,0 +1,3 @@
+D:\Projects\CrawlStats\CrawlStats\bin\Release\CrawlStats.exe.config
+D:\Projects\CrawlStats\CrawlStats\obj\Release\CrawlStats.exe
+D:\Projects\CrawlStats\CrawlStats\obj\Release\CrawlStats.pdb

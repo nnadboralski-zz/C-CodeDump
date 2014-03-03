@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GradientProgressBar">
+</Property><Property Name="Solution File" Value="C:\Projects\gitWorthy\GradientProgressBar\GradientProgressBar.sln">
+</Property><Property Name="User Options File" Value="C:\Projects\gitWorthy\GradientProgressBar\GradientProgressBar.suo">
+</Property><Property Name="Date" Value="Monday, March 03, 2014">
+</Property><Property Name="Time" Value="4:08 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GradientProgressBar.sln" Description="File successfully backed up as C:\Projects\gitWorthy\GradientProgressBar\Backup\GradientProgressBar.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GradientProgressBar.suo" Description="File successfully backed up as C:\Projects\gitWorthy\GradientProgressBar\Backup\GradientProgressBar.suo">
+</Event><Event ErrorLevel="0" Project="GradientProgressBar" Source="GradientProgressBar\GradientProgressBar.csproj" Description="Project file successfully backed up as C:\Projects\gitWorthy\GradientProgressBar\Backup\GradientProgressBar\GradientProgressBar.csproj">
+</Event><Event ErrorLevel="0" Project="GradientProgressBar" Source="GradientProgressBar\UserControl1.cs" Description="File successfully backed up as C:\Projects\gitWorthy\GradientProgressBar\Backup\GradientProgressBar\UserControl1.cs">
+</Event><Event ErrorLevel="0" Project="GradientProgressBar" Source="GradientProgressBar\UserControl1.Designer.cs" Description="File successfully backed up as C:\Projects\gitWorthy\GradientProgressBar\Backup\GradientProgressBar\UserControl1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GradientProgressBar" Source="GradientProgressBar\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Projects\gitWorthy\GradientProgressBar\Backup\GradientProgressBar\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GradientProgressBar" Source="GradientProgressBar\UserControl1.resx" Description="File successfully backed up as C:\Projects\gitWorthy\GradientProgressBar\Backup\GradientProgressBar\UserControl1.resx">
+</Event><Event ErrorLevel="1" Project="GradientProgressBar" Source="GradientProgressBar\GradientProgressBar.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="GradientProgressBar" Source="GradientProgressBar\GradientProgressBar.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GradientProgressBar" Source="GradientProgressBar\GradientProgressBar.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GradientProgressBar.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GradientProgressBar.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GradientProgressBar" Source="GradientProgressBar\GradientProgressBar.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

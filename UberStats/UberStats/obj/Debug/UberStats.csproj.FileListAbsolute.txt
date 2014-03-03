@@ -1,0 +1,2 @@
+C:\Projects\gitWorthy\UberStats\UberStats\obj\Debug\UberStats.exe
+C:\Projects\gitWorthy\UberStats\UberStats\obj\Debug\UberStats.pdb

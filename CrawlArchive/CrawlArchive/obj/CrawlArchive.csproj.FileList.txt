@@ -1,0 +1,8 @@
+bin\Debug\CrawlArchive.exe
+bin\Debug\CrawlArchive.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CrawlArchive.Form1.resources
+obj\Debug\CrawlArchive.Properties.Resources.resources
+obj\Debug\CrawlArchive.csproj.GenerateResource.Cache
+obj\Debug\CrawlArchive.exe
+obj\Debug\CrawlArchive.pdb

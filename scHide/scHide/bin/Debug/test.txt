@@ -1,0 +1,42 @@
+ Volume in drive C is PC COE
+ Volume Serial Number is BC2C-1D23
+
+ Directory of C:\Users\nadboral\Documents\Visual Studio 2010\Projects\scHide\scHide\bin\Debug
+
+[.]                 [..]                scHide.exe          scHide.pdb
+scHide.vshost.exe   Test.bat            test.txt            
+               5 File(s)         38,755 bytes
+               2 Dir(s)  141,438,283,776 bytes free
+ Volume in drive C is OS
+ Volume Serial Number is 2AB1-0E54
+
+ Directory of C:\Projects\gitWorthy\scHide\scHide\bin\Debug
+
+[.]                          [..]
+scHide.exe                   scHide.pdb
+scHide.vshost.exe            scHide.vshost.exe.manifest
+Test.bat                     test.txt
+               6 File(s)         42,204 bytes
+               2 Dir(s)  857,436,688,384 bytes free
+ Volume in drive C is OS
+ Volume Serial Number is 2AB1-0E54
+
+ Directory of C:\Projects\gitWorthy\scHide\scHide\bin\Debug
+
+[.]                          [..]
+scHide.exe                   scHide.pdb
+scHide.vshost.exe            scHide.vshost.exe.manifest
+Test.bat                     test.txt
+               6 File(s)         42,603 bytes
+               2 Dir(s)  857,436,585,984 bytes free
+ Volume in drive C is OS
+ Volume Serial Number is 2AB1-0E54
+
+ Directory of C:\Projects\gitWorthy\scHide\scHide\bin\Debug
+
+[.]                          [..]
+scHide.exe                   scHide.pdb
+scHide.vshost.exe            scHide.vshost.exe.manifest
+Test.bat                     test.txt
+               6 File(s)         43,002 bytes
+               2 Dir(s)  857,436,585,984 bytes free

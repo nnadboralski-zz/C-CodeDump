@@ -1,0 +1,2 @@
+C:\Projects\gitWorthy\FolderList\FolderList\obj\Debug\FolderList.exe
+C:\Projects\gitWorthy\FolderList\FolderList\obj\Debug\FolderList.pdb

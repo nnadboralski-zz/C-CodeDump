@@ -1,0 +1,10 @@
+C:\Users\nadboral\Documents\Visual Studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-lfeditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nadboral\Documents\Visual Studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-lfeditor\obj\x86\Debug\hp_tac_tk_lfeditor.Form1.resources
+C:\Users\nadboral\Documents\Visual Studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-lfeditor\obj\x86\Debug\hp_tac_tk_lfeditor.Properties.Resources.resources
+C:\Users\nadboral\Documents\Visual Studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-lfeditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\nadboral\Documents\Visual Studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-lfeditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\nadboral\Documents\Visual Studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-lfeditor\bin\Debug\hp-tac-tk-lfeditor.exe
+C:\Users\nadboral\Documents\Visual Studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-lfeditor\bin\Debug\hp-tac-tk-lfeditor.pdb
+C:\Users\nadboral\Documents\Visual Studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-lfeditor\obj\x86\Debug\hp-tac-tk-lfeditor.exe
+C:\Users\nadboral\Documents\Visual Studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-lfeditor\obj\x86\Debug\hp-tac-tk-lfeditor.pdb
+C:\Users\nadboral\Documents\Visual Studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-lfeditor\obj\x86\Debug\hp_tac_tk_lfeditor.SCBConfiguration.resources

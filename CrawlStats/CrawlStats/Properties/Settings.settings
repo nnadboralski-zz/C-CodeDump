@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CrawlStats.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="HttpHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://yourhost.com/</Value>
+    </Setting>
+    <Setting Name="FtpHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ftp://yourhost.com/</Value>
+    </Setting>
+    <Setting Name="FtpPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">21</Value>
+    </Setting>
+    <Setting Name="FtpUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FtpPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CrawlDirectory" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

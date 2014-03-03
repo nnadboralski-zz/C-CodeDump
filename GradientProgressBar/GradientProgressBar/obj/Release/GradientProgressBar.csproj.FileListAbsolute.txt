@@ -1,0 +1,6 @@
+C:\Projects\gitWorthy\GradientProgressBar\GradientProgressBar\bin\Release\GradientProgressBar.dll
+C:\Projects\gitWorthy\GradientProgressBar\GradientProgressBar\bin\Release\GradientProgressBar.pdb
+C:\Projects\gitWorthy\GradientProgressBar\GradientProgressBar\obj\Release\GradientProgressBar.GradientProgressBar.resources
+C:\Projects\gitWorthy\GradientProgressBar\GradientProgressBar\obj\Release\GradientProgressBar.csproj.GenerateResource.Cache
+C:\Projects\gitWorthy\GradientProgressBar\GradientProgressBar\obj\Release\GradientProgressBar.dll
+C:\Projects\gitWorthy\GradientProgressBar\GradientProgressBar\obj\Release\GradientProgressBar.pdb

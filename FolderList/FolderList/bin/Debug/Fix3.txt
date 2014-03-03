@@ -1,0 +1,617 @@
+Empty: K:\Uber\DL\+OST
+Empty: K:\Uber\DL\0-#
+Empty: K:\Uber\DL\A-B
+Empty: K:\Uber\DL\C-D
+Empty: K:\Uber\DL\E-F
+Empty: K:\Uber\DL\G-H
+Empty: K:\Uber\DL\I-J\Indigo Girls - 1987 - Strange Fire
+Empty: K:\Uber\DL\I-J
+Empty: K:\Uber\DL\K-L
+Empty: K:\Uber\DL\M-N\Muse - 2002 - Hullabaloo
+Empty: K:\Uber\DL\M-N\Now 66 - Apr 2007
+Empty: K:\Uber\DL\M-N
+Empty: K:\Uber\DL\O-P\Pink Floyd - 1979 - The Wall
+Empty: K:\Uber\DL\O-P\Porcupine Tree - Lightbulb Sun Special Edition
+Empty: K:\Uber\DL\O-P
+Empty: K:\Uber\DL\Q-R\Queen - 1992 - Opera Omnia
+Empty: K:\Uber\DL\Q-R
+Empty: K:\Uber\DL\S-T
+Empty: K:\Uber\DL\U-W
+Empty: K:\Uber\DL\X-Z
+Empty: K:\Uber\DL
+Empty: K:\Uber\Flac
+Empty: K:\Uber\Rips
+Empty: K:\Uber
+NoLog: K:\Uber\DL\+OST
+NoLog: K:\Uber\DL\0-#
+NoLog: K:\Uber\DL\A-B\Burzum - 1997 - Daudi Baldrs\scans
+NoLog: K:\Uber\DL\A-B
+NoLog: K:\Uber\DL\C-D
+NoLog: K:\Uber\DL\E-F
+NoLog: K:\Uber\DL\G-H
+NoLog: K:\Uber\DL\I-J\Indigo Girls - 1987 - Strange Fire
+NoLog: K:\Uber\DL\I-J
+NoLog: K:\Uber\DL\K-L
+NoLog: K:\Uber\DL\M-N\Muse - 2002 - Hullabaloo
+NoLog: K:\Uber\DL\M-N\Now 66 - Apr 2007
+NoLog: K:\Uber\DL\M-N
+NoLog: K:\Uber\DL\O-P\Pink Floyd - 1979 - The Wall
+NoLog: K:\Uber\DL\O-P\Porcupine Tree - Lightbulb Sun Special Edition
+NoLog: K:\Uber\DL\O-P
+NoLog: K:\Uber\DL\Q-R\Queen - 1992 - Opera Omnia
+NoLog: K:\Uber\DL\Q-R
+NoLog: K:\Uber\DL\S-T\The Sisters Of Mercy - 1993 - A Slight Case Of Overbombing Greatest Hits, Vol. One\Covers
+NoLog: K:\Uber\DL\S-T
+NoLog: K:\Uber\DL\U-W
+NoLog: K:\Uber\DL\X-Z
+NoLog: K:\Uber\DL
+NoLog: K:\Uber\Flac
+NoLog: K:\Uber\Rips
+NoLog: K:\Uber
+APX: K:\Uber\DL\+OST\A. R. Rahman - 2002 - Bombay Dreams (OST)
+APX: K:\Uber\DL\+OST\Bryan Adams - 2002 - Spirit Stallion of the Cimarron
+APX: K:\Uber\DL\+OST\Disney - 1995 - Classic Disney Volume I (OST)
+APX: K:\Uber\DL\+OST\Disney - 1995 - Classic Disney Volume II (OST)
+APX: K:\Uber\DL\+OST\Hans Zimmer - 1995 - Crimson Tide (OST)
+APX: K:\Uber\DL\+OST\Hans Zimmer - 2002 - Black Hawk Down (OST)
+APX: K:\Uber\DL\+OST\Hans Zimmer - 2003 - The Last Samurai (OST)
+APX: K:\Uber\DL\+OST\Michael Andrews - 2002 - Donnie Darko (OST)
+APX: K:\Uber\DL\+OST\Nobuo Uematsu - 1994 - Final Fantasy IV (OSV)
+APX: K:\Uber\DL\+OST\Nobuo Uematsu - 1994 - Final Fantasy VI (OST) (Disc 1)
+APX: K:\Uber\DL\+OST\Nobuo Uematsu - 1994 - Final Fantasy VI (OST) (Disc 2)
+APX: K:\Uber\DL\+OST\Nobuo Uematsu - 1994 - Final Fantasy VI (OST) (Disc 3)
+APX: K:\Uber\DL\+OST\Rob Zombie - 2003 - House of 1000 Corpses (OST)
+APX: K:\Uber\DL\+OST\Spider-Man 2 (OST) - 2004
+APX: K:\Uber\DL\+OST\Yann Tiersen - 2001 - Le Fabuleux Destin D'Amelie Poulain (OST)
+APX: K:\Uber\DL\0-#\+ - - 2002 - Self-Titled Long-Playing Debut Album
+APX: K:\Uber\DL\0-#\38 Special - 1980 - Wild-Eyed Southern Boys
+APX: K:\Uber\DL\0-#\50 Cent - 2007 - Curtis
+APX: K:\Uber\DL\A-B\A Perfect Circle - 2000 - Judith
+APX: K:\Uber\DL\A-B\A. R. Rahman - 2004 - Hits Of A. R. Rahman [Promo]
+APX: K:\Uber\DL\A-B\AC DC - 1975 - High Voltage
+APX: K:\Uber\DL\A-B\AC DC - 1976 - Dirty Deeds Done Dirt Cheap
+APX: K:\Uber\DL\A-B\AC DC - 1985 - Fly On The Wall
+APX: K:\Uber\DL\A-B\AC DC - 2000 - Stiff Upper Lip
+APX: K:\Uber\DL\A-B\Acoustic Alchemy - 1989 - Presented With New Hi-Fi Sound
+APX: K:\Uber\DL\A-B\Aikawa Nanase - 2005 - R.U.O.K. !
+APX: K:\Uber\DL\A-B\Alan Jackson - 2000 - When Somebody Loves You
+APX: K:\Uber\DL\A-B\Alasdair Fraser - 1995 - Dawn Dance
+APX: K:\Uber\DL\A-B\Alchemist - 1993 - Jar Of Kingdom [1999 Reissue]
+APX: K:\Uber\DL\A-B\Alchemist - 1994 - Lunasphere
+APX: K:\Uber\DL\A-B\Alchemist - 1997 - Spiritech
+APX: K:\Uber\DL\A-B\Alchemist - 1998 - Eve Of The War (EP)
+APX: K:\Uber\DL\A-B\Alchemist - 2003 - Austral Alien
+APX: K:\Uber\DL\A-B\Altan - 1992 - Harvest Storm
+APX: K:\Uber\DL\A-B\Altan - 2000 - Another Sky
+APX: K:\Uber\DL\A-B\Altan - 2002 - The Blue Idol
+APX: K:\Uber\DL\A-B\Altan - 2005 - Local Ground
+APX: K:\Uber\DL\A-B\Alter Bridge - 2004 - One Day Remains
+APX: K:\Uber\DL\A-B\Apocalyptica - 2003 - Faraway Vol. II (Single)
+APX: K:\Uber\DL\A-B\Apocalyptica - 2003 - Seeman Feat. Nina Hagen (Single)
+APX: K:\Uber\DL\A-B\Apoptygma Berzerk - 1998 - 7
+APX: K:\Uber\DL\A-B\Assemblage 23 - 2002 - Document (Maxi CD)
+APX: K:\Uber\DL\A-B\Atreyu - 2004 - The Curse [Digipack]
+APX: K:\Uber\DL\A-B\Audiovent - 2002 - Dirty Sexy Knights In Paris
+APX: K:\Uber\DL\A-B\Avenged Sevenfold - 2001 - Sounding the Seventh Trumpet
+APX: K:\Uber\DL\A-B\Avenged Sevenfold - 2003 - Waking The Fallen
+APX: K:\Uber\DL\A-B\Avenged Sevenfold - 2005 - City Of Evil
+APX: K:\Uber\DL\A-B\Babes in Toyland - 1992 - Fontanelle
+APX: K:\Uber\DL\A-B\Babes In Toyland - 1995 - Nemesisters
+APX: K:\Uber\DL\A-B\Beth Orton - 2002 - Daybreaker
+APX: K:\Uber\DL\A-B\Biosphere - 2006 - Dropsonde
+APX: K:\Uber\DL\A-B\Bjîrk - 2001 - Pagan Poetry - Black (Single)
+APX: K:\Uber\DL\A-B\Bjîrk - 2001 - Pagan Poetry - White (Single)
+APX: K:\Uber\DL\A-B\Bjîrk - 2002 - Family Tree (Disc 1) - Roots
+APX: K:\Uber\DL\A-B\Bjîrk - 2002 - Family Tree (Disc 2) - Roots
+APX: K:\Uber\DL\A-B\Bjîrk - 2002 - Family Tree (Disc 3) - Beats
+APX: K:\Uber\DL\A-B\Bjîrk - 2002 - Family Tree (Disc 4) - Strings
+APX: K:\Uber\DL\A-B\Bjîrk - 2002 - Family Tree (Disc 5) - Strings
+APX: K:\Uber\DL\A-B\Bjîrk - 2002 - Family Tree (Disc 6) - Greatest Hits as chosen by Bjîrk
+APX: K:\Uber\DL\A-B\Blind Guardian - 1988 - Battalions Of Fear
+APX: K:\Uber\DL\A-B\Blindside - 2002 - Silence
+APX: K:\Uber\DL\A-B\Blink 182 - 2003 - Blink 182
+APX: K:\Uber\DL\A-B\blink-182 - 2003 - Blink-182
+APX: K:\Uber\DL\A-B\Blondie - 1995 - The Remix Project
+APX: K:\Uber\DL\A-B\Blondie - 2003 - The Curse of Blondie
+APX: K:\Uber\DL\A-B\Blue Oyster Cult - 1978 - Some Enchanted Evening
+APX: K:\Uber\DL\A-B\Blue Oyster Cult - 1983 - The Best of - Don't Fear the Reaper
+APX: K:\Uber\DL\A-B\Blue Oyster Cult - 2000 - Don't Fear The Reaper The Best Of
+APX: K:\Uber\DL\A-B\Blue Oyster Cult - 2001 - Agents Of Fortune
+APX: K:\Uber\DL\A-B\Blof - 1997 - Helder
+APX: K:\Uber\DL\A-B\Bon Jovi - 1985 - 7800 Fahrenheit
+APX: K:\Uber\DL\A-B\Bon Jovi - 1991 - Hard & Hot
+APX: K:\Uber\DL\A-B\Bon Jovi - 1994 - Cross Road [US]
+APX: K:\Uber\DL\A-B\Bon Jovi - 1995 - On Stage In Philadelphia
+APX: K:\Uber\DL\A-B\Bon Jovi - 1995 - This Ain't A Love Song (EP)
+APX: K:\Uber\DL\A-B\Bon Jovi - 2004 - 100,000,000 Bon Jovi Fans Can't Be Wrong (Disc 2)
+APX: K:\Uber\DL\A-B\Boy Hits Car - 2001 - Boy Hits Car
+APX: K:\Uber\DL\A-B\Breaking Benjamin - 2002 - Saturate
+APX: K:\Uber\DL\A-B\Bryan Adams - 2002 - Spirit Stallion of the Cimarron
+APX: K:\Uber\DL\A-B\Built to Spill - 1997 - Perfect From Now On
+APX: K:\Uber\DL\A-B\Burzum - 1993 - Det Som Engang Var
+APX: K:\Uber\DL\A-B\Burzum - 1994 - Hvis Lyset Tar Oss
+APX: K:\Uber\DL\A-B\Burzum - 1996 - Filosofem
+APX: K:\Uber\DL\A-B\Bush - 1994 - Sixteen Stone
+APX: K:\Uber\DL\A-B\By The Tree - 2001 - Invade My Soul
+APX: K:\Uber\DL\C-D\Celtic Voices Women Of Song - 1995
+APX: K:\Uber\DL\C-D\Christy Moore - 1988 - Christy Moore
+APX: K:\Uber\DL\C-D\Chumbawamba - 1991 - First 2 LP's
+APX: K:\Uber\DL\C-D\Chumbawamba - 1995 - Swingin' With Raymond
+APX: K:\Uber\DL\C-D\Circle Of Dust - 1992 - Circle Of Dust
+APX: K:\Uber\DL\C-D\Clannad - 2000 - Greatest Hits
+APX: K:\Uber\DL\C-D\Coheed And Cambria - 2003 - In Keeping Secrets Of Silent Earth 3
+APX: K:\Uber\DL\C-D\Coheed And Cambria - 2004 - Live At La Zona Rosa
+APX: K:\Uber\DL\C-D\Coldplay - 2000 - Bonus CD Parachutes (EP)
+APX: K:\Uber\DL\C-D\Coldplay - 2003 - Clocks (Single) (Disc 1)
+APX: K:\Uber\DL\C-D\Coldplay - 2003 - Live in Ahoy Rotterdam (Disc 1)
+APX: K:\Uber\DL\C-D\Coldplay - 2003 - Unplugged
+APX: K:\Uber\DL\C-D\Cradle Of Filth - 1997 - Sodomizing The Virgin Vamps
+APX: K:\Uber\DL\C-D\Cradle Of Filth - 2002 - Live Bait For The Dead (Disc 1)
+APX: K:\Uber\DL\C-D\Cradle Of Filth - 2002 - Live Bait For The Dead (Disc 2)
+APX: K:\Uber\DL\C-D\Dan Gibson - 1992 - Solitudes Atlantic Suite
+APX: K:\Uber\DL\C-D\Daniel Bedingfield - 2002 - If You're Not The One
+APX: K:\Uber\DL\C-D\Darkthrone - 2003 - Hate Them
+APX: K:\Uber\DL\C-D\Dashboard Confessional - 2004 - Vindicated (Single)
+APX: K:\Uber\DL\C-D\Dashboard Confessional - 2005 - The Piano Tribute to Dashboard Confessional
+APX: K:\Uber\DL\C-D\Dave Gahan - 2003 - Dirty Sticky Floors (EP)
+APX: K:\Uber\DL\C-D\Dave Weckl - 1990 - Master Plan
+APX: K:\Uber\DL\C-D\David Bowie - 1995 - Strangers When We Meet (EP)
+APX: K:\Uber\DL\C-D\David Bowie - 2000 - Bowie At The Beeb - (Disc 3) BBC Radio Theatre, London, June 27, 2000
+APX: K:\Uber\DL\C-D\Death Cab for Cutie - 2002 - The Photo Album (Bonus Disc)
+APX: K:\Uber\DL\C-D\Deep Forest - 1997 - Comparsa - Deep Forest III
+APX: K:\Uber\DL\C-D\Deep Purple - 1969 - The Book Of Taliesyn
+APX: K:\Uber\DL\C-D\Deep Purple - 1974 - Stormbringer
+APX: K:\Uber\DL\C-D\Deep Purple - 1994 - Smoke On The Water, The Best Of
+APX: K:\Uber\DL\C-D\Def Leppard - 2002 - X
+APX: K:\Uber\DL\C-D\Delerium - 1988 - Morpheus
+APX: K:\Uber\DL\C-D\Delerium - 2003 - Chimera
+APX: K:\Uber\DL\C-D\Demons & Wizards - 1999 - Demons & Wizards
+APX: K:\Uber\DL\C-D\Depeche Mode - 1983 - Construction Time Again
+APX: K:\Uber\DL\C-D\Depeche Mode - 1983 - Everything Counts (Single)
+APX: K:\Uber\DL\C-D\Depeche Mode - 1984 - Blasphemous Rumours (Single)
+APX: K:\Uber\DL\C-D\Depeche Mode - 1987 - Little 15 (Single)
+APX: K:\Uber\DL\C-D\Depeche Mode - 1987 - Never Let Me Down Again (EP)
+APX: K:\Uber\DL\C-D\Depeche Mode - 1990 - Enjoy The Silence (Maxi CD)
+APX: K:\Uber\DL\C-D\Depeche Mode - 1990 - Policy Of Truth (Single)
+APX: K:\Uber\DL\C-D\Depeche Mode - 1990 - World In My Eyes (Single)
+APX: K:\Uber\DL\C-D\Depeche Mode - 1993 - Condemnation (EP)
+APX: K:\Uber\DL\C-D\Depeche Mode - 1993 - I Feel You (Single)
+APX: K:\Uber\DL\C-D\Depeche Mode - 1993 - Walking In My Shoes (Maxi CD)
+APX: K:\Uber\DL\C-D\Depeche Mode - 1994 - In Your Room (Single)
+APX: K:\Uber\DL\C-D\Depeche Mode - 1997 - Home (Single)
+APX: K:\Uber\DL\C-D\Depeche Mode - 1997 - Songs Of Faith And Devotion Live
+APX: K:\Uber\DL\C-D\Depeche Mode - 1998 - Only When I Lose Myself (Single)
+APX: K:\Uber\DL\C-D\Depeche Mode - 2000 - Ultra Hot Art Disc Three
+APX: K:\Uber\DL\C-D\Depeche Mode - 2000 - Ultra Hot Art Three [Bootleg]
+APX: K:\Uber\DL\C-D\Depeche Mode - 2005 - KROQ Almost Acoustic Christmas 2005 [Promo]
+APX: K:\Uber\DL\C-D\Depeche Mode - 2006 - The Best Of Depeche Mode Volume 1
+APX: K:\Uber\DL\C-D\Depeche Mode - The Niagara Radiostation-Mix [Bootleg]
+APX: K:\Uber\DL\C-D\Diana Krall - 1998 - Have Yourself A Merry Little Christmas (Ep)
+APX: K:\Uber\DL\C-D\DJ Danger Mouse - 2004 - The Grey Album
+APX: K:\Uber\DL\C-D\DJ Danger Mouse - The Grey Album
+APX: K:\Uber\DL\C-D\Dokken - 1985 - Under Lock & Key
+APX: K:\Uber\DL\C-D\Dokken - 1987 - Back For The Attack
+APX: K:\Uber\DL\C-D\Dream Theater - 1989 - When Dream And Day Unite
+APX: K:\Uber\DL\C-D\Dredg - 2001 - Leitmotif
+APX: K:\Uber\DL\E-F\Eagles - 1976 - Greatest Hits 1971-1975
+APX: K:\Uber\DL\E-F\Eagles - 1976 - Hotel California
+APX: K:\Uber\DL\E-F\Eels - 2003 - Shootenanny!
+APX: K:\Uber\DL\E-F\Emiliana Torrini - 2000 - Love In The Time Of Science
+APX: K:\Uber\DL\E-F\Enya - 1988 - Watermark
+APX: K:\Uber\DL\E-F\Enya - 2002 - Only Time - The Collection (Disc 1)
+APX: K:\Uber\DL\E-F\Evanescence - 2003 - Fallen
+APX: K:\Uber\DL\E-F\Evanescence - 2004 - Anywhere But Home
+APX: K:\Uber\DL\E-F\Every Little Thing - 2000 - eternity
+APX: K:\Uber\DL\E-F\Extreme Euphoria 1 (Disc 1) - 2002
+APX: K:\Uber\DL\E-F\Extreme Euphoria 1 (Disc 2) - 2002
+APX: K:\Uber\DL\E-F\Extreme Euphoria 2 (Disc 1) - 2002
+APX: K:\Uber\DL\E-F\Extreme Euphoria 2 (Disc 2) - 2002
+APX: K:\Uber\DL\E-F\Extreme Euphoria 3 (Disc 1) - 2003
+APX: K:\Uber\DL\E-F\Extreme Euphoria 3 (Disc 2) - 2003
+APX: K:\Uber\DL\E-F\Feeder - 2005 - Pushing The Senses
+APX: K:\Uber\DL\E-F\Fine Young Cannibals - 1990 - The Raw & The Remix
+APX: K:\Uber\DL\E-F\Fourplay - 2002 - Heartfelt
+APX: K:\Uber\DL\E-F\Front Line Assembly - 1992 - Tactical Neural Implant
+APX: K:\Uber\DL\E-F\Frontline Assembly - 2006 - Artificial Soldier
+APX: K:\Uber\DL\G-H\Gamma Ray - 1995 - Land Of The Free
+APX: K:\Uber\DL\G-H\Gandalf - 1982 - Visions
+APX: K:\Uber\DL\G-H\Gandalf - 1983 - Magic Theatre
+APX: K:\Uber\DL\G-H\Garbage - 1995 - Garbage
+APX: K:\Uber\DL\G-H\Garbage - 2001 - Beautiful Garbage
+APX: K:\Uber\DL\G-H\Genesis - 1969 - The Compact Collection
+APX: K:\Uber\DL\G-H\Genesis - 1980 - Duke
+APX: K:\Uber\DL\G-H\Genesis - 1983 - Genesis
+APX: K:\Uber\DL\G-H\Genesis - 1997 - Calling All Stations
+APX: K:\Uber\DL\G-H\Genesis - 1999 - Turn It on Again - the Hits
+APX: K:\Uber\DL\G-H\Godsmack - 2003 - Faceless
+APX: K:\Uber\DL\G-H\Goo Goo Dolls - 1998 - Dizzy Up The Girl
+APX: K:\Uber\DL\G-H\Gov't Mule - 2002 - The Deep End Vol. 2
+APX: K:\Uber\DL\G-H\H.I.M. - 2003 - Razorblade Romance
+APX: K:\Uber\DL\G-H\Halford - 2000 - Resurrection
+APX: K:\Uber\DL\G-H\Haujobb - 1996 - Solutions For A Small Planet
+APX: K:\Uber\DL\G-H\HIM - 2004 - And Love Said No - The Greatest Hits 1997-2004
+APX: K:\Uber\DL\G-H\hiro - 2000 - Treasure (Maxi CD)
+APX: K:\Uber\DL\I-J\Iced Earth - 1988 - Enter the Realm (EP)
+APX: K:\Uber\DL\I-J\Iced Earth - 1990 - Iced Earth
+APX: K:\Uber\DL\I-J\Iced Earth - 2002 - Tribute To The Gods
+APX: K:\Uber\DL\I-J\Idlewild - 2000 - 100 Broken Windows
+APX: K:\Uber\DL\I-J\In Flames - 1999 - Colony
+APX: K:\Uber\DL\I-J\In Flames - 2004 - Soundtrack To Your Escape
+APX: K:\Uber\DL\I-J\In Flames - 2004 - Soundtrack to Your Escape (Digipack)
+APX: K:\Uber\DL\I-J\Incubus - 1999 - Make Yourself
+APX: K:\Uber\DL\I-J\Incubus - 2000 - When Incubus Attacks vol. 1
+APX: K:\Uber\DL\I-J\Iron Maiden - 1980 - Women In Uniform Twilight Zone
+APX: K:\Uber\DL\I-J\Iron Maiden - 1988 - Can I Play With Madness The Evil That Men Do
+APX: K:\Uber\DL\I-J\Iron Maiden - 1988 - The Clairvoyant Infinite Dreams (EP)
+APX: K:\Uber\DL\I-J\Iron Maiden - 1990 - Flight Of Icarus (EP)
+APX: K:\Uber\DL\I-J\Iron Maiden - 1990 - No Prayer For The Dying
+APX: K:\Uber\DL\I-J\Iron Maiden - 1990 - The First Ten Years (Disc 1) - Running Free; Sanctuary
+APX: K:\Uber\DL\I-J\Iron Maiden - 1990 - The First Ten Years (Disc 10) - The Clairvoyant; Infinite Dreams
+APX: K:\Uber\DL\I-J\Iron Maiden - 1990 - The First Ten Years (Disc 2) - Women In Uniform; Twilight Zone
+APX: K:\Uber\DL\I-J\Iron Maiden - 1990 - The First Ten Years (Disc 3) - Purgatory; Maiden Japan
+APX: K:\Uber\DL\I-J\Iron Maiden - 1990 - The First Ten Years (Disc 4) - Run To The Hills; The Number Of The Beast
+APX: K:\Uber\DL\I-J\Iron Maiden - 1990 - The First Ten Years (Disc 5) - Flight Of Icarus; The Trooper
+APX: K:\Uber\DL\I-J\Iron Maiden - 1990 - The First Ten Years (Disc 6) - 2 Minutes To Midnight; Aces High
+APX: K:\Uber\DL\I-J\Iron Maiden - 1990 - The First Ten Years (Disc 7) - Running Free; Run To The Hills
+APX: K:\Uber\DL\I-J\Iron Maiden - 1990 - The First Ten Years (Disc 8) - Wasted Years; Stranger In A Strange Land
+APX: K:\Uber\DL\I-J\Iron Maiden - 1990 - The First Ten Years (Disc 9) - Can I Play With Madness; The Evil That Men Do
+APX: K:\Uber\DL\I-J\Iron Maiden - 1999 - Ed Hunter (Disc 1)
+APX: K:\Uber\DL\I-J\Iron Maiden - 1999 - Ed Hunter (Disc 2)
+APX: K:\Uber\DL\I-J\Jack Off Jill - 1998 - Covetous Creature
+APX: K:\Uber\DL\I-J\Japan - 1981 - Tin Drum
+APX: K:\Uber\DL\I-J\Jewel - 1998 - Spirit
+APX: K:\Uber\DL\I-J\Jewel - 1999 - Bits And Baubles
+APX: K:\Uber\DL\I-J\Jewel - 2003 - 0304
+APX: K:\Uber\DL\I-J\Jimi Hendrix - 1984 - Kiss The Sky
+APX: K:\Uber\DL\I-J\Jimi Hendrix - 1991 - Cornerstones 1967-1970
+APX: K:\Uber\DL\I-J\Jimi Hendrix - 1997 - Experience Hendrix The Best Of Jimi Hendrix
+APX: K:\Uber\DL\I-J\Jimi Hendrix - 2001 - Crash Landing
+APX: K:\Uber\DL\I-J\John Coltrane - 1998 - The Classic Quartet--Complete Impulse! Studio Recordings (Disc 3)
+APX: K:\Uber\DL\I-J\John Denver - 1998 - Rocky Mountain Christmas
+APX: K:\Uber\DL\I-J\John Frusciante - 2004 - DC (EP)
+APX: K:\Uber\DL\I-J\John Legend - 2008 - Evolver
+APX: K:\Uber\DL\I-J\Johnny Cash - 1996 - Unchained
+APX: K:\Uber\DL\I-J\Joshua Kadison - 2001 - Vanishing America
+APX: K:\Uber\DL\I-J\Judas Priest - 1988 - Ram It Down
+APX: K:\Uber\DL\I-J\Judas Priest - 1998 - '98 Live Meltdown (Disc 1)
+APX: K:\Uber\DL\I-J\Judas Priest - 1998 - '98 Live Meltdown (Disc 2)
+APX: K:\Uber\DL\I-J\Junior Senior - 2003 - D-D-Don't Don't Stop the Beat
+APX: K:\Uber\DL\K-L\Kanye West - 2007 - Graduation
+APX: K:\Uber\DL\K-L\Katatonia - 1998 - Discouraged Ones
+APX: K:\Uber\DL\K-L\Katatonia - 1999 - Tonight's Decision
+APX: K:\Uber\DL\K-L\Keiko Matsui - 1990 - No Borders
+APX: K:\Uber\DL\K-L\Keiko Matsui - 1992 - Cherry Blossom
+APX: K:\Uber\DL\K-L\Kendall Payne - 1999 - Jordan's Sister
+APX: K:\Uber\DL\K-L\Kill Hannah - 1998 - Here Are The Young Moderns
+APX: K:\Uber\DL\K-L\Kings Of Leon - 2003 - Holy Roller Novocaine (EP)
+APX: K:\Uber\DL\K-L\Korn - 1994 - Korn
+APX: K:\Uber\DL\K-L\Korn - 1999 - Issues
+APX: K:\Uber\DL\K-L\Kraftwerk - 1970 - Kraftwerk
+APX: K:\Uber\DL\K-L\Kraftwerk - 1971 - Kraftwerk 2
+APX: K:\Uber\DL\K-L\Kraftwerk - 1975 - Radio-Activity
+APX: K:\Uber\DL\K-L\Kraftwerk - 1991 - N1 To ZÅrich Recorded Live In Zurich, Switzerland 1991 [Bootleg]
+APX: K:\Uber\DL\K-L\L'Arc~en~Ciel - 2001 - Clicked Singles Best 13
+APX: K:\Uber\DL\K-L\Lacuna Coil - 2001 - Unleashed Memories
+APX: K:\Uber\DL\K-L\Ladytron - 2005 - Witching Hour
+APX: K:\Uber\DL\K-L\Lamb - 2001 - What Sound [2002 Limited Edition] (Bonus Disc)
+APX: K:\Uber\DL\K-L\Lamb Of God - 2000 - New American Gospel
+APX: K:\Uber\DL\K-L\Lamb Of God - 2006 - Sacrament
+APX: K:\Uber\DL\K-L\Led Zeppelin - 1971 - Led Zeppelin IV
+APX: K:\Uber\DL\K-L\Led Zeppelin - 1976 - Presence
+APX: K:\Uber\DL\K-L\Lenny Kravitz - 1989 - Let Love Rule
+APX: K:\Uber\DL\K-L\Lenny Kravitz - 1990 - Mr. Cabdriver (Live Chicago 1990)
+APX: K:\Uber\DL\K-L\Lenny Kravitz - 1993 - Believe (EP)
+APX: K:\Uber\DL\K-L\Lenny Kravitz - 1993 - Is There any Love in Your Heart
+APX: K:\Uber\DL\K-L\Lenny Kravitz - 1994 - Acoustic
+APX: K:\Uber\DL\K-L\Lenny Kravitz - 1995 - Circus
+APX: K:\Uber\DL\K-L\Lenny Kravitz - 1999 - 5
+APX: K:\Uber\DL\K-L\Lifehouse - 2000 - No Name Face
+APX: K:\Uber\DL\K-L\Linkin Park - 2002 - Hybrid Theory (Bonus Disc)
+APX: K:\Uber\DL\K-L\Live - 1991 - Mental Jewelry
+APX: K:\Uber\DL\K-L\Live At KEXP - Volume 1 - 2005
+APX: K:\Uber\DL\K-L\Liz Phair - 1994 - Whip-Smart
+APX: K:\Uber\DL\K-L\Lordi - 2004 - The Monster Show
+APX: K:\Uber\DL\K-L\Lordi - 2006 - The Arockalypse
+APX: K:\Uber\DL\K-L\Lords Of Acid - 1991 - Lust [Bonus Tracks]
+APX: K:\Uber\DL\K-L\Lords Of Acid - 1992 - Rough Sex (Single)
+APX: K:\Uber\DL\K-L\Lords Of Acid - 1994 - Voodoo U
+APX: K:\Uber\DL\K-L\Lords Of Acid - 2001 - Farstucker
+APX: K:\Uber\DL\K-L\Love Outside Andromeda - 2004 - Love Outside Andromeda
+APX: K:\Uber\DL\M-N\Maaya Sakamoto - 1997 - Grapefruit
+APX: K:\Uber\DL\M-N\Madonna - 1989 - Like A Prayer
+APX: K:\Uber\DL\M-N\Madonna - 1990 - The Immaculate Collection
+APX: K:\Uber\DL\M-N\Madonna - 2000 - Music
+APX: K:\Uber\DL\M-N\Madonna - 2005 - Confessions On A Dancefloor
+APX: K:\Uber\DL\M-N\Manowar - 2001 - Metal Hammer Collection (Bootleg)
+APX: K:\Uber\DL\M-N\Marillion - 2003 - Say Cheese! Christmas With Marillion
+APX: K:\Uber\DL\M-N\Marilyn Manson - 1995 - Sweet Dreams (Single)
+APX: K:\Uber\DL\M-N\Marilyn Manson - 1999 - The Last Tour On Earth
+APX: K:\Uber\DL\M-N\Marilyn Manson - 2003 - mOBSCENE (Single) [US]
+APX: K:\Uber\DL\M-N\Marilyn Manson - 2003 - The Golden Age Of Grotesque (Special Edition)
+APX: K:\Uber\DL\M-N\Marilyn Manson - 2004 - Lest We Forget (The Best Of)
+APX: K:\Uber\DL\M-N\Marilyn Manson - 2004 - Lest We Forget (The Best Of) (Disc 2) [Japan]
+APX: K:\Uber\DL\M-N\Marilyn Manson - 2004 - Personal Jesus (Single) [AU]
+APX: K:\Uber\DL\M-N\Matchbox 20 - 1996 - Yourself Or Someone Like You
+APX: K:\Uber\DL\M-N\Megadeth - 1988 - So Far, So Good ... So What!
+APX: K:\Uber\DL\M-N\Megadeth - 1994 - Youthanasia
+APX: K:\Uber\DL\M-N\MercyMe - 2001 - Almost There
+APX: K:\Uber\DL\M-N\MercyMe - 2002 - Spoken For
+APX: K:\Uber\DL\M-N\Metallica - 1982 - Live Before Death (Vol. 1) (Bootleg)
+APX: K:\Uber\DL\M-N\Metallica - 1984 - Live Before Death (Vol. 2) (Bootleg)
+APX: K:\Uber\DL\M-N\Metallica - 1994 - One (Single) [Japan]
+APX: K:\Uber\DL\M-N\Metallica - 1998 - Bay Area Thrashers The Early Days
+APX: K:\Uber\DL\M-N\Metallica - 1998 - Turn The Page (Single)
+APX: K:\Uber\DL\M-N\Metallica - 2003 - St. Anger (Single)
+APX: K:\Uber\DL\M-N\Metallica - 2003 - The Unnamed Feeling (EP)
+APX: K:\Uber\DL\M-N\Michael W. Smith - 1990 - Go West Young Man
+APX: K:\Uber\DL\M-N\Mike Oldfield - 1973 - Tubular Bells
+APX: K:\Uber\DL\M-N\Mindless Self Indulgence - 2008 - If
+APX: K:\Uber\DL\M-N\Mint Royale - 2002 - Sexiest Man In Jamaica
+APX: K:\Uber\DL\M-N\Mirah - 2001 - Advisory Committee
+APX: K:\Uber\DL\M-N\Mogwai - 1998 - Kicking a Dead Pig (Disc 1)
+APX: K:\Uber\DL\M-N\Mogwai - 1998 - Kicking a Dead Pig (Disc 2) (Mogwai Fear Satan Remixes)
+APX: K:\Uber\DL\M-N\Mogwai - 2008 - The Hawk Is Howling
+APX: K:\Uber\DL\M-N\Morphine - 1997 - B-Sides And Otherwise
+APX: K:\Uber\DL\M-N\Morphine - 2000 - Bootleg Detroit [Promo]
+APX: K:\Uber\DL\M-N\Motîrhead - 1983 - Another Perfect Day
+APX: K:\Uber\DL\M-N\Motîrhead - 1990 - Keep Us On The Road
+APX: K:\Uber\DL\M-N\Motîrhead - 1990 - Lock Up Your Daughters
+APX: K:\Uber\DL\M-N\Motîrhead - 1992 - Ace Of Spades [Masters Of Rock]
+APX: K:\Uber\DL\M-N\Motîrhead - 1992 - Spotlight Motîrhead
+APX: K:\Uber\DL\M-N\Motîrhead - 1993 - The Best Of & The Rest Of Motîrhead Volume 2
+APX: K:\Uber\DL\M-N\Motîrhead - 1996 - Overnight Sensation
+APX: K:\Uber\DL\M-N\Muse - 2003 - Time Is Running Out [EP]
+APX: K:\Uber\DL\M-N\Nada Surf - 2002 - Let Go [Bonus Tracks]
+APX: K:\Uber\DL\M-N\Natalie MacMaster - 2003 - Blueprint
+APX: K:\Uber\DL\M-N\Natasha Bedingfield - 2004 - Unwritten [Bonus Tracks]
+APX: K:\Uber\DL\M-N\Nelly Furtado - 2000 - Whoa, Nelly!
+APX: K:\Uber\DL\M-N\Nevermore - 2000 - Dead Heart, In A Dead World
+APX: K:\Uber\DL\M-N\Newsboys - 2000 - Shine The Hits
+APX: K:\Uber\DL\M-N\Nickelback - 1996 - Curb
+APX: K:\Uber\DL\M-N\Nine Inch Nails - 1992 - Broken (EP)
+APX: K:\Uber\DL\M-N\Nine Inch Nails - 1995 - Further Down the Spiral
+APX: K:\Uber\DL\M-N\Nine Inch Nails - 2002 - And All That Could Have Been
+APX: K:\Uber\DL\M-N\Nine Inch Nails - 2007 - Year Zero
+APX: K:\Uber\DL\M-N\No Doubt - 1992 - No Doubt
+APX: K:\Uber\DL\M-N\No Doubt - 2003 - Everything In Time
+APX: K:\Uber\DL\M-N\Nobuo Uematsu - 1994 - Final Fantasy VI Piano Collections
+APX: K:\Uber\DL\M-N\Now 66 - Apr 2007\Now 66 (Disc 1) - 2007
+APX: K:\Uber\DL\M-N\Now 66 - Apr 2007\Now 66 (Disc 2) - 2007
+APX: K:\Uber\DL\O-P\Oak - 2007 - Sleep Dream Walk Enter
+APX: K:\Uber\DL\O-P\One-Hit Wonders (Disc 3) - 2001
+APX: K:\Uber\DL\O-P\Oomph! - 1999 - Plastik
+APX: K:\Uber\DL\O-P\Ozzy Osbourne - 1981 - Diary Of A Madman
+APX: K:\Uber\DL\O-P\Ozzy Osbourne - 1997 - The Ozzman Cometh (Disc 1)
+APX: K:\Uber\DL\O-P\Ozzy Osbourne - 1997 - The Ozzman Cometh (Disc 2)
+APX: K:\Uber\DL\O-P\Pain - 1996 - Midgets With Guns
+APX: K:\Uber\DL\O-P\Pain - 1997 - Wonderful Beef
+APX: K:\Uber\DL\O-P\Papa Roach - 2002 - Lovehatetragedy
+APX: K:\Uber\DL\O-P\Peter Gabriel - 1983 - Plays Live (Disc 1)
+APX: K:\Uber\DL\O-P\Peter Gabriel - 1983 - Plays Live (Disc 2)
+APX: K:\Uber\DL\O-P\Peter Gabriel - 1992 - Digging In The Dirt (Maxi Single)
+APX: K:\Uber\DL\O-P\Peter Gabriel - 1993 - Blood Of Eden (Maxi Single)
+APX: K:\Uber\DL\O-P\Peter Gabriel - 1993 - Kiss That Frog (Maxi Single)
+APX: K:\Uber\DL\O-P\Peter Gabriel - 1993 - Steam (EP)
+APX: K:\Uber\DL\O-P\Peter Gabriel - 1994 - Lovetown (Maxi Single)
+APX: K:\Uber\DL\O-P\Peter Gabriel - 1994 - Secret World Live (EP)
+APX: K:\Uber\DL\O-P\Phoenix - 2004 - Alphabetical
+APX: K:\Uber\DL\O-P\Pink Floyd - 1970 - Atom Heart Mother [Original Master Recording]
+APX: K:\Uber\DL\O-P\Pink Floyd - 1973 - The Dark Side Of The Moon
+APX: K:\Uber\DL\O-P\Pink Floyd - 1979 - The Wall\Pink Floyd - 1979 - The Wall (Disc 1)
+APX: K:\Uber\DL\O-P\Pink Floyd - 1979 - The Wall\Pink Floyd - 1979 - The Wall (Disc 2)
+APX: K:\Uber\DL\O-P\Pink Floyd - 1987 - A Momentary Lapse Of Reason
+APX: K:\Uber\DL\O-P\Porcupine Tree - 2005 - Deadwing
+APX: K:\Uber\DL\O-P\Porcupine Tree - Lightbulb Sun Special Edition\Porcupine Tree - 2001 - Lightbulb Sun Special Edition (Disc 1)
+APX: K:\Uber\DL\O-P\Porcupine Tree - Lightbulb Sun Special Edition\Porcupine Tree - 2001 - Lightbulb Sun Special Edition (Disc 2)
+APX: K:\Uber\DL\O-P\Project Pitchfork - 1998 - Eon Eon
+APX: K:\Uber\DL\O-P\Puddle Of Mudd - 2001 - Control (Single)
+APX: K:\Uber\DL\O-P\Puddle Of Mudd - 2002 - She Hates Me (Single)
+APX: K:\Uber\DL\Q-R\Queen - 1977 - News Of The World [MFSL]
+APX: K:\Uber\DL\Q-R\Queen - 1977 - News Of The World [Mobile Fidelity]
+APX: K:\Uber\DL\Q-R\Queen - 1979 - Live Killers (Disc 1)
+APX: K:\Uber\DL\Q-R\Queen - 1979 - Live Killers (Disc 2)
+APX: K:\Uber\DL\Q-R\Queen - 1991 - Bohemian Rhapsody (Single)
+APX: K:\Uber\DL\Q-R\Queen - 1992 - Classic Queen
+APX: K:\Uber\DL\Q-R\Queen - 1994 - Greatest Hits II
+APX: K:\Uber\DL\Q-R\Queen - 2001 - The Platinum Collection - Greatest Hits I, II & III (Disc 1)
+APX: K:\Uber\DL\Q-R\Queens Of The Stone Age - 2000 - R
+APX: K:\Uber\DL\Q-R\Queens Of The Stone Age - 2002 - No One Knows (Single)
+APX: K:\Uber\DL\Q-R\Queens Of The Stone Age - 2002 - Songs For The Deaf
+APX: K:\Uber\DL\Q-R\Radiohead - 1997 - Moonstruck
+APX: K:\Uber\DL\Q-R\Radiohead - 2003 - 2+2=5 (Single, Disc 1)
+APX: K:\Uber\DL\Q-R\Radiohead - 2003 - 2+2=5 (Single, Disc 2)
+APX: K:\Uber\DL\Q-R\Rainbow - 1982 - Straight Between The Eyes
+APX: K:\Uber\DL\Q-R\Rammstein - 1997 - Engel (EP) [Fan Edition]
+APX: K:\Uber\DL\Q-R\Rammstein - 2004 - Mein Teil (Single)
+APX: K:\Uber\DL\Q-R\Ramones - 1987 - Halfway To Sanity
+APX: K:\Uber\DL\Q-R\Ramones - 1988 - Halfway To Russia - Live In Finland 1988 [Bootleg]
+APX: K:\Uber\DL\Q-R\Ramones - 1997 - We're Outta Here
+APX: K:\Uber\DL\Q-R\Rasputina - 2007 - Oh Perilous World
+APX: K:\Uber\DL\Q-R\Red Hot Chili Peppers - 1992 - What Hits!
+APX: K:\Uber\DL\Q-R\Red Hot Chili Peppers - 1995 - One Hot Minute
+APX: K:\Uber\DL\Q-R\Regina Spektor - 2004 - Soviet Kitsch
+APX: K:\Uber\DL\Q-R\Rhapsody - 2000 - Dawn Of Victory (Bonus Disc)
+APX: K:\Uber\DL\Q-R\Rilo Kiley - 2001 - Take Offs And Landings
+APX: K:\Uber\DL\Q-R\Ringo Shiina - 1999 - Muzai Moratorium (Innocence Moratorium)
+APX: K:\Uber\DL\Q-R\Ringo Shiina - 2003 - Karuki Zamen Kuri no Hana
+APX: K:\Uber\DL\Q-R\Robert Miles - 1997 - 23 AM
+APX: K:\Uber\DL\Q-R\Rush - 1988 - A Show Of Hands
+APX: K:\Uber\DL\Q-R\Ryan Cabrera - 2004 - Take It All Away
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1983 - Merry Christmas Mr. Lawrence (OST)
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1984 - Illustrated Musical Encyclopedia
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1986 - Media Bahn Live
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1986 - Miraiha Yaro (Futurista)
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1988 - Neo Geo
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1989 - Playing The Orchestra (Disc 1)
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1989 - Playing The Orchestra (Disc 2)
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1989 - Undo #1 (Maxi Single)
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1990 - Beauty
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1991 - Heartbeat
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1992 - El Mar Mediterrani
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1993 - Aile De Honneamise - Royal Space Force (OST)
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1994 - Hard Revenge
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1994 - Little Buddha (OST)
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1994 - Love & Hate (Remix Single)
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1994 - Soundbytes
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1994 - Sweet Revenge
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1995 - Sweet Revenge Tour 1994
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1996 - 1996
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1996 - Smoochy
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1996 - Snooty (EP)
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1998 - Anger Grief (EP)
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1998 - Discord
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1998 - Love Is The Devil (OST)
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1998 - Prayer Salvation Remix
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1999 - BTTB
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1999 - Cinemage
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - 1999 - Discord - Remixes
+APX: K:\Uber\DL\Q-R\Ryuichi Sakamoto - The Last Emperor (OST) - 1987
+APX: K:\Uber\DL\S-T\Saga - 1993 - 1978-1993 All The Best
+APX: K:\Uber\DL\S-T\Scorpions - 2001 - Acoustica [Live In Lisbon]
+APX: K:\Uber\DL\S-T\Scorpions - 2004 - Unbreakable
+APX: K:\Uber\DL\S-T\Scorpions - 2006 - Gold (Disc 1)
+APX: K:\Uber\DL\S-T\Scorpions - 2006 - Gold (Disc 2)
+APX: K:\Uber\DL\S-T\Sixpence None The Richer - 1998 - Kiss Me (Single)
+APX: K:\Uber\DL\S-T\Sixpence None the Richer - 2002 - Divine Discontent
+APX: K:\Uber\DL\S-T\Skinny Puppy - 1996 - The Process
+APX: K:\Uber\DL\S-T\Skinny Puppy - 2004 - The Greater Wrong of the Right
+APX: K:\Uber\DL\S-T\Soko - 2007 - Not Sokute (EP)
+APX: K:\Uber\DL\S-T\Sonata Arctica - 2000 - Successor
+APX: K:\Uber\DL\S-T\Soundgarden - 1991 - Badmotorfinger
+APX: K:\Uber\DL\S-T\Soundgarden - 1994 - Fell On Black Days [Black Disc] (EP)
+APX: K:\Uber\DL\S-T\Soundgarden - 1996 - Australia-New Zealand Tour Edition Bonus Disc
+APX: K:\Uber\DL\S-T\Spyro Gyra - 2003 - Original Cinema
+APX: K:\Uber\DL\S-T\Static-X - 1999 - Wisconsin Death Trip
+APX: K:\Uber\DL\S-T\Sting - 1986 - Bring On The Night (Disc 1)
+APX: K:\Uber\DL\S-T\Sting - 1986 - Bring On The Night (Disc 2)
+APX: K:\Uber\DL\S-T\Sting - 1991 - All Thease Time (MTV Unplugged) [Bootleg] (Disc 1)
+APX: K:\Uber\DL\S-T\Sting - 1991 - All Thease Time (MTV Unplugged) [Bootleg] (Disc 2)
+APX: K:\Uber\DL\S-T\Styx - 1983 - Kilroy Was Here
+APX: K:\Uber\DL\S-T\Styx - 1987 - Boat On The River
+APX: K:\Uber\DL\S-T\Styx - 1995 - Greatest Hits
+APX: K:\Uber\DL\S-T\Talking Heads - 1988 - Naked
+APX: K:\Uber\DL\S-T\Tantric - 2004 - After We Go
+APX: K:\Uber\DL\S-T\Tears For Fears - 2000 - 20th Century Masters, The Millennium Collection The Best Of Tears For Fears
+APX: K:\Uber\DL\S-T\Tegan and Sara - 2004 - So Jealous
+APX: K:\Uber\DL\S-T\Ten Years After - 1969 - Ssssh
+APX: K:\Uber\DL\S-T\The Dears - 2004 - Lost In The Plot (Maxi Single)
+APX: K:\Uber\DL\S-T\The Doors - 1967 - Live In Los Angeles
+APX: K:\Uber\DL\S-T\The Doors - 1997 - Box Set (Disc 1) - Without A Safety Net
+APX: K:\Uber\DL\S-T\The Doors - 1997 - Box Set (Disc 2) - Live In New York
+APX: K:\Uber\DL\S-T\The Doors - 1997 - Box Set (Disc 3) - The Future Ain't What It Used To Be
+APX: K:\Uber\DL\S-T\The Doors - 1997 - Box Set (Disc 4) - Band Favorites
+APX: K:\Uber\DL\S-T\The Doors - 1999 - Essential Rarities
+APX: K:\Uber\DL\S-T\The Dresden Dolls - 2004 - A Is For Accident
+APX: K:\Uber\DL\S-T\The Killers - 2002 - Screaming Blue Murder
+APX: K:\Uber\DL\S-T\The Magnetic Fields - 1995 - The Wayward Bus - Distant Plastic Trees
+APX: K:\Uber\DL\S-T\The Moody Blues - 1968 - In Search Of The Lost Chord
+APX: K:\Uber\DL\S-T\The Moody Blues - 1969 - On The Threshold Of A Dream
+APX: K:\Uber\DL\S-T\The Moody Blues - 1971 - Every Good Boy Deserves Favour
+APX: K:\Uber\DL\S-T\The Moody Blues - 1977 - Caught Live +5
+APX: K:\Uber\DL\S-T\The Moody Blues - 1981 - Long Distance Voyager
+APX: K:\Uber\DL\S-T\The Moody Blues - 1989 - Greatest Hits
+APX: K:\Uber\DL\S-T\The Moody Blues - 1991 - Keys of the Kingdom
+APX: K:\Uber\DL\S-T\The Moody Blues - 1996 - The Best Of The Moody Blues
+APX: K:\Uber\DL\S-T\The Moody Blues - 1999 - Strange Times
+APX: K:\Uber\DL\S-T\The Moody Blues - 2003 - December
+APX: K:\Uber\DL\S-T\The Moody Blues - 2007 - Collected (Disc 1)
+APX: K:\Uber\DL\S-T\The Moody Blues - 2007 - Collected (Disc 2)
+APX: K:\Uber\DL\S-T\The Moody Blues - 2007 - Collected (Disc 3)
+APX: K:\Uber\DL\S-T\The Orange Peels - 1997 - Square
+APX: K:\Uber\DL\S-T\The Orange Peels - 2001 - So Far
+APX: K:\Uber\DL\S-T\The Orange Peels - 2005 - Circling the Sun
+APX: K:\Uber\DL\S-T\The Police - 1981 - Ghost In The Machine (2003 Remaster)
+APX: K:\Uber\DL\S-T\The Polyphonic Spree - 2003 - The Beginning Stages of... (Bonus Disc)
+APX: K:\Uber\DL\S-T\The Sisters of Mercy - 1987 - Floodland
+APX: K:\Uber\DL\S-T\The Sisters Of Mercy - 1993 - A Slight Case Of Overbombing Greatest Hits, Vol. One
+APX: K:\Uber\DL\S-T\The Verve - 1997 - Urban Hymns
+APX: K:\Uber\DL\S-T\Therion - 1997 - A'arab Zaraq Lucid Dreaming
+APX: K:\Uber\DL\S-T\Therion - 2001 - Secret Of The Runes [Limited Edition Digipack]
+APX: K:\Uber\DL\S-T\They Might Be Giants - 2001 - Holidayland
+APX: K:\Uber\DL\S-T\Third Day - 2000 - Offerings A Worship Album
+APX: K:\Uber\DL\S-T\Thrice - 2003 - The Artist In The Ambulance
+APX: K:\Uber\DL\S-T\Top Gear 2 (Disc 2) - 1995
+APX: K:\Uber\DL\S-T\Toto - 1984 - Dune (OST)
+APX: K:\Uber\DL\S-T\Toto - 1999 - Livefields (Limited Edition) (Bonus Disc) (Disc 2)
+APX: K:\Uber\DL\S-T\Toto - 1999 - Livefields (Limited Edition) (Disc 1)
+APX: K:\Uber\DL\S-T\Travis - 2001 - The Invisible Band
+APX: K:\Uber\DL\S-T\Tristania - 1999 - Beyond The Veil [DE]
+APX: K:\Uber\DL\S-T\Twisted Sister - 1992 - Big Hits And Nasty Cuts (The Best Of Twisted Sister)
+APX: K:\Uber\DL\U-W\U2 - 1980 - Boy
+APX: K:\Uber\DL\U-W\U2 - 1981 - October
+APX: K:\Uber\DL\U-W\U2 - 1991 - Achtung Baby
+APX: K:\Uber\DL\U-W\U2 - 1997 - Mofo Remixes (Single)
+APX: K:\Uber\DL\U-W\U2 - 2002 - The Best of 1990-2000 (Disc 2)
+APX: K:\Uber\DL\U-W\Ultravox - 1981 - Rage In Eden
+APX: K:\Uber\DL\U-W\Ultravox - 1986 - U-VOX
+APX: K:\Uber\DL\U-W\Ultravox - 1993 - Slow Motion
+APX: K:\Uber\DL\U-W\Ultravox - 1998 - Original Gold (Disc 1)
+APX: K:\Uber\DL\U-W\Ultravox - 1998 - Original Gold (Disc 2)
+APX: K:\Uber\DL\U-W\Vanessa-Mae - 2004 - Choreography
+APX: K:\Uber\DL\U-W\VNV Nation - 2005 - Matter + Form
+APX: K:\Uber\DL\U-W\Wamdue Project - 1999 - King Of My Castle (Single)
+APX: K:\Uber\DL\X-Z\Yes - 1971 - The Yes Album
+APX: K:\Uber\DL\X-Z\Yes - 1994 - Talk
+APX: K:\Uber\DL\X-Z\ZZ Top - 1975 - Fandango
+APX: K:\Uber\DL\X-Z\ZZ Top - 1987 - Live USA (Una Hermosa Noche)
+APX: K:\Uber\DL\X-Z\ZZ Top - 1997 - ZZ Top
+APX: K:\Uber\DL\X-Z\ZZ Top - 2003 - Chrome, Smoke & BBQ (Disc 3)
+APX: K:\Uber\DL\X-Z\ZZ Top - 2003 - Chrome, Smoke & BBQ (Disc 4)
+APX: K:\Uber\DL\X-Z\ZZ Top - 2003 - Mescalero
+APX: K:\Uber\DL\X-Z\ZZ Top - 2004 - Rancho Texicano (Disc 1) (The Very Best Of ZZ Top)
+APX: K:\Uber\DL\X-Z\ZZ Top - 2004 - Rancho Texicano (Disc 2) (The Very Best Of ZZ Top)
+APX: K:\Uber\Rips\Evanescence - 2006 - The Open Door
+NoPun: K:\Uber\DL\+OST
+NoPun: K:\Uber\DL\0-#
+NoPun: K:\Uber\DL\A-B\Burzum - 1997 - Daudi Baldrs\scans
+NoPun: K:\Uber\DL\A-B
+NoPun: K:\Uber\DL\C-D
+NoPun: K:\Uber\DL\E-F
+NoPun: K:\Uber\DL\G-H
+NoPun: K:\Uber\DL\I-J\Indigo Girls - 1987 - Strange Fire
+NoPun: K:\Uber\DL\I-J
+NoPun: K:\Uber\DL\K-L
+NoPun: K:\Uber\DL\M-N\Muse - 2002 - Hullabaloo
+NoPun: K:\Uber\DL\M-N\Now 66 - Apr 2007
+NoPun: K:\Uber\DL\M-N
+NoPun: K:\Uber\DL\O-P\Pink Floyd - 1979 - The Wall
+NoPun: K:\Uber\DL\O-P\Porcupine Tree - Lightbulb Sun Special Edition
+NoPun: K:\Uber\DL\O-P
+NoPun: K:\Uber\DL\Q-R\Queen - 1992 - Opera Omnia
+NoPun: K:\Uber\DL\Q-R
+NoPun: K:\Uber\DL\S-T\The Sisters Of Mercy - 1993 - A Slight Case Of Overbombing Greatest Hits, Vol. One\Covers
+NoPun: K:\Uber\DL\S-T
+NoPun: K:\Uber\DL\U-W
+NoPun: K:\Uber\DL\X-Z
+NoPun: K:\Uber\DL
+NoPun: K:\Uber\Flac
+NoPun: K:\Uber\Rips
+NoPun: K:\Uber
+Flac: K:\Uber\DL\C-D\Diana Krall - 1997 - Love Scenes [DTS]
+Flac: K:\Uber\DL\C-D\DJ Danger Mouse - The Grey Album
+Flac: K:\Uber\DL\K-L\Luna - 1999 - The Days Of Our Nights
+Flac: K:\Uber\DL\M-N\Nine Inch Nails - Ghosts I - II (Disc 1)
+Flac: K:\Uber\DL\M-N\Nine Inch Nails - Ghosts III - IV (Disc 2)
+Flac: K:\Uber\DL\M-N\Nine Inch Nails - With Teeth
+Flac: K:\Uber\DL\M-N\Nizlopi - (2005) Half These Songs Are About You
+Flac: K:\Uber\DL\Q-R\Rush - 1975 - Fly By Night
+Flac: K:\Uber\Flac\Britney Spears - Everytime (Cheesecake Happy Hardcore Remix) (Single)
+Flac: K:\Uber\Flac\Caribou - 2007 - Andorra
+Flac: K:\Uber\Flac\Clannad - Magical Ring
+NoMP3: K:\Uber\DL\C-D\Diana Krall - 1997 - Love Scenes [DTS]
+NoMP3: K:\Uber\DL\C-D\DJ Danger Mouse - The Grey Album
+NoMP3: K:\Uber\DL\K-L\Luna - 1999 - The Days Of Our Nights
+NoMP3: K:\Uber\DL\M-N\Nine Inch Nails - Ghosts I - II (Disc 1)
+NoMP3: K:\Uber\DL\M-N\Nine Inch Nails - Ghosts III - IV (Disc 2)
+NoMP3: K:\Uber\DL\M-N\Nine Inch Nails - With Teeth
+NoMP3: K:\Uber\DL\M-N\Nizlopi - (2005) Half These Songs Are About You
+NoMP3: K:\Uber\DL\Q-R\Rush - 1975 - Fly By Night
+NoMP3: K:\Uber\Flac\Britney Spears - Everytime (Cheesecake Happy Hardcore Remix) (Single)
+NoMP3: K:\Uber\Flac\Caribou - 2007 - Andorra
+NoMP3: K:\Uber\Flac\Clannad - Magical Ring
+Empty Count: 24
+NoLog Count: 26
+APX Count: 513
+NoPun Count: 26
+Flac Count: 11
+Error Count: 0

@@ -1,0 +1,9 @@
+K:\Sorting\Drive-D\Projects\UberList\UberList\obj\Release\UberList.exe
+K:\Sorting\Drive-D\Projects\UberList\UberList\obj\Release\UberList.pdb
+K:\Sorting\Drive-D\Projects\UberList\UberList\bin\Release\UberList.exe
+K:\Sorting\Drive-D\Projects\UberList\UberList\bin\Release\UberList.pdb
+K:\Sorting\Drive-D\Projects\UberList\UberList\bin\Release\taglib-sharp.dll
+K:\Sorting\Drive-D\Projects\UberList\UberList\bin\Release\Bass.Net.xml
+K:\Sorting\Drive-D\Projects\UberList\UberList\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\gitWorthy\UberList\UberList\obj\Release\UberList.exe
+C:\Projects\gitWorthy\UberList\UberList\obj\Release\UberList.pdb

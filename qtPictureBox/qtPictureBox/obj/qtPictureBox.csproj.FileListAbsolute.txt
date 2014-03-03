@@ -1,0 +1,5 @@
+D:\Projects\qtPictureBox\qtPictureBox\bin\Debug\qtPictureBox.dll
+D:\Projects\qtPictureBox\qtPictureBox\bin\Debug\qtPictureBox.pdb
+D:\Projects\qtPictureBox\qtPictureBox\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\qtPictureBox\qtPictureBox\obj\Debug\qtPictureBox.dll
+D:\Projects\qtPictureBox\qtPictureBox\obj\Debug\qtPictureBox.pdb

@@ -1,0 +1,8 @@
+C:\Projects\gitWorthy\fURL\fURL\bin\Release\fURL.exe.config
+C:\Projects\gitWorthy\fURL\fURL\obj\Release\fURL.exe
+C:\Projects\gitWorthy\fURL\fURL\obj\Release\fURL.pdb
+C:\Projects\gitWorthy\fURL\fURL\bin\Release\fURL.exe
+C:\Projects\gitWorthy\fURL\fURL\bin\Release\fURL.pdb
+C:\Projects\gitWorthy\fURL\fURL\obj\Release\fURL.frmMain.resources
+C:\Projects\gitWorthy\fURL\fURL\obj\Release\fURL.Properties.Resources.resources
+C:\Projects\gitWorthy\fURL\fURL\obj\Release\fURL.csproj.GenerateResource.Cache

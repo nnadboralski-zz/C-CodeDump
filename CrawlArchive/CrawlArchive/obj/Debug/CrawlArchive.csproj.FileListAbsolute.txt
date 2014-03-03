@@ -1,0 +1,9 @@
+C:\Projects\Projects\Projects\CrawlArchive\CrawlArchive\obj\Debug\CrawlArchive.exe
+C:\Projects\Projects\Projects\CrawlArchive\CrawlArchive\obj\Debug\CrawlArchive.pdb
+C:\Projects\Projects\Projects\CrawlArchive\CrawlArchive\bin\Debug\CrawlArchive.exe
+C:\Projects\Projects\Projects\CrawlArchive\CrawlArchive\bin\Debug\CrawlArchive.pdb
+C:\Projects\Projects\Projects\CrawlArchive\CrawlArchive\obj\Debug\CrawlArchive.Form1.resources
+C:\Projects\Projects\Projects\CrawlArchive\CrawlArchive\obj\Debug\CrawlArchive.Properties.Resources.resources
+C:\Projects\Projects\Projects\CrawlArchive\CrawlArchive\obj\Debug\CrawlArchive.csproj.GenerateResource.Cache
+C:\Projects\gitWorthy\CrawlArchive\CrawlArchive\obj\Debug\CrawlArchive.exe
+C:\Projects\gitWorthy\CrawlArchive\CrawlArchive\obj\Debug\CrawlArchive.pdb

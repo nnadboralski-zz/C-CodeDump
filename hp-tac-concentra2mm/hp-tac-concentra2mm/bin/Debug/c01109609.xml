@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?dctm xml_app="ignore"?>
+<!DOCTYPE tree [
+<!ELEMENT node EMPTY>
+<!ATTLIST node 
+  template CDATA #REQUIRED
+  text CDATA #REQUIRED
+	ID CDATA #REQUIRED
+	Log CDATA #REQUIRED
+  ShowCheckBox CDATA #REQUIRED
+	PID CDATA #REQUIRED
+	Doc_Link CDATA ""
+	CID CDATA ""
+	Book CDATA "">
+<!ELEMENT tree (node)+>
+]>
+<tree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://tapps.cce.hp.com/VTS2_1.xsd">
+	<node template="Text" text="Vista Recovery" ID="root" Log="6JVRECUT - Vista Recovery Issues" ShowCheckBox="False"/>
+	<node template="Text" text="What is the Recovery issue?" ID="1" Log="What is the Recovery issue?" ShowCheckBox="False" PID="root"/>
+	<node template="Text" text="How Do I run a Recovery?" ID="1.1" Log="How Do I run a Recovery?" ShowCheckBox="False" PID="1"/>
+	<node template="Text" text="What steps are needed after Recovery has completed?" ID="1.2" Log="What steps are needed after Recovery has completed?" ShowCheckBox="False" PID="1"/>
+	<node template="Text" text="Recovery attempted and it failed" ID="1.3" Log="Recovery attempted and it failed" ShowCheckBox="False" PID="1"/>
+	<node template="Text" text="Recovery Media Creation" ID="1.4" Log="Recovery Media Creation" ShowCheckBox="False" PID="1"/>
+	<node template="Text" text="Ordering Recovery Media" ID="1.5" Log="Ordering Recovery Media" ShowCheckBox="False" PID="1"/>
+	<node template="Concentra_Frame" text="Click to open document on 'How to run a Recovery'" ID="1.1.1" Log="Click to open document on 'How to run a Recovery'" ShowCheckBox="true" PID="1.1" CID="c00814731"/>
+	<node template="Concentra_Frame" text="Click to open document for 'Things to do after performing a Recovery'" ID="1.2.1" Log="Click to open document for 'Things to do after performing a Recovery'" ShowCheckBox="true" PID="1.2" CID="c00863197"/>
+	<node template="Tree" text="Proceed to the Vista HP Recovery Failures HPTS" ID="1.3.1" Log="Proceed to the Vista HP Recovery Failures HPTS" ShowCheckBox="False" PID="1.3" Doc_Link="6J,C01109635,root" Tree="C01109635" Productline="6J" Node="root"/>
+	<node template="Concentra_Frame" text="Click to open document on 'Creating Recovery Disc Set in Windows Vista'" ID="1.4.1" Log="Click to open document on 'Creating Recovery Disc Set in Windows Vista'" ShowCheckBox="true" PID="1.4" CID="c00882383"/>
+	<node template="Text" text="Recovery Media creation failed" ID="1.4.2" Log="Recovery Media creation failed" ShowCheckBox="False" PID="1.4"/>
+	<node template="Concentra_Frame" text="Click to open document on 'Obtaining a Recovery CD or DVD set'" ID="1.5.1" Log="Click to open document on 'Obtaining a Recovery CD or DVD set'" ShowCheckBox="true" PID="1.5" CID="bph07143"/>
+	<node template="Tree" text="Proceed to the Vista CD-DVD Write HPTS" ID="1.4.2.1" Log="Proceed to the Vista CD-DVD Write HPTS" ShowCheckBox="False" PID="1.4.2" Doc_Link="6J,c01109665,root" Tree="c01109665" Productline="6J" Node="root"/>
+</tree>

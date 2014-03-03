@@ -1,0 +1,11 @@
+D:\Projects\qtPlayer\qtPlayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\qtPlayer\qtPlayer\obj\Debug\qtPlayer.frmPlayer.resources
+D:\Projects\qtPlayer\qtPlayer\obj\Debug\qtPlayer.Properties.Resources.resources
+D:\Projects\qtPlayer\qtPlayer\obj\Debug\qtPlayer.csproj.GenerateResource.Cache
+D:\Projects\qtPlayer\qtPlayer\bin\Debug\qtPlayer.exe
+D:\Projects\qtPlayer\qtPlayer\bin\Debug\qtPlayer.pdb
+D:\Projects\qtPlayer\qtPlayer\bin\Debug\SmoothProgressBar.dll
+D:\Projects\qtPlayer\qtPlayer\bin\Debug\taglib-sharp.dll
+D:\Projects\qtPlayer\qtPlayer\bin\Debug\SmoothProgressBar.pdb
+D:\Projects\qtPlayer\qtPlayer\obj\Debug\qtPlayer.exe
+D:\Projects\qtPlayer\qtPlayer\obj\Debug\qtPlayer.pdb

@@ -1,0 +1,7 @@
+C:\Projects\Projects\Projects\Archived\SketchieGemsV2\SketchieGemsV2\obj\Release\SketchieGemsV2.exe
+C:\Projects\Projects\Projects\Archived\SketchieGemsV2\SketchieGemsV2\obj\Release\SketchieGemsV2.pdb
+C:\Projects\Projects\Projects\Archived\SketchieGemsV2\SketchieGemsV2\bin\Release\SketchieGemsV2.exe
+C:\Projects\Projects\Projects\Archived\SketchieGemsV2\SketchieGemsV2\bin\Release\SketchieGemsV2.pdb
+C:\Projects\Projects\Projects\Archived\SketchieGemsV2\SketchieGemsV2\obj\Release\SketchieGemsV2.sgForm.resources
+C:\Projects\Projects\Projects\Archived\SketchieGemsV2\SketchieGemsV2\obj\Release\SketchieGemsV2.SketchieGems.resources
+C:\Projects\Projects\Projects\Archived\SketchieGemsV2\SketchieGemsV2\obj\Release\SketchieGemsV2.csproj.GenerateResource.Cache

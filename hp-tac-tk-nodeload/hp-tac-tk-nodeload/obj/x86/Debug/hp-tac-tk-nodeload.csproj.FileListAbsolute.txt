@@ -1,0 +1,5 @@
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-nodeload\bin\Debug\hp-tac-tk-nodeload.exe
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-nodeload\bin\Debug\hp-tac-tk-nodeload.pdb
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-nodeload\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-nodeload\obj\x86\Debug\hp-tac-tk-nodeload.exe
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-nodeload\hp-tac-tk-nodeload\obj\x86\Debug\hp-tac-tk-nodeload.pdb

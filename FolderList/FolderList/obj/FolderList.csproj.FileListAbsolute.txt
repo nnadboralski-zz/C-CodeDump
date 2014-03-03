@@ -1,0 +1,2 @@
+D:\Projects\FolderList\FolderList\obj\Debug\FolderList.exe
+D:\Projects\FolderList\FolderList\obj\Debug\FolderList.pdb

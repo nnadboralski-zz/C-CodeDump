@@ -1,0 +1,7 @@
+-- Remember last folder browsed when adding folders.
+-- Rollup mode when double-click titlebar.  (Windowshade mode?)
+
+-- Look into sending NP to MSN Messenger.
+-- Add pause feature.
+
+-- 

@@ -1,0 +1,72 @@
+string ext = ".mp3";
+List<string> mp3List = new List();
+foreach(string s in files)
+  if(s.Substring(s.Length - ext.Length, ext.Length) == ext)
+    mp3List.Add(s);
+    
+    
+    
+                    if (s.IndexOf("!!!_ERRORS_!!!") != -1)
+                    errors.Add(s);
+                if (Directory.GetFiles(s).Length == 0)
+                    empty.Add(s);
+                if (Directory.GetFiles(s, "*.mp3").Length != 0 || Directory.GetFiles(s, "*.flac").Length != 0 || Directory.GetFiles(s, "*.ogg").Length != 0)
+                {
+                    if (Directory.GetFiles(s, "*.log").Length == 0)
+                    {
+                        noLog.Add(s);
+                    }
+                    else
+                    {
+                        string[] logfile = Directory.GetFiles(s, "*.log");
+                        foreach (string st in logfile)
+                        {
+                            if (st.IndexOf(".APX.") != -1)
+                                APX.Add(s);
+                        }
+                    }
+                    if (Directory.GetFiles(s, "*.pun").Length == 0)
+                    {
+                        if (Directory.GetFiles(s, "*.flac").Length != 0)
+                        {
+                            flac.Add(s);
+                        }
+                        else
+                        {
+                            noPun.Add(s);
+                        }
+                    }
+                }
+                if (Directory.GetFiles(s, "*.pun").Length != 0)
+                {
+                    if (Directory.GetFiles(s, "*.mp3").Length == 0 && Directory.GetFiles(s, "*.flac").Length == 0 & Directory.GetFiles(s, "*.ogg").Length == 0)
+                        noMP3.Add(s);
+                }
+                if (Directory.GetFiles(s, "*.log").Length != 0)
+                {
+                    if (Directory.GetFiles(s, "*.mp3").Length == 0 && Directory.GetFiles(s, "*.flac").Length == 0 & Directory.GetFiles(s, "*.ogg").Length == 0)
+                        noMP3.Add(s);
+                }
+            }
+            Console.WriteLine("Errors:");
+            foreach (string s in errors)
+                Console.WriteLine(s);
+            Console.WriteLine("Empty:");
+            foreach (string s in empty)
+                Console.WriteLine(s);
+            Console.WriteLine("No Log:");
+            foreach (string s in noLog)
+                Console.WriteLine(s);
+            Console.WriteLine("No Pun:");
+            foreach (string s in noPun)
+                Console.WriteLine(s);
+            Console.WriteLine("No MP3:");
+            foreach (string s in noMP3)
+                Console.WriteLine(s);
+            Console.WriteLine("Flac:");
+            foreach (string s in flac)
+                Console.WriteLine(s);
+            Console.WriteLine("APX:");
+            foreach (string s in APX)
+                Console.WriteLine(s);
+            Console.WriteLine(APX.Count.ToString());

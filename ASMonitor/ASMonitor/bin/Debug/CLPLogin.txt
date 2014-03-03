@@ -1,0 +1,4 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>302 Found</title>
+<h1>Found</h1>
+<p>You should be redirected automatically to target URL:</p><p><a href="/tktest">/tktest</a>. If not click the link.</p>

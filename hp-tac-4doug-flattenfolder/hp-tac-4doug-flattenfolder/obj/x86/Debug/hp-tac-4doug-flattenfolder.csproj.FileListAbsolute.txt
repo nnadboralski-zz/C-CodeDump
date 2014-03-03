@@ -1,0 +1,18 @@
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-4doug-flattenfolder\hp-tac-4doug-flattenfolder\bin\Debug\hp-tac-4doug-flattenfolder.exe
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-4doug-flattenfolder\hp-tac-4doug-flattenfolder\bin\Debug\hp-tac-4doug-flattenfolder.pdb
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-4doug-flattenfolder\hp-tac-4doug-flattenfolder\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-4doug-flattenfolder\hp-tac-4doug-flattenfolder\obj\x86\Debug\hp_tac_4doug_flattenfolder.Properties.Resources.resources
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-4doug-flattenfolder\hp-tac-4doug-flattenfolder\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-4doug-flattenfolder\hp-tac-4doug-flattenfolder\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-4doug-flattenfolder\hp-tac-4doug-flattenfolder\obj\x86\Debug\hp-tac-4doug-flattenfolder.exe
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-4doug-flattenfolder\hp-tac-4doug-flattenfolder\obj\x86\Debug\hp-tac-4doug-flattenfolder.pdb
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-4doug-flattenfolder\hp-tac-4doug-flattenfolder\bin\Debug\hp-tac-4doug-flattenfolder.exe.manifest
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-4doug-flattenfolder\hp-tac-4doug-flattenfolder\bin\Debug\hp-tac-4doug-flattenfolder.application
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-4doug-flattenfolder\hp-tac-4doug-flattenfolder\obj\x86\Debug\hp_tac_4doug_flattenfolder.frmFlatten.resources
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-4doug-flattenfolder\hp-tac-4doug-flattenfolder\obj\x86\Debug\hp-tac-4doug-flattenfolder.exe.manifest
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-4doug-flattenfolder\hp-tac-4doug-flattenfolder\obj\x86\Debug\hp-tac-4doug-flattenfolder.application
+C:\Projects\gitWorthy\hp-tac-4doug-flattenfolder\hp-tac-4doug-flattenfolder\obj\x86\Debug\hp-tac-4doug-flattenfolder.exe
+C:\Projects\gitWorthy\hp-tac-4doug-flattenfolder\hp-tac-4doug-flattenfolder\obj\x86\Debug\hp-tac-4doug-flattenfolder.pdb
+C:\Projects\gitWorthy\hp-tac-4doug-flattenfolder\hp-tac-4doug-flattenfolder\obj\x86\Debug\hp_tac_4doug_flattenfolder.frmFlatten.resources
+C:\Projects\gitWorthy\hp-tac-4doug-flattenfolder\hp-tac-4doug-flattenfolder\obj\x86\Debug\hp_tac_4doug_flattenfolder.Properties.Resources.resources
+C:\Projects\gitWorthy\hp-tac-4doug-flattenfolder\hp-tac-4doug-flattenfolder\obj\x86\Debug\hp-tac-4doug-flattenfolder.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-preparse\hp-tac-tk-preparse\bin\Debug\hp-tac-tk-preparse.exe
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-preparse\hp-tac-tk-preparse\bin\Debug\hp-tac-tk-preparse.pdb
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-preparse\hp-tac-tk-preparse\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-preparse\hp-tac-tk-preparse\obj\x86\Debug\hp_tac_tk_preparse.Form1.resources
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-preparse\hp-tac-tk-preparse\obj\x86\Debug\hp_tac_tk_preparse.Properties.Resources.resources
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-preparse\hp-tac-tk-preparse\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-preparse\hp-tac-tk-preparse\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-preparse\hp-tac-tk-preparse\obj\x86\Debug\hp-tac-tk-preparse.exe
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-tk-preparse\hp-tac-tk-preparse\obj\x86\Debug\hp-tac-tk-preparse.pdb

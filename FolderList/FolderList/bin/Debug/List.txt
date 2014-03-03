@@ -1,0 +1,611 @@
+Empty: k:\uber\DL\+OST
+Empty: k:\uber\DL\0-#
+Empty: k:\uber\DL\A-B
+Empty: k:\uber\DL\C-D
+Empty: k:\uber\DL\E-F
+Empty: k:\uber\DL\G-H
+Empty: k:\uber\DL\I-J\Indigo Girls - 1987 - Strange Fire
+Empty: k:\uber\DL\I-J
+Empty: k:\uber\DL\K-L
+Empty: k:\uber\DL\M-N\Muse - 2002 - Hullabaloo
+Empty: k:\uber\DL\M-N\Now 66 - Apr 2007
+Empty: k:\uber\DL\M-N
+Empty: k:\uber\DL\O-P\Pink Floyd - 1979 - The Wall
+Empty: k:\uber\DL\O-P\Porcupine Tree - Lightbulb Sun Special Edition
+Empty: k:\uber\DL\O-P
+Empty: k:\uber\DL\Q-R\Queen + Paul Rodgers - Return Of The Champions
+Empty: k:\uber\DL\Q-R\Queen - 1992 - Opera Omnia
+Empty: k:\uber\DL\Q-R\Robert Miles Featuring Maria Nayler
+Empty: k:\uber\DL\Q-R
+Empty: k:\uber\DL\S-T
+Empty: k:\uber\DL\U-W
+Empty: k:\uber\DL\X-Z
+Empty: k:\uber\DL
+Empty: k:\uber\Flac
+Empty: k:\uber\Rips
+Empty: k:\uber
+NoLog: k:\uber\DL\+OST
+NoLog: k:\uber\DL\0-#
+NoLog: k:\uber\DL\A-B\Burzum - 1997 - Daudi Baldrs\scans
+NoLog: k:\uber\DL\A-B
+NoLog: k:\uber\DL\C-D
+NoLog: k:\uber\DL\E-F
+NoLog: k:\uber\DL\G-H
+NoLog: k:\uber\DL\I-J\Indigo Girls - 1987 - Strange Fire
+NoLog: k:\uber\DL\I-J
+NoLog: k:\uber\DL\K-L
+NoLog: k:\uber\DL\M-N\Muse - 2002 - Hullabaloo
+NoLog: k:\uber\DL\M-N\Now 66 - Apr 2007
+NoLog: k:\uber\DL\M-N
+NoLog: k:\uber\DL\O-P\Pink Floyd - 1979 - The Wall
+NoLog: k:\uber\DL\O-P\Porcupine Tree - Lightbulb Sun Special Edition
+NoLog: k:\uber\DL\O-P
+NoLog: k:\uber\DL\Q-R\Queen + Paul Rodgers - Return Of The Champions
+NoLog: k:\uber\DL\Q-R\Queen - 1992 - Opera Omnia
+NoLog: k:\uber\DL\Q-R\Robert Miles Featuring Maria Nayler
+NoLog: k:\uber\DL\Q-R
+NoLog: k:\uber\DL\S-T\The Sisters Of Mercy - 1993 - A Slight Case Of Overbombing Greatest Hits, Vol. One\Covers
+NoLog: k:\uber\DL\S-T
+NoLog: k:\uber\DL\U-W
+NoLog: k:\uber\DL\X-Z
+NoLog: k:\uber\DL
+NoLog: k:\uber\Flac
+NoLog: k:\uber\Rips
+NoLog: k:\uber
+APX: k:\uber\DL\+OST\A. R. Rahman - 2002 - Bombay Dreams (OST)
+APX: k:\uber\DL\+OST\Bryan Adams - 2002 - Spirit Stallion of the Cimarron
+APX: k:\uber\DL\+OST\Disney - 1995 - Classic Disney Volume I (OST)
+APX: k:\uber\DL\+OST\Disney - 1995 - Classic Disney Volume II (OST)
+APX: k:\uber\DL\+OST\Hans Zimmer - 1995 - Crimson Tide (OST)
+APX: k:\uber\DL\+OST\Hans Zimmer - 2002 - Black Hawk Down (OST)
+APX: k:\uber\DL\+OST\Hans Zimmer - 2003 - The Last Samurai (OST)
+APX: k:\uber\DL\+OST\Michael Andrews - 2002 - Donnie Darko (OST)
+APX: k:\uber\DL\+OST\Nobuo Uematsu - 1994 - Final Fantasy IV (OSV)
+APX: k:\uber\DL\+OST\Nobuo Uematsu - 1994 - Final Fantasy VI (OST) (Disc 1)
+APX: k:\uber\DL\+OST\Nobuo Uematsu - 1994 - Final Fantasy VI (OST) (Disc 2)
+APX: k:\uber\DL\+OST\Nobuo Uematsu - 1994 - Final Fantasy VI (OST) (Disc 3)
+APX: k:\uber\DL\+OST\Rob Zombie - 2003 - House of 1000 Corpses (OST)
+APX: k:\uber\DL\+OST\Spider-Man 2 (OST) - 2004
+APX: k:\uber\DL\+OST\Yann Tiersen - 2001 - Le Fabuleux Destin D'Amelie Poulain (OST)
+APX: k:\uber\DL\0-#\+ - - 2002 - Self-Titled Long-Playing Debut Album
+APX: k:\uber\DL\0-#\38 Special - 1980 - Wild-Eyed Southern Boys
+APX: k:\uber\DL\0-#\50 Cent - 2007 - Curtis
+APX: k:\uber\DL\A-B\A Perfect Circle - 2000 - Judith
+APX: k:\uber\DL\A-B\A. R. Rahman - 2004 - Hits Of A. R. Rahman [Promo]
+APX: k:\uber\DL\A-B\AC DC - 1975 - High Voltage
+APX: k:\uber\DL\A-B\AC DC - 1976 - Dirty Deeds Done Dirt Cheap
+APX: k:\uber\DL\A-B\AC DC - 1985 - Fly On The Wall
+APX: k:\uber\DL\A-B\AC DC - 2000 - Stiff Upper Lip
+APX: k:\uber\DL\A-B\Acoustic Alchemy - 1989 - Presented With New Hi-Fi Sound
+APX: k:\uber\DL\A-B\Aikawa Nanase - 2005 - R.U.O.K. !
+APX: k:\uber\DL\A-B\Alan Jackson - 2000 - When Somebody Loves You
+APX: k:\uber\DL\A-B\Alasdair Fraser - 1995 - Dawn Dance
+APX: k:\uber\DL\A-B\Alchemist - 1993 - Jar Of Kingdom [1999 Reissue]
+APX: k:\uber\DL\A-B\Alchemist - 1994 - Lunasphere
+APX: k:\uber\DL\A-B\Alchemist - 1997 - Spiritech
+APX: k:\uber\DL\A-B\Alchemist - 1998 - Eve Of The War (EP)
+APX: k:\uber\DL\A-B\Alchemist - 2003 - Austral Alien
+APX: k:\uber\DL\A-B\Altan - 1992 - Harvest Storm
+APX: k:\uber\DL\A-B\Altan - 2000 - Another Sky
+APX: k:\uber\DL\A-B\Altan - 2002 - The Blue Idol
+APX: k:\uber\DL\A-B\Altan - 2005 - Local Ground
+APX: k:\uber\DL\A-B\Alter Bridge - 2004 - One Day Remains
+APX: k:\uber\DL\A-B\Apocalyptica - 2003 - Faraway Vol. II (Single)
+APX: k:\uber\DL\A-B\Apocalyptica - 2003 - Seeman Feat. Nina Hagen (Single)
+APX: k:\uber\DL\A-B\Apoptygma Berzerk - 1998 - 7
+APX: k:\uber\DL\A-B\Assemblage 23 - 2002 - Document (Maxi CD)
+APX: k:\uber\DL\A-B\Atreyu - 2004 - The Curse [Digipack]
+APX: k:\uber\DL\A-B\Audiovent - 2002 - Dirty Sexy Knights In Paris
+APX: k:\uber\DL\A-B\Avenged Sevenfold - 2001 - Sounding the Seventh Trumpet
+APX: k:\uber\DL\A-B\Avenged Sevenfold - 2003 - Waking The Fallen
+APX: k:\uber\DL\A-B\Babes in Toyland - 1992 - Fontanelle
+APX: k:\uber\DL\A-B\Babes In Toyland - 1995 - Nemesisters
+APX: k:\uber\DL\A-B\Beth Orton - 2002 - Daybreaker
+APX: k:\uber\DL\A-B\Biosphere - 2006 - Dropsonde
+APX: k:\uber\DL\A-B\Blind Guardian - 1988 - Battalions Of Fear
+APX: k:\uber\DL\A-B\Blindside - 2002 - Silence
+APX: k:\uber\DL\A-B\Blink 182 - 2003 - Blink 182
+APX: k:\uber\DL\A-B\blink-182 - 2003 - Blink-182
+APX: k:\uber\DL\A-B\Blondie - 1995 - The Remix Project
+APX: k:\uber\DL\A-B\Blondie - 2003 - The Curse of Blondie
+APX: k:\uber\DL\A-B\Blue Oyster Cult - 1978 - Some Enchanted Evening
+APX: k:\uber\DL\A-B\Blue Oyster Cult - 1983 - The Best of - Don't Fear the Reaper
+APX: k:\uber\DL\A-B\Blue Oyster Cult - 2000 - Don't Fear The Reaper The Best Of
+APX: k:\uber\DL\A-B\Blue Oyster Cult - 2001 - Agents Of Fortune
+APX: k:\uber\DL\A-B\Blof - 1997 - Helder
+APX: k:\uber\DL\A-B\Bon Jovi - 1985 - 7800 Fahrenheit
+APX: k:\uber\DL\A-B\Bon Jovi - 1991 - Hard & Hot
+APX: k:\uber\DL\A-B\Bon Jovi - 1994 - Cross Road [US]
+APX: k:\uber\DL\A-B\Bon Jovi - 1995 - On Stage In Philadelphia
+APX: k:\uber\DL\A-B\Bon Jovi - 1995 - This Ain't A Love Song (EP)
+APX: k:\uber\DL\A-B\Boy Hits Car - 2001 - Boy Hits Car
+APX: k:\uber\DL\A-B\Breaking Benjamin - 2002 - Saturate
+APX: k:\uber\DL\A-B\Bryan Adams - 2002 - Spirit Stallion of the Cimarron
+APX: k:\uber\DL\A-B\Built to Spill - 1997 - Perfect From Now On
+APX: k:\uber\DL\A-B\Burzum - 1993 - Det Som Engang Var
+APX: k:\uber\DL\A-B\Burzum - 1994 - Hvis Lyset Tar Oss
+APX: k:\uber\DL\A-B\Burzum - 1996 - Filosofem
+APX: k:\uber\DL\A-B\Bush - 1994 - Sixteen Stone
+APX: k:\uber\DL\A-B\By The Tree - 2001 - Invade My Soul
+APX: k:\uber\DL\C-D\Celtic Voices Women Of Song - 1995
+APX: k:\uber\DL\C-D\Christy Moore - 1988 - Christy Moore
+APX: k:\uber\DL\C-D\Chumbawamba - 1991 - First 2 LP's
+APX: k:\uber\DL\C-D\Chumbawamba - 1995 - Swingin' With Raymond
+APX: k:\uber\DL\C-D\Circle Of Dust - 1992 - Circle Of Dust
+APX: k:\uber\DL\C-D\Clannad - 2000 - Greatest Hits
+APX: k:\uber\DL\C-D\Coheed & Cambria - 2007 - Good Apollo I'm Burning Star IV, Vol. 2 No World For Tomorrow
+APX: k:\uber\DL\C-D\Coheed And Cambria - 2003 - In Keeping Secrets Of Silent Earth 3
+APX: k:\uber\DL\C-D\Coheed And Cambria - 2004 - Live At La Zona Rosa
+APX: k:\uber\DL\C-D\Coheed And Cambria - 2007 - No World For Tomorrow
+APX: k:\uber\DL\C-D\Coldplay - 2000 - Bonus CD Parachutes (EP)
+APX: k:\uber\DL\C-D\Coldplay - 2003 - Clocks (Single) (Disc 1)
+APX: k:\uber\DL\C-D\Coldplay - 2003 - Live in Ahoy Rotterdam (Disc 1)
+APX: k:\uber\DL\C-D\Coldplay - 2003 - Unplugged
+APX: k:\uber\DL\C-D\Cradle Of Filth - 1997 - Sodomizing The Virgin Vamps
+APX: k:\uber\DL\C-D\Cradle Of Filth - 2002 - Live Bait For The Dead (Disc 1)
+APX: k:\uber\DL\C-D\Cradle Of Filth - 2002 - Live Bait For The Dead (Disc 2)
+APX: k:\uber\DL\C-D\Dan Gibson - 1992 - Solitudes Atlantic Suite
+APX: k:\uber\DL\C-D\Daniel Bedingfield - 2002 - If You're Not The One
+APX: k:\uber\DL\C-D\Darkthrone - 2003 - Hate Them
+APX: k:\uber\DL\C-D\Dashboard Confessional - 2004 - Vindicated (Single)
+APX: k:\uber\DL\C-D\Dashboard Confessional - 2005 - The Piano Tribute to Dashboard Confessional
+APX: k:\uber\DL\C-D\Dave Gahan - 2003 - Dirty Sticky Floors (EP)
+APX: k:\uber\DL\C-D\Dave Weckl - 1990 - Master Plan
+APX: k:\uber\DL\C-D\David Bowie - 1995 - Strangers When We Meet (EP)
+APX: k:\uber\DL\C-D\David Bowie - 2000 - Bowie At The Beeb - (Disc 3) BBC Radio Theatre, London, June 27, 2000
+APX: k:\uber\DL\C-D\Death Cab for Cutie - 2002 - The Photo Album (Bonus Disc)
+APX: k:\uber\DL\C-D\Deep Forest - 1997 - Comparsa - Deep Forest III
+APX: k:\uber\DL\C-D\Deep Purple - 1969 - The Book Of Taliesyn
+APX: k:\uber\DL\C-D\Deep Purple - 1974 - Stormbringer
+APX: k:\uber\DL\C-D\Deep Purple - 1994 - Smoke On The Water, The Best Of
+APX: k:\uber\DL\C-D\Def Leppard - 2002 - X
+APX: k:\uber\DL\C-D\Delerium - 1988 - Morpheus
+APX: k:\uber\DL\C-D\Delerium - 2003 - Chimera
+APX: k:\uber\DL\C-D\Demons & Wizards - 1999 - Demons & Wizards
+APX: k:\uber\DL\C-D\Depeche Mode - 1983 - Construction Time Again
+APX: k:\uber\DL\C-D\Depeche Mode - 1983 - Everything Counts (Single)
+APX: k:\uber\DL\C-D\Depeche Mode - 1984 - Blasphemous Rumours (Single)
+APX: k:\uber\DL\C-D\Depeche Mode - 1987 - Little 15 (Single)
+APX: k:\uber\DL\C-D\Depeche Mode - 1987 - Never Let Me Down Again (EP)
+APX: k:\uber\DL\C-D\Depeche Mode - 1990 - Enjoy The Silence (Maxi CD)
+APX: k:\uber\DL\C-D\Depeche Mode - 1990 - Policy Of Truth (Single)
+APX: k:\uber\DL\C-D\Depeche Mode - 1990 - World In My Eyes (Single)
+APX: k:\uber\DL\C-D\Depeche Mode - 1993 - Condemnation (EP)
+APX: k:\uber\DL\C-D\Depeche Mode - 1993 - I Feel You (Single)
+APX: k:\uber\DL\C-D\Depeche Mode - 1993 - Walking In My Shoes (Maxi CD)
+APX: k:\uber\DL\C-D\Depeche Mode - 1994 - In Your Room (Single)
+APX: k:\uber\DL\C-D\Depeche Mode - 1997 - Home (Single)
+APX: k:\uber\DL\C-D\Depeche Mode - 1997 - Songs Of Faith And Devotion Live
+APX: k:\uber\DL\C-D\Depeche Mode - 1998 - Only When I Lose Myself (Single)
+APX: k:\uber\DL\C-D\Depeche Mode - 2000 - Ultra Hot Art Disc Three
+APX: k:\uber\DL\C-D\Depeche Mode - 2000 - Ultra Hot Art Three [Bootleg]
+APX: k:\uber\DL\C-D\Depeche Mode - 2005 - KROQ Almost Acoustic Christmas 2005 [Promo]
+APX: k:\uber\DL\C-D\Depeche Mode - 2006 - The Best Of Depeche Mode Volume 1
+APX: k:\uber\DL\C-D\Depeche Mode - The Niagara Radiostation-Mix [Bootleg]
+APX: k:\uber\DL\C-D\Diana Krall - 1998 - Have Yourself A Merry Little Christmas (Ep)
+APX: k:\uber\DL\C-D\DJ Danger Mouse - 2004 - The Grey Album
+APX: k:\uber\DL\C-D\DJ Danger Mouse - The Grey Album
+APX: k:\uber\DL\C-D\Dokken - 1985 - Under Lock & Key
+APX: k:\uber\DL\C-D\Dokken - 1987 - Back For The Attack
+APX: k:\uber\DL\C-D\Dream Theater - 1989 - When Dream And Day Unite
+APX: k:\uber\DL\C-D\Dredg - 2001 - Leitmotif
+APX: k:\uber\DL\E-F\Eagles - 1976 - Greatest Hits 1971-1975
+APX: k:\uber\DL\E-F\Eagles - 1976 - Hotel California
+APX: k:\uber\DL\E-F\Eels - 2003 - Shootenanny!
+APX: k:\uber\DL\E-F\Emiliana Torrini - 2000 - Love In The Time Of Science
+APX: k:\uber\DL\E-F\Enya - 1988 - Watermark
+APX: k:\uber\DL\E-F\Enya - 2002 - Only Time - The Collection (Disc 1)
+APX: k:\uber\DL\E-F\Evanescence - 2003 - Fallen
+APX: k:\uber\DL\E-F\Evanescence - 2004 - Anywhere But Home
+APX: k:\uber\DL\E-F\Every Little Thing - 2000 - eternity
+APX: k:\uber\DL\E-F\Extreme Euphoria 1 (Disc 1) - 2002
+APX: k:\uber\DL\E-F\Extreme Euphoria 1 (Disc 2) - 2002
+APX: k:\uber\DL\E-F\Extreme Euphoria 2 (Disc 1) - 2002
+APX: k:\uber\DL\E-F\Extreme Euphoria 2 (Disc 2) - 2002
+APX: k:\uber\DL\E-F\Extreme Euphoria 3 (Disc 1) - 2003
+APX: k:\uber\DL\E-F\Extreme Euphoria 3 (Disc 2) - 2003
+APX: k:\uber\DL\E-F\Feeder - 2005 - Pushing The Senses
+APX: k:\uber\DL\E-F\Fine Young Cannibals - 1990 - The Raw & The Remix
+APX: k:\uber\DL\E-F\Fourplay - 2002 - Heartfelt
+APX: k:\uber\DL\E-F\Front Line Assembly - 1992 - Tactical Neural Implant
+APX: k:\uber\DL\E-F\Frontline Assembly - 2006 - Artificial Soldier
+APX: k:\uber\DL\G-H\Gamma Ray - 1995 - Land Of The Free
+APX: k:\uber\DL\G-H\Gandalf - 1982 - Visions
+APX: k:\uber\DL\G-H\Gandalf - 1983 - Magic Theatre
+APX: k:\uber\DL\G-H\Garbage - 1995 - Garbage
+APX: k:\uber\DL\G-H\Garbage - 2001 - Beautiful Garbage
+APX: k:\uber\DL\G-H\Genesis - 1969 - The Compact Collection
+APX: k:\uber\DL\G-H\Genesis - 1980 - Duke
+APX: k:\uber\DL\G-H\Genesis - 1983 - Genesis
+APX: k:\uber\DL\G-H\Genesis - 1997 - Calling All Stations
+APX: k:\uber\DL\G-H\Genesis - 1999 - Turn It on Again - the Hits
+APX: k:\uber\DL\G-H\Godsmack - 2003 - Faceless
+APX: k:\uber\DL\G-H\Goo Goo Dolls - 1998 - Dizzy Up The Girl
+APX: k:\uber\DL\G-H\H.I.M. - 2003 - Razorblade Romance
+APX: k:\uber\DL\G-H\Halford - 2000 - Resurrection
+APX: k:\uber\DL\G-H\Haujobb - 1996 - Solutions For A Small Planet
+APX: k:\uber\DL\G-H\HIM - 2004 - And Love Said No - The Greatest Hits 1997-2004
+APX: k:\uber\DL\G-H\hiro - 2000 - Treasure (Maxi CD)
+APX: k:\uber\DL\I-J\Iced Earth - 1988 - Enter the Realm (EP)
+APX: k:\uber\DL\I-J\Iced Earth - 1990 - Iced Earth
+APX: k:\uber\DL\I-J\Iced Earth - 2002 - Tribute To The Gods
+APX: k:\uber\DL\I-J\Idlewild - 2000 - 100 Broken Windows
+APX: k:\uber\DL\I-J\In Flames - 1999 - Colony
+APX: k:\uber\DL\I-J\In Flames - 2004 - Soundtrack To Your Escape
+APX: k:\uber\DL\I-J\In Flames - 2004 - Soundtrack to Your Escape (Digipack)
+APX: k:\uber\DL\I-J\Incubus - 1999 - Make Yourself
+APX: k:\uber\DL\I-J\Incubus - 2000 - When Incubus Attacks vol. 1
+APX: k:\uber\DL\I-J\Iron Maiden - 1980 - Women In Uniform Twilight Zone
+APX: k:\uber\DL\I-J\Iron Maiden - 1988 - Can I Play With Madness The Evil That Men Do
+APX: k:\uber\DL\I-J\Iron Maiden - 1988 - The Clairvoyant Infinite Dreams (EP)
+APX: k:\uber\DL\I-J\Iron Maiden - 1990 - Flight Of Icarus (EP)
+APX: k:\uber\DL\I-J\Iron Maiden - 1990 - No Prayer For The Dying
+APX: k:\uber\DL\I-J\Iron Maiden - 1990 - The First Ten Years (Disc 1) - Running Free; Sanctuary
+APX: k:\uber\DL\I-J\Iron Maiden - 1990 - The First Ten Years (Disc 10) - The Clairvoyant; Infinite Dreams
+APX: k:\uber\DL\I-J\Iron Maiden - 1990 - The First Ten Years (Disc 2) - Women In Uniform; Twilight Zone
+APX: k:\uber\DL\I-J\Iron Maiden - 1990 - The First Ten Years (Disc 3) - Purgatory; Maiden Japan
+APX: k:\uber\DL\I-J\Iron Maiden - 1990 - The First Ten Years (Disc 4) - Run To The Hills; The Number Of The Beast
+APX: k:\uber\DL\I-J\Iron Maiden - 1990 - The First Ten Years (Disc 5) - Flight Of Icarus; The Trooper
+APX: k:\uber\DL\I-J\Iron Maiden - 1990 - The First Ten Years (Disc 6) - 2 Minutes To Midnight; Aces High
+APX: k:\uber\DL\I-J\Iron Maiden - 1990 - The First Ten Years (Disc 7) - Running Free; Run To The Hills
+APX: k:\uber\DL\I-J\Iron Maiden - 1990 - The First Ten Years (Disc 8) - Wasted Years; Stranger In A Strange Land
+APX: k:\uber\DL\I-J\Iron Maiden - 1990 - The First Ten Years (Disc 9) - Can I Play With Madness; The Evil That Men Do
+APX: k:\uber\DL\I-J\Iron Maiden - 1999 - Ed Hunter (Disc 1)
+APX: k:\uber\DL\I-J\Iron Maiden - 1999 - Ed Hunter (Disc 2)
+APX: k:\uber\DL\I-J\Jack Off Jill - 1998 - Covetous Creature
+APX: k:\uber\DL\I-J\Japan - 1981 - Tin Drum
+APX: k:\uber\DL\I-J\Jewel - 1998 - Spirit
+APX: k:\uber\DL\I-J\Jewel - 1999 - Bits And Baubles
+APX: k:\uber\DL\I-J\Jewel - 2003 - 0304
+APX: k:\uber\DL\I-J\Jimi Hendrix - 1984 - Kiss The Sky
+APX: k:\uber\DL\I-J\Jimi Hendrix - 1991 - Cornerstones 1967-1970
+APX: k:\uber\DL\I-J\Jimi Hendrix - 1997 - Experience Hendrix The Best Of Jimi Hendrix
+APX: k:\uber\DL\I-J\Jimi Hendrix - 2001 - Crash Landing
+APX: k:\uber\DL\I-J\John Coltrane - 1998 - The Classic Quartet--Complete Impulse! Studio Recordings (Disc 3)
+APX: k:\uber\DL\I-J\John Denver - 1998 - Rocky Mountain Christmas
+APX: k:\uber\DL\I-J\John Frusciante - 2004 - DC (EP)
+APX: k:\uber\DL\I-J\Johnny Cash - 1996 - Unchained
+APX: k:\uber\DL\I-J\Joshua Kadison - 2001 - Vanishing America
+APX: k:\uber\DL\I-J\Judas Priest - 1988 - Ram It Down
+APX: k:\uber\DL\I-J\Judas Priest - 1998 - '98 Live Meltdown (Disc 1)
+APX: k:\uber\DL\I-J\Judas Priest - 1998 - '98 Live Meltdown (Disc 2)
+APX: k:\uber\DL\I-J\Junior Senior - 2003 - D-D-Don't Don't Stop the Beat
+APX: k:\uber\DL\K-L\Kanye West - 2007 - Graduation
+APX: k:\uber\DL\K-L\Katatonia - 1998 - Discouraged Ones
+APX: k:\uber\DL\K-L\Katatonia - 1999 - Tonight's Decision
+APX: k:\uber\DL\K-L\Keiko Matsui - 1990 - No Borders
+APX: k:\uber\DL\K-L\Keiko Matsui - 1992 - Cherry Blossom
+APX: k:\uber\DL\K-L\Kendall Payne - 1999 - Jordan's Sister
+APX: k:\uber\DL\K-L\Kill Hannah - 1998 - Here Are The Young Moderns
+APX: k:\uber\DL\K-L\Kings Of Leon - 2003 - Holy Roller Novocaine (EP)
+APX: k:\uber\DL\K-L\Korn - 1994 - Korn
+APX: k:\uber\DL\K-L\Korn - 1999 - Issues
+APX: k:\uber\DL\K-L\Kraftwerk - 1970 - Kraftwerk
+APX: k:\uber\DL\K-L\Kraftwerk - 1971 - Kraftwerk 2
+APX: k:\uber\DL\K-L\Kraftwerk - 1975 - Radio-Activity
+APX: k:\uber\DL\K-L\Kraftwerk - 1991 - N1 To ZÅrich Recorded Live In Zurich, Switzerland 1991 [Bootleg]
+APX: k:\uber\DL\K-L\L'Arc~en~Ciel - 2001 - Clicked Singles Best 13
+APX: k:\uber\DL\K-L\Lacuna Coil - 2001 - Unleashed Memories
+APX: k:\uber\DL\K-L\Ladytron - 2005 - Witching Hour
+APX: k:\uber\DL\K-L\Lamb - 2001 - What Sound [2002 Limited Edition] (Bonus Disc)
+APX: k:\uber\DL\K-L\Lamb Of God - 2000 - New American Gospel
+APX: k:\uber\DL\K-L\Lamb Of God - 2006 - Sacrament
+APX: k:\uber\DL\K-L\Led Zeppelin - 1971 - Led Zeppelin IV
+APX: k:\uber\DL\K-L\Led Zeppelin - 1976 - Presence
+APX: k:\uber\DL\K-L\Lenny Kravitz - 1989 - Let Love Rule
+APX: k:\uber\DL\K-L\Lenny Kravitz - 1990 - Mr. Cabdriver (Live Chicago 1990)
+APX: k:\uber\DL\K-L\Lenny Kravitz - 1993 - Believe (EP)
+APX: k:\uber\DL\K-L\Lenny Kravitz - 1993 - Is There any Love in Your Heart
+APX: k:\uber\DL\K-L\Lenny Kravitz - 1994 - Acoustic
+APX: k:\uber\DL\K-L\Lenny Kravitz - 1995 - Circus
+APX: k:\uber\DL\K-L\Lenny Kravitz - 1999 - 5
+APX: k:\uber\DL\K-L\Lifehouse - 2000 - No Name Face
+APX: k:\uber\DL\K-L\Linkin Park - 2002 - Hybrid Theory (Bonus Disc)
+APX: k:\uber\DL\K-L\Live - 1991 - Mental Jewelry
+APX: k:\uber\DL\K-L\Live At KEXP - Volume 1 - 2005
+APX: k:\uber\DL\K-L\Liz Phair - 1994 - Whip-Smart
+APX: k:\uber\DL\K-L\Lordi - 2004 - The Monster Show
+APX: k:\uber\DL\K-L\Lordi - 2006 - The Arockalypse
+APX: k:\uber\DL\K-L\Lords Of Acid - 1991 - Lust [Bonus Tracks]
+APX: k:\uber\DL\K-L\Lords Of Acid - 1992 - Rough Sex (Single)
+APX: k:\uber\DL\K-L\Lords Of Acid - 1994 - Voodoo U
+APX: k:\uber\DL\K-L\Lords Of Acid - 2001 - Farstucker
+APX: k:\uber\DL\K-L\Love Outside Andromeda - 2004 - Love Outside Andromeda
+APX: k:\uber\DL\M-N\Maaya Sakamoto - 1997 - Grapefruit
+APX: k:\uber\DL\M-N\Madonna - 1989 - Like A Prayer
+APX: k:\uber\DL\M-N\Madonna - 1990 - The Immaculate Collection
+APX: k:\uber\DL\M-N\Madonna - 2000 - Music
+APX: k:\uber\DL\M-N\Madonna - 2005 - Confessions On A Dancefloor
+APX: k:\uber\DL\M-N\Manowar - 2001 - Metal Hammer Collection (Bootleg)
+APX: k:\uber\DL\M-N\Marillion - 2003 - Say Cheese! Christmas With Marillion
+APX: k:\uber\DL\M-N\Marilyn Manson - 1995 - Sweet Dreams (Single)
+APX: k:\uber\DL\M-N\Marilyn Manson - 1999 - The Last Tour On Earth
+APX: k:\uber\DL\M-N\Marilyn Manson - 2003 - mOBSCENE (Single) [US]
+APX: k:\uber\DL\M-N\Marilyn Manson - 2003 - The Golden Age Of Grotesque (Special Edition)
+APX: k:\uber\DL\M-N\Marilyn Manson - 2004 - Lest We Forget (The Best Of)
+APX: k:\uber\DL\M-N\Marilyn Manson - 2004 - Lest We Forget (The Best Of) (Disc 2) [Japan]
+APX: k:\uber\DL\M-N\Marilyn Manson - 2004 - Personal Jesus (Single) [AU]
+APX: k:\uber\DL\M-N\Matchbox 20 - 1996 - Yourself Or Someone Like You
+APX: k:\uber\DL\M-N\Megadeth - 1988 - So Far, So Good ... So What!
+APX: k:\uber\DL\M-N\Megadeth - 1994 - Youthanasia
+APX: k:\uber\DL\M-N\MercyMe - 2001 - Almost There
+APX: k:\uber\DL\M-N\MercyMe - 2002 - Spoken For
+APX: k:\uber\DL\M-N\Metallica - 1982 - Live Before Death (Vol. 1) (Bootleg)
+APX: k:\uber\DL\M-N\Metallica - 1984 - Live Before Death (Vol. 2) (Bootleg)
+APX: k:\uber\DL\M-N\Metallica - 1994 - One (Single) [Japan]
+APX: k:\uber\DL\M-N\Metallica - 1998 - Bay Area Thrashers The Early Days
+APX: k:\uber\DL\M-N\Metallica - 1998 - Turn The Page (Single)
+APX: k:\uber\DL\M-N\Metallica - 2003 - St. Anger (Single)
+APX: k:\uber\DL\M-N\Metallica - 2003 - The Unnamed Feeling (EP)
+APX: k:\uber\DL\M-N\Michael W. Smith - 1990 - Go West Young Man
+APX: k:\uber\DL\M-N\Mike Oldfield - 1973 - Tubular Bells
+APX: k:\uber\DL\M-N\Mindless Self Indulgence - 2008 - If
+APX: k:\uber\DL\M-N\Mint Royale - 2002 - Sexiest Man In Jamaica
+APX: k:\uber\DL\M-N\Mirah - 2001 - Advisory Committee
+APX: k:\uber\DL\M-N\Mogwai - 1998 - Kicking a Dead Pig (Disc 1)
+APX: k:\uber\DL\M-N\Mogwai - 1998 - Kicking a Dead Pig (Disc 2) (Mogwai Fear Satan Remixes)
+APX: k:\uber\DL\M-N\Mogwai - 2008 - The Hawk Is Howling
+APX: k:\uber\DL\M-N\Morphine - 1997 - B-Sides And Otherwise
+APX: k:\uber\DL\M-N\Morphine - 2000 - Bootleg Detroit [Promo]
+APX: k:\uber\DL\M-N\Motîrhead - 1983 - Another Perfect Day
+APX: k:\uber\DL\M-N\Motîrhead - 1990 - Keep Us On The Road
+APX: k:\uber\DL\M-N\Motîrhead - 1990 - Lock Up Your Daughters
+APX: k:\uber\DL\M-N\Motîrhead - 1992 - Ace Of Spades [Masters Of Rock]
+APX: k:\uber\DL\M-N\Motîrhead - 1992 - Spotlight Motîrhead
+APX: k:\uber\DL\M-N\Motîrhead - 1993 - The Best Of & The Rest Of Motîrhead Volume 2
+APX: k:\uber\DL\M-N\Motîrhead - 1996 - Overnight Sensation
+APX: k:\uber\DL\M-N\Muse - 2003 - Time Is Running Out [EP]
+APX: k:\uber\DL\M-N\Nada Surf - 2002 - Let Go [Bonus Tracks]
+APX: k:\uber\DL\M-N\Natalie MacMaster - 2003 - Blueprint
+APX: k:\uber\DL\M-N\Natasha Bedingfield - 2004 - Unwritten [Bonus Tracks]
+APX: k:\uber\DL\M-N\Nelly Furtado - 2000 - Whoa, Nelly!
+APX: k:\uber\DL\M-N\Nevermore - 2000 - Dead Heart, In A Dead World
+APX: k:\uber\DL\M-N\Newsboys - 2000 - Shine The Hits
+APX: k:\uber\DL\M-N\Nickelback - 1996 - Curb
+APX: k:\uber\DL\M-N\Nine Inch Nails - 1992 - Broken (EP)
+APX: k:\uber\DL\M-N\Nine Inch Nails - 1995 - Further Down the Spiral
+APX: k:\uber\DL\M-N\Nine Inch Nails - 2002 - And All That Could Have Been
+APX: k:\uber\DL\M-N\Nine Inch Nails - 2007 - Year Zero
+APX: k:\uber\DL\M-N\No Doubt - 1992 - No Doubt
+APX: k:\uber\DL\M-N\No Doubt - 2003 - Everything In Time
+APX: k:\uber\DL\M-N\Nobuo Uematsu - 1994 - Final Fantasy VI Piano Collections
+APX: k:\uber\DL\M-N\Now 66 - Apr 2007\Now 66 (Disc 1) - 2007
+APX: k:\uber\DL\M-N\Now 66 - Apr 2007\Now 66 (Disc 2) - 2007
+APX: k:\uber\DL\O-P\Oak - 2007 - Sleep Dream Walk Enter
+APX: k:\uber\DL\O-P\One-Hit Wonders (Disc 3) - 2001
+APX: k:\uber\DL\O-P\Oomph! - 1999 - Plastik
+APX: k:\uber\DL\O-P\Ozzy Osbourne - 1981 - Diary Of A Madman
+APX: k:\uber\DL\O-P\Ozzy Osbourne - 1997 - The Ozzman Cometh (Disc 1)
+APX: k:\uber\DL\O-P\Ozzy Osbourne - 1997 - The Ozzman Cometh (Disc 2)
+APX: k:\uber\DL\O-P\Pain - 1996 - Midgets With Guns
+APX: k:\uber\DL\O-P\Pain - 1997 - Wonderful Beef
+APX: k:\uber\DL\O-P\Papa Roach - 2002 - Lovehatetragedy
+APX: k:\uber\DL\O-P\Peter Gabriel - 1983 - Plays Live (Disc 1)
+APX: k:\uber\DL\O-P\Peter Gabriel - 1983 - Plays Live (Disc 2)
+APX: k:\uber\DL\O-P\Peter Gabriel - 1992 - Digging In The Dirt (Maxi Single)
+APX: k:\uber\DL\O-P\Peter Gabriel - 1993 - Blood Of Eden (Maxi Single)
+APX: k:\uber\DL\O-P\Peter Gabriel - 1993 - Kiss That Frog (Maxi Single)
+APX: k:\uber\DL\O-P\Peter Gabriel - 1993 - Steam (EP)
+APX: k:\uber\DL\O-P\Peter Gabriel - 1994 - Lovetown (Maxi Single)
+APX: k:\uber\DL\O-P\Peter Gabriel - 1994 - Secret World Live (EP)
+APX: k:\uber\DL\O-P\Phoenix - 2004 - Alphabetical
+APX: k:\uber\DL\O-P\Pink Floyd - 1970 - Atom Heart Mother [Original Master Recording]
+APX: k:\uber\DL\O-P\Pink Floyd - 1973 - The Dark Side Of The Moon
+APX: k:\uber\DL\O-P\Pink Floyd - 1979 - The Wall\Pink Floyd - 1979 - The Wall (Disc 1)
+APX: k:\uber\DL\O-P\Pink Floyd - 1979 - The Wall\Pink Floyd - 1979 - The Wall (Disc 2)
+APX: k:\uber\DL\O-P\Pink Floyd - 1987 - A Momentary Lapse Of Reason
+APX: k:\uber\DL\O-P\Porcupine Tree - 2005 - Deadwing
+APX: k:\uber\DL\O-P\Porcupine Tree - Lightbulb Sun Special Edition\Porcupine Tree - 2001 - Lightbulb Sun Special Edition (Disc 1)
+APX: k:\uber\DL\O-P\Porcupine Tree - Lightbulb Sun Special Edition\Porcupine Tree - 2001 - Lightbulb Sun Special Edition (Disc 2)
+APX: k:\uber\DL\O-P\Project Pitchfork - 1998 - Eon Eon
+APX: k:\uber\DL\O-P\Puddle Of Mudd - 2002 - She Hates Me (Single)
+APX: k:\uber\DL\Q-R\Queen + Paul Rodgers - Return Of The Champions\Queen + Paul Rodgers - 2005 - Return Of The Champions (Disc 1)
+APX: k:\uber\DL\Q-R\Queen + Paul Rodgers - Return Of The Champions\Queen + Paul Rodgers - 2005 - Return Of The Champions (Disc 2)
+APX: k:\uber\DL\Q-R\Queen - 1977 - News Of The World [MFSL]
+APX: k:\uber\DL\Q-R\Queen - 1977 - News Of The World [Mobile Fidelity]
+APX: k:\uber\DL\Q-R\Queen - 1979 - Live Killers (Disc 1)
+APX: k:\uber\DL\Q-R\Queen - 1979 - Live Killers (Disc 2)
+APX: k:\uber\DL\Q-R\Queen - 1991 - Bohemian Rhapsody (Single)
+APX: k:\uber\DL\Q-R\Queen - 1992 - Classic Queen
+APX: k:\uber\DL\Q-R\Queen - 1994 - Greatest Hits II
+APX: k:\uber\DL\Q-R\Queen - 2001 - The Platinum Collection - Greatest Hits I, II & III (Disc 1)
+APX: k:\uber\DL\Q-R\Queens Of The Stone Age - 2000 - R
+APX: k:\uber\DL\Q-R\Queens Of The Stone Age - 2002 - No One Knows (Single)
+APX: k:\uber\DL\Q-R\Queens Of The Stone Age - 2002 - Songs For The Deaf
+APX: k:\uber\DL\Q-R\Radiohead - 1997 - Moonstruck
+APX: k:\uber\DL\Q-R\Radiohead - 2003 - 2+2=5 (Single, Disc 1)
+APX: k:\uber\DL\Q-R\Radiohead - 2003 - 2+2=5 (Single, Disc 2)
+APX: k:\uber\DL\Q-R\Rainbow - 1982 - Straight Between The Eyes
+APX: k:\uber\DL\Q-R\Rammstein - 1997 - Engel (EP) [Fan Edition]
+APX: k:\uber\DL\Q-R\Rammstein - 2004 - Mein Teil (Single)
+APX: k:\uber\DL\Q-R\Ramones - 1987 - Halfway To Sanity
+APX: k:\uber\DL\Q-R\Ramones - 1988 - Halfway To Russia - Live In Finland 1988 [Bootleg]
+APX: k:\uber\DL\Q-R\Ramones - 1997 - We're Outta Here
+APX: k:\uber\DL\Q-R\Red Hot Chili Peppers - 1992 - What Hits!
+APX: k:\uber\DL\Q-R\Red Hot Chili Peppers - 1995 - One Hot Minute
+APX: k:\uber\DL\Q-R\Regina Spektor - 2004 - Soviet Kitsch
+APX: k:\uber\DL\Q-R\Rhapsody - 2000 - Dawn Of Victory (Bonus Disc)
+APX: k:\uber\DL\Q-R\Rilo Kiley - 2001 - Take Offs And Landings
+APX: k:\uber\DL\Q-R\Ringo Shiina - 1999 - Muzai Moratorium (Innocence Moratorium)
+APX: k:\uber\DL\Q-R\Ringo Shiina - 2003 - Karuki Zamen Kuri no Hana
+APX: k:\uber\DL\Q-R\Robert Miles - 1997 - 23 AM
+APX: k:\uber\DL\Q-R\Robert Miles Featuring Maria Nayler\Robert Miles Featuring Maria Nayler - 1996 - One & One (Single - Disc 1)
+APX: k:\uber\DL\Q-R\Ryan Cabrera - 2004 - Take It All Away
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1983 - Merry Christmas Mr. Lawrence (OST)
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1984 - Illustrated Musical Encyclopedia
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1986 - Media Bahn Live
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1986 - Miraiha Yaro (Futurista)
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1988 - Neo Geo
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1989 - Playing The Orchestra (Disc 1)
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1989 - Playing The Orchestra (Disc 2)
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1989 - Undo #1 (Maxi Single)
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1990 - Beauty
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1991 - Heartbeat
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1992 - El Mar Mediterrani
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1993 - Aile De Honneamise - Royal Space Force (OST)
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1994 - Hard Revenge
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1994 - Little Buddha (OST)
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1994 - Love & Hate (Remix Single)
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1994 - Soundbytes
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1994 - Sweet Revenge
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1995 - Sweet Revenge Tour 1994
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1996 - 1996
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1996 - Smoochy
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1996 - Snooty (EP)
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1998 - Anger Grief (EP)
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1998 - Discord
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1998 - Love Is The Devil (OST)
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1998 - Prayer Salvation Remix
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1999 - BTTB
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1999 - Cinemage
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - 1999 - Discord - Remixes
+APX: k:\uber\DL\Q-R\Ryuichi Sakamoto - The Last Emperor (OST) - 1987
+APX: k:\uber\DL\S-T\Saga - 1993 - 1978-1993 All The Best
+APX: k:\uber\DL\S-T\Scorpions - 2001 - Acoustica [Live In Lisbon]
+APX: k:\uber\DL\S-T\Scorpions - 2004 - Unbreakable
+APX: k:\uber\DL\S-T\Scorpions - 2006 - Gold (Disc 1)
+APX: k:\uber\DL\S-T\Scorpions - 2006 - Gold (Disc 2)
+APX: k:\uber\DL\S-T\Skinny Puppy - 1996 - The Process
+APX: k:\uber\DL\S-T\Skinny Puppy - 2004 - The Greater Wrong of the Right
+APX: k:\uber\DL\S-T\Sonata Arctica - 2000 - Successor
+APX: k:\uber\DL\S-T\Soundgarden - 1991 - Badmotorfinger
+APX: k:\uber\DL\S-T\Soundgarden - 1994 - Fell On Black Days [Black Disc] (EP)
+APX: k:\uber\DL\S-T\Soundgarden - 1996 - Australia-New Zealand Tour Edition Bonus Disc
+APX: k:\uber\DL\S-T\Spyro Gyra - 2003 - Original Cinema
+APX: k:\uber\DL\S-T\Static-X - 1999 - Wisconsin Death Trip
+APX: k:\uber\DL\S-T\Sting - 1986 - Bring On The Night (Disc 1)
+APX: k:\uber\DL\S-T\Sting - 1986 - Bring On The Night (Disc 2)
+APX: k:\uber\DL\S-T\Sting - 1991 - All Thease Time (MTV Unplugged) [Bootleg] (Disc 1)
+APX: k:\uber\DL\S-T\Sting - 1991 - All Thease Time (MTV Unplugged) [Bootleg] (Disc 2)
+APX: k:\uber\DL\S-T\Styx - 1983 - Kilroy Was Here
+APX: k:\uber\DL\S-T\Styx - 1987 - Boat On The River
+APX: k:\uber\DL\S-T\Styx - 1995 - Greatest Hits
+APX: k:\uber\DL\S-T\Talking Heads - 1988 - Naked
+APX: k:\uber\DL\S-T\Tantric - 2004 - After We Go
+APX: k:\uber\DL\S-T\Tears For Fears - 2000 - 20th Century Masters, The Millennium Collection The Best Of Tears For Fears
+APX: k:\uber\DL\S-T\Tegan and Sara - 2004 - So Jealous
+APX: k:\uber\DL\S-T\Ten Years After - 1969 - Ssssh
+APX: k:\uber\DL\S-T\The Doors - 1967 - Live In Los Angeles
+APX: k:\uber\DL\S-T\The Doors - 1997 - Box Set (Disc 1) - Without A Safety Net
+APX: k:\uber\DL\S-T\The Doors - 1997 - Box Set (Disc 2) - Live In New York
+APX: k:\uber\DL\S-T\The Doors - 1997 - Box Set (Disc 3) - The Future Ain't What It Used To Be
+APX: k:\uber\DL\S-T\The Doors - 1997 - Box Set (Disc 4) - Band Favorites
+APX: k:\uber\DL\S-T\The Doors - 1999 - Essential Rarities
+APX: k:\uber\DL\S-T\The Dresden Dolls - 2004 - A Is For Accident
+APX: k:\uber\DL\S-T\The Killers - 2002 - Screaming Blue Murder
+APX: k:\uber\DL\S-T\The Magnetic Fields - 1995 - The Wayward Bus - Distant Plastic Trees
+APX: k:\uber\DL\S-T\The Moody Blues - 1968 - In Search Of The Lost Chord
+APX: k:\uber\DL\S-T\The Moody Blues - 1969 - On The Threshold Of A Dream
+APX: k:\uber\DL\S-T\The Moody Blues - 1971 - Every Good Boy Deserves Favour
+APX: k:\uber\DL\S-T\The Moody Blues - 1977 - Caught Live +5
+APX: k:\uber\DL\S-T\The Moody Blues - 1981 - Long Distance Voyager
+APX: k:\uber\DL\S-T\The Moody Blues - 1989 - Greatest Hits
+APX: k:\uber\DL\S-T\The Moody Blues - 1991 - Keys of the Kingdom
+APX: k:\uber\DL\S-T\The Moody Blues - 1996 - The Best Of The Moody Blues
+APX: k:\uber\DL\S-T\The Moody Blues - 1999 - Strange Times
+APX: k:\uber\DL\S-T\The Moody Blues - 2003 - December
+APX: k:\uber\DL\S-T\The Moody Blues - 2007 - Collected (Disc 1)
+APX: k:\uber\DL\S-T\The Moody Blues - 2007 - Collected (Disc 2)
+APX: k:\uber\DL\S-T\The Moody Blues - 2007 - Collected (Disc 3)
+APX: k:\uber\DL\S-T\The Orange Peels - 1997 - Square
+APX: k:\uber\DL\S-T\The Orange Peels - 2001 - So Far
+APX: k:\uber\DL\S-T\The Orange Peels - 2005 - Circling the Sun
+APX: k:\uber\DL\S-T\The Police - 1981 - Ghost In The Machine (2003 Remaster)
+APX: k:\uber\DL\S-T\The Polyphonic Spree - 2003 - The Beginning Stages of... (Bonus Disc)
+APX: k:\uber\DL\S-T\The Sisters of Mercy - 1987 - Floodland
+APX: k:\uber\DL\S-T\The Sisters Of Mercy - 1993 - A Slight Case Of Overbombing Greatest Hits, Vol. One
+APX: k:\uber\DL\S-T\The Verve - 1997 - Urban Hymns
+APX: k:\uber\DL\S-T\Therion - 1997 - A'arab Zaraq Lucid Dreaming
+APX: k:\uber\DL\S-T\Therion - 2001 - Secret Of The Runes [Limited Edition Digipack]
+APX: k:\uber\DL\S-T\They Might Be Giants - 2001 - Holidayland
+APX: k:\uber\DL\S-T\Third Day - 2000 - Offerings A Worship Album
+APX: k:\uber\DL\S-T\Thrice - 2003 - The Artist In The Ambulance
+APX: k:\uber\DL\S-T\Top Gear 2 (Disc 2) - 1995
+APX: k:\uber\DL\S-T\Toto - 1984 - Dune (OST)
+APX: k:\uber\DL\S-T\Toto - 1999 - Livefields (Limited Edition) (Bonus Disc) (Disc 2)
+APX: k:\uber\DL\S-T\Toto - 1999 - Livefields (Limited Edition) (Disc 1)
+APX: k:\uber\DL\S-T\Travis - 2001 - The Invisible Band
+APX: k:\uber\DL\S-T\Tristania - 1999 - Beyond The Veil [DE]
+APX: k:\uber\DL\S-T\Twisted Sister - 1992 - Big Hits And Nasty Cuts (The Best Of Twisted Sister)
+APX: k:\uber\DL\U-W\U2 - 1980 - Boy
+APX: k:\uber\DL\U-W\U2 - 1981 - October
+APX: k:\uber\DL\U-W\U2 - 1991 - Achtung Baby
+APX: k:\uber\DL\U-W\U2 - 1997 - Mofo Remixes (Single)
+APX: k:\uber\DL\U-W\U2 - 2002 - The Best of 1990-2000 (Disc 2)
+APX: k:\uber\DL\U-W\Ultravox - 1981 - Rage In Eden
+APX: k:\uber\DL\U-W\Ultravox - 1986 - U-VOX
+APX: k:\uber\DL\U-W\Ultravox - 1993 - Slow Motion
+APX: k:\uber\DL\U-W\Ultravox - 1998 - Original Gold (Disc 1)
+APX: k:\uber\DL\U-W\Ultravox - 1998 - Original Gold (Disc 2)
+APX: k:\uber\DL\U-W\Vanessa-Mae - 2004 - Choreography
+APX: k:\uber\DL\U-W\VNV Nation - 2005 - Matter + Form
+APX: k:\uber\DL\U-W\Wamdue Project - 1999 - King Of My Castle (Single)
+APX: k:\uber\DL\X-Z\Yes - 1971 - The Yes Album
+APX: k:\uber\DL\X-Z\Yes - 1994 - Talk
+APX: k:\uber\DL\X-Z\ZZ Top - 1975 - Fandango
+APX: k:\uber\DL\X-Z\ZZ Top - 1987 - Live USA (Una Hermosa Noche)
+APX: k:\uber\DL\X-Z\ZZ Top - 1997 - ZZ Top
+APX: k:\uber\DL\X-Z\ZZ Top - 2003 - Chrome, Smoke & BBQ (Disc 3)
+APX: k:\uber\DL\X-Z\ZZ Top - 2003 - Chrome, Smoke & BBQ (Disc 4)
+APX: k:\uber\DL\X-Z\ZZ Top - 2003 - Mescalero
+APX: k:\uber\DL\X-Z\ZZ Top - 2004 - Rancho Texicano (Disc 1) (The Very Best Of ZZ Top)
+APX: k:\uber\DL\X-Z\ZZ Top - 2004 - Rancho Texicano (Disc 2) (The Very Best Of ZZ Top)
+APX: k:\uber\Rips\Evanescence - 2006 - The Open Door
+NoPun: k:\uber\DL\+OST
+NoPun: k:\uber\DL\0-#
+NoPun: k:\uber\DL\A-B\Burzum - 1997 - Daudi Baldrs\scans
+NoPun: k:\uber\DL\A-B
+NoPun: k:\uber\DL\C-D
+NoPun: k:\uber\DL\E-F
+NoPun: k:\uber\DL\G-H
+NoPun: k:\uber\DL\I-J\Indigo Girls - 1987 - Strange Fire
+NoPun: k:\uber\DL\I-J
+NoPun: k:\uber\DL\K-L
+NoPun: k:\uber\DL\M-N\Muse - 2002 - Hullabaloo
+NoPun: k:\uber\DL\M-N\Now 66 - Apr 2007
+NoPun: k:\uber\DL\M-N
+NoPun: k:\uber\DL\O-P\Pink Floyd - 1979 - The Wall
+NoPun: k:\uber\DL\O-P\Porcupine Tree - Lightbulb Sun Special Edition
+NoPun: k:\uber\DL\O-P
+NoPun: k:\uber\DL\Q-R\Queen + Paul Rodgers - Return Of The Champions
+NoPun: k:\uber\DL\Q-R\Queen - 1992 - Opera Omnia
+NoPun: k:\uber\DL\Q-R\Robert Miles Featuring Maria Nayler
+NoPun: k:\uber\DL\Q-R
+NoPun: k:\uber\DL\S-T\The Sisters Of Mercy - 1993 - A Slight Case Of Overbombing Greatest Hits, Vol. One\Covers
+NoPun: k:\uber\DL\S-T
+NoPun: k:\uber\DL\U-W
+NoPun: k:\uber\DL\X-Z
+NoPun: k:\uber\DL
+NoPun: k:\uber\Flac
+NoPun: k:\uber\Rips
+NoPun: k:\uber
+Flac: k:\uber\DL\C-D\Diana Krall - 1997 - Love Scenes [DTS]
+Flac: k:\uber\DL\C-D\DJ Danger Mouse - The Grey Album
+Flac: k:\uber\DL\K-L\Luna - 1999 - The Days Of Our Nights
+Flac: k:\uber\DL\M-N\Nine Inch Nails - Ghosts I - II (Disc 1)
+Flac: k:\uber\DL\M-N\Nine Inch Nails - Ghosts III - IV (Disc 2)
+Flac: k:\uber\DL\M-N\Nine Inch Nails - With Teeth
+Flac: k:\uber\DL\M-N\Nizlopi - (2005) Half These Songs Are About You
+Flac: k:\uber\DL\Q-R\Rush - 1975 - Fly By Night
+Flac: k:\uber\DL\S-T\The White Stripes - Elephant
+Flac: k:\uber\Flac\Britney Spears - Everytime (Cheesecake Happy Hardcore Remix) (Single)
+Flac: k:\uber\Flac\Caribou - 2007 - Andorra
+Flac: k:\uber\Flac\Clannad - Magical Ring
+NoMP3: k:\uber\DL\C-D\Diana Krall - 1997 - Love Scenes [DTS]
+NoMP3: k:\uber\DL\C-D\DJ Danger Mouse - The Grey Album
+NoMP3: k:\uber\DL\K-L\Luna - 1999 - The Days Of Our Nights
+NoMP3: k:\uber\DL\M-N\Nine Inch Nails - Ghosts I - II (Disc 1)
+NoMP3: k:\uber\DL\M-N\Nine Inch Nails - Ghosts III - IV (Disc 2)
+NoMP3: k:\uber\DL\M-N\Nine Inch Nails - With Teeth
+NoMP3: k:\uber\DL\M-N\Nizlopi - (2005) Half These Songs Are About You
+NoMP3: k:\uber\DL\Q-R\Rush - 1975 - Fly By Night
+NoMP3: k:\uber\DL\S-T\The White Stripes - Elephant
+NoMP3: k:\uber\Flac\Britney Spears - Everytime (Cheesecake Happy Hardcore Remix) (Single)
+NoMP3: k:\uber\Flac\Caribou - 2007 - Andorra
+NoMP3: k:\uber\Flac\Clannad - Magical Ring
+Empty Count: 26
+NoLog Count: 28
+APX Count: 499
+NoPun Count: 28
+Flac Count: 12
+Error Count: 0

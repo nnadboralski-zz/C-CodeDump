@@ -1,0 +1,14 @@
+c:\users\nadboral\documents\visual studio 2010\Projects\scHide\scHide\bin\Debug\scHide.exe
+c:\users\nadboral\documents\visual studio 2010\Projects\scHide\scHide\bin\Debug\scHide.pdb
+c:\users\nadboral\documents\visual studio 2010\Projects\scHide\scHide\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nadboral\documents\visual studio 2010\Projects\scHide\scHide\obj\x86\Debug\scHide.Properties.Resources.resources
+c:\users\nadboral\documents\visual studio 2010\Projects\scHide\scHide\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\nadboral\documents\visual studio 2010\Projects\scHide\scHide\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\nadboral\documents\visual studio 2010\Projects\scHide\scHide\obj\x86\Debug\scHide.exe
+c:\users\nadboral\documents\visual studio 2010\Projects\scHide\scHide\obj\x86\Debug\scHide.pdb
+C:\Projects\gitWorthy\scHide\scHide\obj\x86\Debug\scHide.exe
+C:\Projects\gitWorthy\scHide\scHide\obj\x86\Debug\scHide.pdb
+C:\Projects\gitWorthy\scHide\scHide\bin\Debug\scHide.exe
+C:\Projects\gitWorthy\scHide\scHide\bin\Debug\scHide.pdb
+C:\Projects\gitWorthy\scHide\scHide\obj\x86\Debug\scHide.Properties.Resources.resources
+C:\Projects\gitWorthy\scHide\scHide\obj\x86\Debug\scHide.csproj.GenerateResource.Cache

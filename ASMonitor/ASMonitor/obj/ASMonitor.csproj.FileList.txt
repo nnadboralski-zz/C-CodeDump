@@ -1,0 +1,2 @@
+obj\Debug\ASMonitor.exe
+obj\Debug\ASMonitor.pdb

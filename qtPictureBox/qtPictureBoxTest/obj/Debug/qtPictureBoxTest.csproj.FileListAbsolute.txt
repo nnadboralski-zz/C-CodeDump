@@ -1,0 +1,10 @@
+C:\Projects\gitWorthy\qtPictureBox\qtPictureBoxTest\obj\Debug\qtPictureBoxTest.exe
+C:\Projects\gitWorthy\qtPictureBox\qtPictureBoxTest\obj\Debug\qtPictureBoxTest.pdb
+C:\Projects\gitWorthy\qtPictureBox\qtPictureBoxTest\bin\Debug\qtPictureBoxTest.exe
+C:\Projects\gitWorthy\qtPictureBox\qtPictureBoxTest\bin\Debug\qtPictureBoxTest.pdb
+C:\Projects\gitWorthy\qtPictureBox\qtPictureBoxTest\bin\Debug\qtPictureBox.dll
+C:\Projects\gitWorthy\qtPictureBox\qtPictureBoxTest\bin\Debug\qtPictureBox.pdb
+C:\Projects\gitWorthy\qtPictureBox\qtPictureBoxTest\obj\Debug\qtPictureBoxTest.csprojResolveAssemblyReference.cache
+C:\Projects\gitWorthy\qtPictureBox\qtPictureBoxTest\obj\Debug\qtPictureBoxTest.Form1.resources
+C:\Projects\gitWorthy\qtPictureBox\qtPictureBoxTest\obj\Debug\qtPictureBoxTest.Properties.Resources.resources
+C:\Projects\gitWorthy\qtPictureBox\qtPictureBoxTest\obj\Debug\qtPictureBoxTest.csproj.GenerateResource.Cache

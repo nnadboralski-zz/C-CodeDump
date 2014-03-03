@@ -1,0 +1,15 @@
+D:\Projects\UberList\UberList\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\UberList\UberList\bin\Debug\UberList.exe
+D:\Projects\UberList\UberList\bin\Debug\UberList.pdb
+D:\Projects\UberList\UberList\obj\Debug\UberList.exe
+D:\Projects\UberList\UberList\obj\Debug\UberList.pdb
+D:\Projects\UberList\UberList\bin\Release\UberList.exe
+D:\Projects\UberList\UberList\bin\Release\UberList.pdb
+D:\Projects\UberList\UberList\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\UberList\UberList\obj\Release\UberList.exe
+D:\Projects\UberList\UberList\obj\Release\UberList.pdb
+D:\Projects\UberList\UberList\bin\Debug\taglib-sharp.dll
+D:\Projects\UberList\UberList\bin\Debug\Bass.Net.dll
+D:\Projects\UberList\UberList\bin\Debug\Bass.Net.xml
+D:\Projects\UberList\UberList\bin\Release\taglib-sharp.dll
+D:\Projects\UberList\UberList\bin\Release\Bass.Net.xml

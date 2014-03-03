@@ -1,0 +1,9 @@
+C:\Projects\gitWorthy\Plurky\Plurky\obj\Debug\Plurky.exe
+C:\Projects\gitWorthy\Plurky\Plurky\obj\Debug\Plurky.pdb
+C:\Projects\gitWorthy\Plurky\Plurky\bin\Debug\Plurky.exe
+C:\Projects\gitWorthy\Plurky\Plurky\bin\Debug\Plurky.pdb
+C:\Projects\gitWorthy\Plurky\Plurky\obj\Debug\Plurky.csprojResolveAssemblyReference.cache
+C:\Projects\gitWorthy\Plurky\Plurky\obj\Debug\Plurky.Form1.resources
+C:\Projects\gitWorthy\Plurky\Plurky\obj\Debug\Plurky.PlurkUserInfo.resources
+C:\Projects\gitWorthy\Plurky\Plurky\obj\Debug\Plurky.Properties.Resources.resources
+C:\Projects\gitWorthy\Plurky\Plurky\obj\Debug\Plurky.csproj.GenerateResource.Cache

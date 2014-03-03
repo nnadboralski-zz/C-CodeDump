@@ -1,0 +1,5 @@
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-concentra2mm\hp-tac-concentra2mm\bin\Debug\hp-tac-concentra2mm.exe
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-concentra2mm\hp-tac-concentra2mm\bin\Debug\hp-tac-concentra2mm.pdb
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-concentra2mm\hp-tac-concentra2mm\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-concentra2mm\hp-tac-concentra2mm\obj\x86\Debug\hp-tac-concentra2mm.exe
+c:\users\nadboral\documents\visual studio 2010\Projects\hp-tac-concentra2mm\hp-tac-concentra2mm\obj\x86\Debug\hp-tac-concentra2mm.pdb
